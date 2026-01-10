@@ -1,0 +1,51 @@
+  [
+    {
+      "name": "CET-4词汇",
+      "filename": "cet4.json",
+      "wordCount": 7508,
+      "size": 9920000,
+      "description": "大学英语四级核心词汇"
+    },
+    {
+      "name": "CET-6词汇",
+      "filename": "cet6.json",
+      "wordCount": 5651,
+      "size": 4380000,
+      "description": "大学英语六级核心词汇"
+    },
+    {
+      "name": "初中词汇",
+      "filename": "chuzhong.json",
+      "wordCount": 7508,
+      "size": 4460000,
+      "description": "初中词汇"
+    },
+    {
+      "name": "高中词汇",
+      "filename": "gaozhong.json",
+      "wordCount": 6008,
+      "size": 6910000,
+      "description": "高中词汇"
+    },
+    {
+      "name": "考研词汇",
+      "filename": "kaoyan.json",
+      "wordCount": 9602,
+      "size": 9140000,
+      "description": "考研词汇"
+    },
+    {
+      "name": "SAT词汇",
+      "filename": "sat.json",
+      "wordCount": 8887,
+      "size": 4270000,
+      "description": "SAT核心词汇"
+    },
+        {
+      "name": "托福词汇",
+      "filename": "tuofu.json",
+      "wordCount": 13477,
+      "size": 9160000,
+      "description": "托福词汇"
+    }
+  ]
