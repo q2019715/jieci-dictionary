@@ -1,0 +1,18 @@
+stages: [deploy]
+
+deploy_prod:
+  stage: deploy
+  tags: [web]   # 没有 tag 就删掉这一行
+  resource_group: prod_deploy
+  rules:
+    - if: '$CI_PIPELINE_SOURCE == "push" && $CI_COMMIT_BRANCH == "main"'
+  script:
+    - set -euo pipefail
+    - set -x
+    - SRC="$CI_PROJECT_DIR/"
+    - DEST="/www/wwwroot/api.jieci.top/"
+
+    - test -d "$SRC"
+    - test -d "$DEST"
+
+    - rsync -rlDv --delete-after --exclude='.git/'   --exclude='.well-known/'   --exclude='.user.ini'   "$SRC" "$DEST"
