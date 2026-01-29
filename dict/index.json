@@ -21,6 +21,13 @@
       "description": "大学英语六级核心词汇"
     },
     {
+      "name": "CET-6词汇-音标例句加强版",
+      "filename": "cet6-plus.json",
+      "wordCount": 5651,
+      "size": 11380000,
+      "description": "大学英语六级核心词汇，包含音标与例句"
+    },
+    {
       "name": "初中词汇",
       "filename": "chuzhong.json",
       "wordCount": 7508,
