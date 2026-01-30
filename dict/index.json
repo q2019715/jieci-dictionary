@@ -49,6 +49,13 @@
       "description": "考研词汇"
     },
     {
+      "name": "考研词汇-音标例句加强版",
+      "filename": "kaoyan-plus.json",
+      "wordCount": 9602,
+      "size": 9140000,
+      "description": "考研词汇-加强音标与例句"
+    },
+    {
       "name": "SAT词汇",
       "filename": "sat.json",
       "wordCount": 8887,
