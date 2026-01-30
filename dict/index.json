@@ -7,11 +7,11 @@
       "description": "大学英语四级核心词汇"
     },
     {
-      "name": "CET-4词汇-音标例句加强版",
+      "name": "CET-4词汇-加强",
       "filename": "cet4-plus.json",
       "wordCount": 7508,
       "size": 19920000,
-      "description": "大学英语四级核心词汇,包含音标与例句."
+      "description": "大学英语四级核心词汇,包含音标与例句版本"
     },
     {
       "name": "CET-6词汇",
@@ -21,7 +21,7 @@
       "description": "大学英语六级核心词汇"
     },
     {
-      "name": "CET-6词汇-音标例句加强版",
+      "name": "CET-6词汇-加强",
       "filename": "cet6-plus.json",
       "wordCount": 5651,
       "size": 11380000,
@@ -49,7 +49,7 @@
       "description": "考研词汇"
     },
     {
-      "name": "考研词汇-音标例句加强版",
+      "name": "考研词汇-加强",
       "filename": "kaoyan-plus.json",
       "wordCount": 9602,
       "size": 9140000,
