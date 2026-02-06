@@ -28,6 +28,13 @@
       "description": "大学英语六级核心词汇，包含音标与例句"
     },
     {
+      "name": "小学词汇-音标例句",
+      "filename": "cet6-plus.json",
+      "wordCount": 228,
+      "size": 3120000,
+      "description": "小学词汇-音标例句"
+    },
+    {
       "name": "初中词汇",
       "filename": "chuzhong.json",
       "wordCount": 7508,
