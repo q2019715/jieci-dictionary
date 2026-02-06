@@ -10047,5 +10047,728 @@
     "phonetics": { "uk": "/ˈevriwʌn/", "us": "/ˈevriwʌn/" },
     "translations": [{ "type": "pron", "translation": "每人" }],
     "sentence_examples": [{ "en": "Everyone is here.", "zh": "大家都在这里。" }]
+  },
+  {
+    "word": "younger",
+    "phonetics": { "uk": "/ˈjʌŋɡə/", "us": "/ˈjʌŋɡər/" },
+    "translations": [{ "type": "adj", "translation": "更年轻的（young 的比较级）" }],
+    "sentence_examples": [
+      { "en": "My brother is younger than me.", "zh": "我的弟弟比我更年轻。" }
+    ]
+  },
+  {
+    "word": "older",
+    "phonetics": { "uk": "/ˈəʊldə/", "us": "/ˈoʊldər/" },
+    "translations": [{ "type": "adj", "translation": "更年长的（old 的比较级）" }],
+    "sentence_examples": [
+      { "en": "Grandpa is older than Dad.", "zh": "爷爷比爸爸年纪更大。" }
+    ]
+  },
+  {
+    "word": "taller",
+    "phonetics": { "uk": "/ˈtɔːlə/", "us": "/ˈtɔːlər/" },
+    "translations": [{ "type": "adj", "translation": "更高的（tall 的比较级）" }],
+    "sentence_examples": [
+      { "en": "Amy is taller than Lily.", "zh": "艾米比莉莉更高。" }
+    ]
+  },
+  {
+    "word": "shorter",
+    "phonetics": { "uk": "/ˈʃɔːtə/", "us": "/ˈʃɔːrtər/" },
+    "translations": [{ "type": "adj", "translation": "更矮的；更短的（short 的比较级）" }],
+    "sentence_examples": [
+      { "en": "This ruler is shorter than that one.", "zh": "这把尺子比那把更短。" }
+    ]
+  },
+  {
+    "word": "longer",
+    "phonetics": { "uk": "/ˈlɒŋɡə/", "us": "/ˈlɔːŋɡər/" },
+    "translations": [{ "type": "adj", "translation": "更长的（long 的比较级）" }],
+    "sentence_examples": [
+      { "en": "My hair is longer now.", "zh": "我现在头发更长了。" }
+    ]
+  },
+  {
+    "word": "thinner",
+    "phonetics": { "uk": "/ˈθɪnə/", "us": "/ˈθɪnər/" },
+    "translations": [{ "type": "adj", "translation": "更瘦的；更薄的（thin 的比较级）" }],
+    "sentence_examples": [
+      { "en": "This book is thinner than that book.", "zh": "这本书比那本更薄。" }
+    ]
+  },
+  {
+    "word": "heavier",
+    "phonetics": { "uk": "/ˈheviə/", "us": "/ˈheviər/" },
+    "translations": [{ "type": "adj", "translation": "更重的（heavy 的比较级）" }],
+    "sentence_examples": [
+      { "en": "The bag is heavier than yesterday.", "zh": "这个书包比昨天更重。" }
+    ]
+  },
+  {
+    "word": "bigger",
+    "phonetics": { "uk": "/ˈbɪɡə/", "us": "/ˈbɪɡər/" },
+    "translations": [{ "type": "adj", "translation": "更大的（big 的比较级）" }],
+    "sentence_examples": [
+      { "en": "This room is bigger than ours.", "zh": "这个房间比我们的更大。" }
+    ]
+  },
+  {
+    "word": "smaller",
+    "phonetics": { "uk": "/ˈsmɔːlə/", "us": "/ˈsmɔːlər/" },
+    "translations": [{ "type": "adj", "translation": "更小的（small 的比较级）" }],
+    "sentence_examples": [
+      { "en": "My cat is smaller than your dog.", "zh": "我的猫比你的狗更小。" }
+    ]
+  },
+  {
+    "word": "stronger",
+    "phonetics": { "uk": "/ˈstrɒŋɡə/", "us": "/ˈstrɔːŋɡər/" },
+    "translations": [{ "type": "adj", "translation": "更强壮的；更强的（strong 的比较级）" }],
+    "sentence_examples": [
+      { "en": "He is stronger than me.", "zh": "他比我更强壮。" }
+    ]
+  },
+  {
+    "word": "dinosaur",
+    "phonetics": { "uk": "/ˈdaɪnəsɔː/", "us": "/ˈdaɪnəsɔːr/" },
+    "translations": [{ "type": "n", "translation": "恐龙" }],
+    "sentence_examples": [
+      { "en": "My little brother likes dinosaurs.", "zh": "我弟弟喜欢恐龙。" }
+    ]
+  },
+  {
+    "word": "hall",
+    "phonetics": { "uk": "/hɔːl/", "us": "/hɔːl/" },
+    "translations": [{ "type": "n", "translation": "大厅；礼堂" }],
+    "sentence_examples": [
+      { "en": "We have a meeting in the school hall.", "zh": "我们在学校礼堂开会。" }
+    ]
+  },
+  {
+    "word": "metre",
+    "phonetics": { "uk": "/ˈmiːtə/", "us": "/ˈmiːtər/" },
+    "translations": [{ "type": "n", "translation": "米" }],
+    "sentence_examples": [
+      { "en": "The desk is one metre long.", "zh": "这张桌子有一米长。" }
+    ]
+  },
+  {
+    "word": "than",
+    "phonetics": { "uk": "/ðæn/", "us": "/ðæn/" },
+    "translations": [{ "type": "prep", "translation": "比（用于比较）" }],
+    "sentence_examples": [
+      { "en": "I am taller than my sister.", "zh": "我比我妹妹更高。" }
+    ]
+  },
+  {
+    "word": "both",
+    "phonetics": { "uk": "/bəʊθ/", "us": "/boʊθ/" },
+    "translations": [{ "type": "pron", "translation": "两个都" }],
+    "sentence_examples": [
+      { "en": "Both of us like English.", "zh": "我们两个都喜欢英语。" }
+    ]
+  },
+  {
+    "word": "kilogram",
+    "phonetics": { "uk": "/ˈkɪləɡræm/", "us": "/ˈkɪləɡræm/" },
+    "translations": [{ "type": "n", "translation": "千克；公斤" }],
+    "sentence_examples": [
+      { "en": "The watermelon is five kilograms.", "zh": "这个西瓜有五公斤。" }
+    ]
+  },
+  {
+    "word": "countryside",
+    "phonetics": { "uk": "/ˈkʌntrisaɪd/", "us": "/ˈkʌntrisaɪd/" },
+    "translations": [{ "type": "n", "translation": "乡村；农村" }],
+    "sentence_examples": [
+      { "en": "We went to the countryside last weekend.", "zh": "上周末我们去了乡村。" }
+    ]
+  },
+  {
+    "word": "lower",
+    "phonetics": { "uk": "/ˈləʊə/", "us": "/ˈloʊər/" },
+    "translations": [{ "type": "adj", "translation": "更低的（low 的比较级）" }],
+    "sentence_examples": [
+      { "en": "This table is lower than that one.", "zh": "这张桌子比那张更低。" }
+    ]
+  },
+  {
+    "word": "shadow",
+    "phonetics": { "uk": "/ˈʃædəʊ/", "us": "/ˈʃædoʊ/" },
+    "translations": [{ "type": "n", "translation": "阴影；影子" }],
+    "sentence_examples": [
+      { "en": "I can see my shadow in the sun.", "zh": "在太阳下我能看到我的影子。" }
+    ]
+  },
+  {
+    "word": "smarter",
+    "phonetics": { "uk": "/ˈsmɑːtə/", "us": "/ˈsmɑːrtər/" },
+    "translations": [{ "type": "adj", "translation": "更聪明的（smart 的比较级）" }],
+    "sentence_examples": [
+      { "en": "She is smarter than me in math.", "zh": "她数学比我更聪明（更厉害）。" }
+    ]
+  },
+  {
+    "word": "become",
+    "phonetics": { "uk": "/bɪˈkʌm/", "us": "/bɪˈkʌm/" },
+    "translations": [{ "type": "v", "translation": "变成；成为" }],
+    "sentence_examples": [
+      { "en": "I want to become a teacher.", "zh": "我想成为一名老师。" }
+    ]
+  },
+
+  {
+    "word": "cleaned",
+    "phonetics": { "uk": "/kliːnd/", "us": "/kliːnd/" },
+    "translations": [{ "type": "v", "translation": "打扫（clean 的过去式）" }],
+    "sentence_examples": [
+      { "en": "I cleaned my room yesterday.", "zh": "我昨天打扫了我的房间。" }
+    ]
+  },
+  {
+    "word": "stayed",
+    "phonetics": { "uk": "/steɪd/", "us": "/steɪd/" },
+    "translations": [{ "type": "v", "translation": "停留；呆（stay 的过去式）" }],
+    "sentence_examples": [
+      { "en": "We stayed at home last night.", "zh": "我们昨晚待在家里。" }
+    ]
+  },
+  {
+    "word": "washed",
+    "phonetics": { "uk": "/wɒʃt/", "us": "/wɑːʃt/" },
+    "translations": [{ "type": "v", "translation": "洗（wash 的过去式）" }],
+    "sentence_examples": [
+      { "en": "I washed my hands before dinner.", "zh": "晚饭前我洗了手。" }
+    ]
+  },
+  {
+    "word": "watched",
+    "phonetics": { "uk": "/wɒtʃt/", "us": "/wɑːtʃt/" },
+    "translations": [{ "type": "v", "translation": "看（watch 的过去式）" }],
+    "sentence_examples": [
+      { "en": "We watched a movie yesterday.", "zh": "我们昨天看了一部电影。" }
+    ]
+  },
+  {
+    "word": "had",
+    "phonetics": { "uk": "/hæd/", "us": "/hæd/" },
+    "translations": [{ "type": "v", "translation": "有；患（have 的过去式）" }],
+    "sentence_examples": [
+      { "en": "I had a headache yesterday.", "zh": "我昨天头疼。" }
+    ]
+  },
+  {
+    "word": "had a cold",
+    "phonetics": { "uk": "/hæd ə kəʊld/", "us": "/hæd ə koʊld/" },
+    "translations": [{ "type": "phrase", "translation": "感冒" }],
+    "sentence_examples": [
+      { "en": "She had a cold, so she stayed in bed.", "zh": "她感冒了，所以她躺在床上休息。" }
+    ]
+  },
+  {
+    "word": "slept",
+    "phonetics": { "uk": "/slept/", "us": "/slept/" },
+    "translations": [{ "type": "v", "translation": "睡觉（sleep 的过去式）" }],
+    "sentence_examples": [
+      { "en": "I slept early last night.", "zh": "我昨晚很早就睡了。" }
+    ]
+  },
+  {
+    "word": "read",
+    "phonetics": { "uk": "/riːd/", "us": "/riːd/" },
+    "translations": [{ "type": "v", "translation": "读；阅读" }],
+    "sentence_examples": [
+      { "en": "I read a storybook every day.", "zh": "我每天读一本故事书。" }
+    ]
+  },
+  {
+    "word": "saw",
+    "phonetics": { "uk": "/sɔː/", "us": "/sɔː/" },
+    "translations": [{ "type": "v", "translation": "看见（see 的过去式）" }],
+    "sentence_examples": [
+      { "en": "I saw a bird in the tree.", "zh": "我看见树上有一只鸟。" }
+    ]
+  },
+  {
+    "word": "last",
+    "phonetics": { "uk": "/lɑːst/", "us": "/læst/" },
+    "translations": [{ "type": "adj", "translation": "最近的；上一个的" }],
+    "sentence_examples": [
+      { "en": "Last week, we had a test.", "zh": "上周我们有一次考试。" }
+    ]
+  },
+  {
+    "word": "yesterday",
+    "phonetics": { "uk": "/ˈjestədi/", "us": "/ˈjestərdeɪ/" },
+    "translations": [{ "type": "adv", "translation": "昨天" }],
+    "sentence_examples": [
+      { "en": "Yesterday I went to the park.", "zh": "昨天我去了公园。" }
+    ]
+  },
+  {
+    "word": "before",
+    "phonetics": { "uk": "/bɪˈfɔː/", "us": "/bɪˈfɔːr/" },
+    "translations": [{ "type": "prep", "translation": "在……之前" }],
+    "sentence_examples": [
+      { "en": "Wash your hands before you eat.", "zh": "吃饭前要洗手。" }
+    ]
+  },
+  {
+    "word": "drank",
+    "phonetics": { "uk": "/dræŋk/", "us": "/dræŋk/" },
+    "translations": [{ "type": "v", "translation": "喝（drink 的过去式）" }],
+    "sentence_examples": [
+      { "en": "I drank some milk this morning.", "zh": "我今天早上喝了些牛奶。" }
+    ]
+  },
+  {
+    "word": "show",
+    "phonetics": { "uk": "/ʃəʊ/", "us": "/ʃoʊ/" },
+    "translations": [{ "type": "n", "translation": "演出；表演" }],
+    "sentence_examples": [
+      { "en": "We watched a show at school.", "zh": "我们在学校看了一场演出。" }
+    ]
+  },
+  {
+    "word": "magazine",
+    "phonetics": { "uk": "/ˌmægəˈziːn/", "us": "/ˌmægəˈziːn/" },
+    "translations": [{ "type": "n", "translation": "杂志" }],
+    "sentence_examples": [
+      { "en": "This magazine has many pictures.", "zh": "这本杂志有很多图片。" }
+    ]
+  },
+  {
+    "word": "better",
+    "phonetics": { "uk": "/ˈbetə/", "us": "/ˈbetər/" },
+    "translations": [{ "type": "adj", "translation": "更好的（good / well 的比较级）" }],
+    "sentence_examples": [
+      { "en": "I feel better today.", "zh": "我今天感觉好多了。" }
+    ]
+  },
+  {
+    "word": "faster",
+    "phonetics": { "uk": "/ˈfɑːstə/", "us": "/ˈfæstər/" },
+    "translations": [{ "type": "adj", "translation": "更快的（fast 的比较级）" }],
+    "sentence_examples": [
+      { "en": "He runs faster than me.", "zh": "他跑得比我快。" }
+    ]
+  },
+  {
+    "word": "hotel",
+    "phonetics": { "uk": "/həʊˈtel/", "us": "/hoʊˈtel/" },
+    "translations": [{ "type": "n", "translation": "旅馆；酒店" }],
+    "sentence_examples": [
+      { "en": "We stayed in a hotel on the trip.", "zh": "旅行时我们住在旅馆里。" }
+    ]
+  },
+  {
+    "word": "fixed",
+    "phonetics": { "uk": "/fɪkst/", "us": "/fɪkst/" },
+    "translations": [{ "type": "v", "translation": "修理（fix 的过去式）" }],
+    "sentence_examples": [
+      { "en": "Dad fixed my bike.", "zh": "爸爸修好了我的自行车。" }
+    ]
+  },
+  {
+    "word": "broken",
+    "phonetics": { "uk": "/ˈbrəʊkən/", "us": "/ˈbroʊkən/" },
+    "translations": [{ "type": "adj", "translation": "破损的；坏了的" }],
+    "sentence_examples": [
+      { "en": "The cup is broken. Be careful!", "zh": "杯子破了，小心！" }
+    ]
+  },
+  {
+    "word": "lamp",
+    "phonetics": { "uk": "/læmp/", "us": "/læmp/" },
+    "translations": [{ "type": "n", "translation": "台灯" }],
+    "sentence_examples": [
+      { "en": "I do my homework under the lamp.", "zh": "我在台灯下写作业。" }
+    ]
+  },
+  {
+    "word": "loud",
+    "phonetics": { "uk": "/laʊd/", "us": "/laʊd/" },
+    "translations": [{ "type": "adj", "translation": "大声的；喧闹的" }],
+    "sentence_examples": [
+      { "en": "Please don't be loud in the library.", "zh": "在图书馆里请不要大声说话。" }
+    ]
+  },
+  {
+    "word": "enjoy",
+    "phonetics": { "uk": "/ɪnˈdʒɔɪ/", "us": "/ɪnˈdʒɔɪ/" },
+    "translations": [{ "type": "v", "translation": "喜爱；享受" }],
+    "sentence_examples": [
+      { "en": "I enjoy playing basketball.", "zh": "我喜欢打篮球。" }
+    ]
+  },
+
+  {
+    "word": "went",
+    "phonetics": { "uk": "/went/", "us": "/went/" },
+    "translations": [{ "type": "v", "translation": "去（go 的过去式）" }],
+    "sentence_examples": [
+      { "en": "I went to school by bus.", "zh": "我坐公交车去上学。" }
+    ]
+  },
+  {
+    "word": "camp",
+    "phonetics": { "uk": "/kæmp/", "us": "/kæmp/" },
+    "translations": [{ "type": "n", "translation": "野营" }],
+    "sentence_examples": [
+      { "en": "We had a camp near the lake.", "zh": "我们在湖边野营。" }
+    ]
+  },
+  {
+    "word": "went camping",
+    "phonetics": { "uk": "/went ˈkæmpɪŋ/", "us": "/went ˈkæmpɪŋ/" },
+    "translations": [{ "type": "phrase", "translation": "去野营" }],
+    "sentence_examples": [
+      { "en": "We went camping last weekend.", "zh": "上周末我们去野营了。" }
+    ]
+  },
+  {
+    "word": "fish",
+    "phonetics": { "uk": "/fɪʃ/", "us": "/fɪʃ/" },
+    "translations": [{ "type": "v", "translation": "钓鱼" }],
+    "sentence_examples": [
+      { "en": "I like to fish with my dad.", "zh": "我喜欢和爸爸一起钓鱼。" }
+    ]
+  },
+  {
+    "word": "went fishing",
+    "phonetics": { "uk": "/went ˈfɪʃɪŋ/", "us": "/went ˈfɪʃɪŋ/" },
+    "translations": [{ "type": "phrase", "translation": "去钓鱼" }],
+    "sentence_examples": [
+      { "en": "We went fishing by the river.", "zh": "我们去河边钓鱼了。" }
+    ]
+  },
+  {
+    "word": "rode",
+    "phonetics": { "uk": "/rəʊd/", "us": "/roʊd/" },
+    "translations": [{ "type": "v", "translation": "骑（ride 的过去式）" }],
+    "sentence_examples": [
+      { "en": "I rode a bike to the park.", "zh": "我骑自行车去了公园。" }
+    ]
+  },
+  {
+    "word": "hurt",
+    "phonetics": { "uk": "/hɜːt/", "us": "/hɝːt/" },
+    "translations": [{ "type": "v", "translation": "受伤；弄疼（hurt 的过去式/原形同形）" }],
+    "sentence_examples": [
+      { "en": "I hurt my knee when I fell.", "zh": "我摔倒时膝盖受伤了。" }
+    ]
+  },
+  {
+    "word": "ate",
+    "phonetics": { "uk": "/eɪt/", "us": "/eɪt/" },
+    "translations": [{ "type": "v", "translation": "吃（eat 的过去式）" }],
+    "sentence_examples": [
+      { "en": "I ate an apple after lunch.", "zh": "午饭后我吃了一个苹果。" }
+    ]
+  },
+  {
+    "word": "took",
+    "phonetics": { "uk": "/tʊk/", "us": "/tʊk/" },
+    "translations": [{ "type": "v", "translation": "拍照；带走（take 的过去式）" }],
+    "sentence_examples": [
+      { "en": "I took a photo of the flowers.", "zh": "我给花拍了一张照片。" }
+    ]
+  },
+  {
+    "word": "took pictures",
+    "phonetics": { "uk": "/tʊk ˈpɪktʃəz/", "us": "/tʊk ˈpɪktʃərz/" },
+    "translations": [{ "type": "phrase", "translation": "照相；拍照片" }],
+    "sentence_examples": [
+      { "en": "We took pictures on the beach.", "zh": "我们在沙滩上拍了照片。" }
+    ]
+  },
+  {
+    "word": "bought",
+    "phonetics": { "uk": "/bɔːt/", "us": "/bɔːt/" },
+    "translations": [{ "type": "v", "translation": "买（buy 的过去式）" }],
+    "sentence_examples": [
+      { "en": "Mom bought me a new pencil case.", "zh": "妈妈给我买了一个新文具盒。" }
+    ]
+  },
+  {
+    "word": "gift",
+    "phonetics": { "uk": "/ɡɪft/", "us": "/ɡɪft/" },
+    "translations": [{ "type": "n", "translation": "礼物" }],
+    "sentence_examples": [
+      { "en": "I made a gift for my friend.", "zh": "我给朋友做了一个礼物。" }
+    ]
+  },
+  {
+    "word": "fell",
+    "phonetics": { "uk": "/fel/", "us": "/fel/" },
+    "translations": [{ "type": "v", "translation": "摔倒；落下（fall 的过去式）" }],
+    "sentence_examples": [
+      { "en": "He fell off the chair.", "zh": "他从椅子上摔下来了。" }
+    ]
+  },
+  {
+    "word": "off",
+    "phonetics": { "uk": "/ɒf/", "us": "/ɔːf/" },
+    "translations": [{ "type": "prep", "translation": "从……上掉下；离开" }],
+    "sentence_examples": [
+      { "en": "The book fell off the desk.", "zh": "书从桌子上掉下来了。" }
+    ]
+  },
+  {
+    "word": "Labour Day",
+    "phonetics": { "uk": "/ˈleɪbə deɪ/", "us": "/ˈleɪbər deɪ/" },
+    "translations": [{ "type": "n", "translation": "劳动节" }],
+    "sentence_examples": [
+      { "en": "We had a holiday on Labour Day.", "zh": "劳动节我们放假了。" }
+    ]
+  },
+  {
+    "word": "mule",
+    "phonetics": { "uk": "/mjuːl/", "us": "/mjuːl/" },
+    "translations": [{ "type": "n", "translation": "骡子" }],
+    "sentence_examples": [
+      { "en": "The mule carried the bags.", "zh": "骡子背着包。" }
+    ]
+  },
+  {
+    "word": "Turpan",
+    "phonetics": { "uk": "/tʊəˈpɑːn/", "us": "/tʊrˈpɑːn/" },
+    "translations": [{ "type": "n", "translation": "吐鲁番" }],
+    "sentence_examples": [
+      { "en": "Turpan is very hot in summer.", "zh": "吐鲁番夏天很热。" }
+    ]
+  },
+  {
+    "word": "could",
+    "phonetics": { "uk": "/kʊd/", "us": "/kʊd/" },
+    "translations": [{ "type": "v", "translation": "能（can 的过去式）" }],
+    "sentence_examples": [
+      { "en": "When I was five, I could swim.", "zh": "我五岁时就会游泳了。" }
+    ]
+  },
+  {
+    "word": "till",
+    "phonetics": { "uk": "/tɪl/", "us": "/tɪl/" },
+    "translations": [{ "type": "prep", "translation": "直到" }],
+    "sentence_examples": [
+      { "en": "We played till six o'clock.", "zh": "我们玩到六点。" }
+    ]
+  },
+  {
+    "word": "beach",
+    "phonetics": { "uk": "/biːtʃ/", "us": "/biːtʃ/" },
+    "translations": [{ "type": "n", "translation": "沙滩" }],
+    "sentence_examples": [
+      { "en": "We ran on the beach.", "zh": "我们在沙滩上跑步。" }
+    ]
+  },
+  {
+    "word": "basket",
+    "phonetics": { "uk": "/ˈbɑːskɪt/", "us": "/ˈbæskɪt/" },
+    "translations": [{ "type": "n", "translation": "篮；筐" }],
+    "sentence_examples": [
+      { "en": "Put the apples in the basket.", "zh": "把苹果放进篮子里。" }
+    ]
+  },
+  {
+    "word": "part",
+    "phonetics": { "uk": "/pɑːt/", "us": "/pɑːrt/" },
+    "translations": [{ "type": "n", "translation": "角色；部分" }],
+    "sentence_examples": [
+      { "en": "I played a part in the school play.", "zh": "我在学校表演里演了一个角色。" }
+    ]
+  },
+  {
+    "word": "licked",
+    "phonetics": { "uk": "/lɪkt/", "us": "/lɪkt/" },
+    "translations": [{ "type": "v", "translation": "舔（lick 的过去式）" }],
+    "sentence_examples": [
+      { "en": "The dog licked my hand.", "zh": "小狗舔了我的手。" }
+    ]
+  },
+  {
+    "word": "laughed",
+    "phonetics": { "uk": "/lɑːft/", "us": "/læft/" },
+    "translations": [{ "type": "v", "translation": "笑（laugh 的过去式）" }],
+    "sentence_examples": [
+      { "en": "We laughed at the funny story.", "zh": "我们听了这个有趣的故事笑了。" }
+    ]
+  },
+
+  {
+    "word": "dining hall",
+    "phonetics": { "uk": "/ˈdaɪnɪŋ hɔːl/", "us": "/ˈdaɪnɪŋ hɔːl/" },
+    "translations": [{ "type": "n", "translation": "饭厅；食堂" }],
+    "sentence_examples": [
+      { "en": "We have lunch in the dining hall.", "zh": "我们在食堂吃午饭。" }
+    ]
+  },
+  {
+    "word": "grass",
+    "phonetics": { "uk": "/ɡrɑːs/", "us": "/ɡræs/" },
+    "translations": [{ "type": "n", "translation": "草；草坪" }],
+    "sentence_examples": [
+      { "en": "Don't walk on the grass.", "zh": "不要踩草坪。" }
+    ]
+  },
+  {
+    "word": "gym",
+    "phonetics": { "uk": "/dʒɪm/", "us": "/dʒɪm/" },
+    "translations": [{ "type": "n", "translation": "体育馆" }],
+    "sentence_examples": [
+      { "en": "We play basketball in the gym.", "zh": "我们在体育馆打篮球。" }
+    ]
+  },
+  {
+    "word": "ago",
+    "phonetics": { "uk": "/əˈɡəʊ/", "us": "/əˈɡoʊ/" },
+    "translations": [{ "type": "adv", "translation": "以前（用于过去时间）" }],
+    "sentence_examples": [
+      { "en": "I moved here two years ago.", "zh": "我两年前搬到这里。" }
+    ]
+  },
+  {
+    "word": "cycling",
+    "phonetics": { "uk": "/ˈsaɪklɪŋ/", "us": "/ˈsaɪklɪŋ/" },
+    "translations": [{ "type": "n", "translation": "骑自行车运动" }],
+    "sentence_examples": [
+      { "en": "Cycling is good for health.", "zh": "骑自行车对健康有好处。" }
+    ]
+  },
+  {
+    "word": "go cycling",
+    "phonetics": { "uk": "/ɡəʊ ˈsaɪklɪŋ/", "us": "/ɡoʊ ˈsaɪklɪŋ/" },
+    "translations": [{ "type": "phrase", "translation": "去骑自行车" }],
+    "sentence_examples": [
+      { "en": "Let's go cycling after school.", "zh": "放学后我们去骑自行车吧。" }
+    ]
+  },
+  {
+    "word": "ice-skate",
+    "phonetics": { "uk": "/ˈaɪs skeɪt/", "us": "/ˈaɪs skeɪt/" },
+    "translations": [{ "type": "v", "translation": "滑冰" }],
+    "sentence_examples": [
+      { "en": "I can ice-skate in winter.", "zh": "冬天我会滑冰。" }
+    ]
+  },
+  {
+    "word": "badminton",
+    "phonetics": { "uk": "/ˈbædmɪntən/", "us": "/ˈbædmɪntən/" },
+    "translations": [{ "type": "n", "translation": "羽毛球运动" }],
+    "sentence_examples": [
+      { "en": "We play badminton on Fridays.", "zh": "我们周五打羽毛球。" }
+    ]
+  },
+  {
+    "word": "star",
+    "phonetics": { "uk": "/stɑː/", "us": "/stɑːr/" },
+    "translations": [{ "type": "n", "translation": "星；星星" }],
+    "sentence_examples": [
+      { "en": "I can see many stars at night.", "zh": "晚上我能看到很多星星。" }
+    ]
+  },
+  {
+    "word": "easy",
+    "phonetics": { "uk": "/ˈiːzi/", "us": "/ˈiːzi/" },
+    "translations": [{ "type": "adj", "translation": "容易的" }],
+    "sentence_examples": [
+      { "en": "This question is easy.", "zh": "这道题很容易。" }
+    ]
+  },
+  {
+    "word": "look up",
+    "phonetics": { "uk": "/lʊk ʌp/", "us": "/lʊk ʌp/" },
+    "translations": [{ "type": "v", "translation": "查阅（单词等）" }],
+    "sentence_examples": [
+      { "en": "Look up the new word in the dictionary.", "zh": "在词典里查一下这个生词。" }
+    ]
+  },
+  {
+    "word": "Internet",
+    "phonetics": { "uk": "/ˈɪntənet/", "us": "/ˈɪntərnet/" },
+    "translations": [{ "type": "n", "translation": "互联网" }],
+    "sentence_examples": [
+      { "en": "We can learn a lot on the Internet.", "zh": "我们可以在互联网上学到很多东西。" }
+    ]
+  },
+  {
+    "word": "different",
+    "phonetics": { "uk": "/ˈdɪfərənt/", "us": "/ˈdɪfərənt/" },
+    "translations": [{ "type": "adj", "translation": "不同的" }],
+    "sentence_examples": [
+      { "en": "My bag is different from yours.", "zh": "我的书包和你的不一样。" }
+    ]
+  },
+  {
+    "word": "active",
+    "phonetics": { "uk": "/ˈæktɪv/", "us": "/ˈæktɪv/" },
+    "translations": [{ "type": "adj", "translation": "积极的；活跃的" }],
+    "sentence_examples": [
+      { "en": "He is active in class.", "zh": "他在课堂上很积极。" }
+    ]
+  },
+  {
+    "word": "race",
+    "phonetics": { "uk": "/reɪs/", "us": "/reɪs/" },
+    "translations": [{ "type": "n", "translation": "赛跑；比赛" }],
+    "sentence_examples": [
+      { "en": "We had a race on the playground.", "zh": "我们在操场上进行了赛跑。" }
+    ]
+  },
+  {
+    "word": "nothing",
+    "phonetics": { "uk": "/ˈnʌθɪŋ/", "us": "/ˈnʌθɪŋ/" },
+    "translations": [{ "type": "pron", "translation": "没有什么" }],
+    "sentence_examples": [
+      { "en": "There is nothing in the box.", "zh": "盒子里什么也没有。" }
+    ]
+  },
+  {
+    "word": "thought",
+    "phonetics": { "uk": "/θɔːt/", "us": "/θɔːt/" },
+    "translations": [{ "type": "v", "translation": "想（think 的过去式）" }],
+    "sentence_examples": [
+      { "en": "I thought it was a good idea.", "zh": "我觉得这是个好主意。" }
+    ]
+  },
+  {
+    "word": "felt",
+    "phonetics": { "uk": "/felt/", "us": "/felt/" },
+    "translations": [{ "type": "v", "translation": "感觉；感到（feel 的过去式）" }],
+    "sentence_examples": [
+      { "en": "I felt tired after PE.", "zh": "体育课后我感觉很累。" }
+    ]
+  },
+  {
+    "word": "cheetah",
+    "phonetics": { "uk": "/ˈtʃiːtə/", "us": "/ˈtʃiːtə/" },
+    "translations": [{ "type": "n", "translation": "猎豹" }],
+    "sentence_examples": [
+      { "en": "A cheetah can run very fast.", "zh": "猎豹跑得非常快。" }
+    ]
+  },
+  {
+    "word": "trip",
+    "phonetics": { "uk": "/trɪp/", "us": "/trɪp/" },
+    "translations": [{ "type": "v", "translation": "绊倒" }],
+    "sentence_examples": [
+      { "en": "Be careful, or you may trip over the bag.", "zh": "小心点，不然你可能会被包绊倒。" }
+    ]
+  },
+  {
+    "word": "woke",
+    "phonetics": { "uk": "/wəʊk/", "us": "/woʊk/" },
+    "translations": [{ "type": "v", "translation": "醒（wake 的过去式）" }],
+    "sentence_examples": [
+      { "en": "I woke up early this morning.", "zh": "我今天早上很早就醒了。" }
+    ]
+  },
+  {
+    "word": "dream",
+    "phonetics": { "uk": "/driːm/", "us": "/driːm/" },
+    "translations": [{ "type": "n", "translation": "梦" }],
+    "sentence_examples": [
+      { "en": "I had a funny dream last night.", "zh": "我昨晚做了一个有趣的梦。" }
+    ]
   }
 ]
