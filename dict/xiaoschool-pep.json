@@ -5634,7 +5634,7 @@
     "translations": [
       {
         "type": "n",
-        "translation": "度（温度）"
+        "translation": "度"
       }
     ],
     "sentence_examples": [
@@ -5980,7 +5980,7 @@
     "translations": [
       {
         "type": "int",
-        "translation": "味道很好（好吃）"
+        "translation": "味道很好；好吃"
       }
     ],
     "sentence_examples": [
@@ -7024,7 +7024,7 @@
   {
     "word": "him",
     "phonetics": { "uk": "/hɪm/", "us": "/hɪm/" },
-    "translations": [{ "type": "pron", "translation": "他（宾语或表语）" }],
+    "translations": [{ "type": "pron", "translation": "他" }],
     "sentence_examples": [
       { "en": "I help him after class.", "zh": "我课后帮助他。" }
     ]
@@ -7177,7 +7177,7 @@
   {
     "word": "play",
     "phonetics": { "uk": "/pleɪ/", "us": "/pleɪ/" },
-    "translations": [{ "type": "v", "translation": "踢；玩；参加（运动）" }],
+    "translations": [{ "type": "v", "translation": "踢；玩；参加" }],
     "sentence_examples": [
       { "en": "We play in the park.", "zh": "我们在公园玩。" }
     ]
@@ -7338,7 +7338,7 @@
   {
     "word": "hot",
     "phonetics": { "uk": "/hɒt/", "us": "/hɑːt/" },
-    "translations": [{ "type": "adj", "translation": "辣的（也可指热的）" }],
+    "translations": [{ "type": "adj", "translation": "辣的;热的" }],
     "sentence_examples": [
       { "en": "The noodles are hot.", "zh": "这面条很辣。" }
     ]
@@ -7386,7 +7386,7 @@
   {
     "word": "Dear",
     "phonetics": { "uk": "/dɪə(r)/", "us": "/dɪr/" },
-    "translations": [{ "type": "adj", "translation": "亲爱的（用于信件开头）" }],
+    "translations": [{ "type": "adj", "translation": "亲爱的" }],
     "sentence_examples": [
       { "en": "Dear Mum, I miss you.", "zh": "亲爱的妈妈，我想你。" }
     ]
@@ -7523,7 +7523,7 @@
   {
     "word": "we'll",
     "phonetics": { "uk": "/wiːl/", "us": "/wiːl/" },
-    "translations": [{ "type": "contraction", "translation": "我们将（we will）" }],
+    "translations": [{ "type": "contraction", "translation": "我们将" }],
     "sentence_examples": [
       { "en": "We'll have a party next week.", "zh": "我们下周要开派对。" }
     ]
@@ -7724,7 +7724,7 @@
   {
     "word": "garandparent",
     "phonetics": { "uk": "/ˈɡrænpeərənt/", "us": "/ˈɡrænperənt/" },
-    "translations": [{ "type": "n", "translation": "（外）祖父母" }],
+    "translations": [{ "type": "n", "translation": "祖父母" }],
     "sentence_examples": [
       { "en": "I live with my grandparents.", "zh": "我和爷爷奶奶住在一起。" }
     ]
@@ -7909,7 +7909,7 @@
   {
     "word": "aren't",
     "phonetics": { "uk": "/ɑːnt/", "us": "/ɑːrnt/" },
-    "translations": [{ "type": "contraction", "translation": "不是（are not）" }],
+    "translations": [{ "type": "contraction", "translation": "不是" }],
     "sentence_examples": [
       { "en": "They aren't at home.", "zh": "他们不在家。" }
     ]
@@ -8679,7 +8679,7 @@
   {
     "word": "RSVP",
     "phonetics": { "uk": "/ˌɑːr es viː ˈpiː/", "us": "/ˌɑːr es viː ˈpiː/" },
-    "translations": [{ "type": "abbr", "translation": "请赐复（请回复）" }],
+    "translations": [{ "type": "abbr", "translation": "请赐复；请回复" }],
     "sentence_examples": [
       { "en": "Please RSVP by Friday.", "zh": "请在星期五前回复。" }
     ]
@@ -8857,7 +8857,7 @@
   {
     "word": "yours",
     "phonetics": { "uk": "/jɔːz/", "us": "/jʊrz/" },
-    "translations": [{ "type": "pron", "translation": "你（们）的" }],
+    "translations": [{ "type": "pron", "translation": "你的；你们的" }],
     "sentence_examples": [
       { "en": "Is this pencil yours?", "zh": "这支铅笔是你的吗？" }
     ]
@@ -8881,7 +8881,7 @@
   {
     "word": "theirs",
     "phonetics": { "uk": "/ðeəz/", "us": "/ðerz/" },
-    "translations": [{ "type": "pron", "translation": "他（她、它）们的" }],
+    "translations": [{ "type": "pron", "translation": "他们的；她们的；它们的" }],
     "sentence_examples": [
       { "en": "The toys are theirs.", "zh": "这些玩具是他们的。" }
     ]
@@ -8897,7 +8897,7 @@
   {
     "word": "climbing",
     "phonetics": { "uk": "/ˈklaɪmɪŋ/", "us": "/ˈklaɪmɪŋ/" },
-    "translations": [{ "type": "v", "translation": "（正在）攀爬" }],
+    "translations": [{ "type": "v", "translation": "攀爬" }],
     "sentence_examples": [
       { "en": "The monkey is climbing the tree.", "zh": "猴子正在爬树。" }
     ]
@@ -9074,7 +9074,7 @@
   {
     "word": "its",
     "phonetics": { "uk": "/ɪts/", "us": "/ɪts/" },
-    "translations": [{ "type": "det", "translation": "它的；他的；她的（物主代词/形容词性物主代词）" }],
+    "translations": [{ "type": "det", "translation": "它的；他的；她的" }],
     "sentence_examples": [
       { "en": "The dog is wagging its tail.", "zh": "小狗在摇它的尾巴。" }
     ]
@@ -9146,7 +9146,7 @@
   {
     "word": "sure",
     "phonetics": { "uk": "/ʃʊə/", "us": "/ʃʊr/" },
-    "translations": [{ "type": "adj", "translation": "当然（表示同意）；确信的" }],
+    "translations": [{ "type": "adj", "translation": "当然；确信的" }],
     "sentence_examples": [
       { "en": "Sure, I can help you.", "zh": "当然，我可以帮你。" }
     ]
@@ -9290,7 +9290,7 @@
   {
     "word": "gave",
     "phonetics": { "uk": "/ɡeɪv/", "us": "/ɡeɪv/" },
-    "translations": [{ "type": "v", "translation": "提供；交给（give的过去时）" }],
+    "translations": [{ "type": "v", "translation": "提供；交给" }],
     "sentence_examples": [{ "en": "She gave me a pencil.", "zh": "她给了我一支铅笔。" }]
   },
   {
@@ -9327,7 +9327,7 @@
   {
     "word": "by",
     "phonetics": { "uk": "/baɪ/", "us": "/baɪ/" },
-    "translations": [{ "type": "prep", "translation": "乘（交通工具）" }],
+    "translations": [{ "type": "prep", "translation": "乘" }],
     "sentence_examples": [{ "en": "We go there by bus.", "zh": "我们乘公共汽车去那里。" }]
   },
   {
@@ -9393,7 +9393,7 @@
   {
     "word": "Mrs",
     "phonetics": { "uk": "/ˈmɪsɪz/", "us": "/ˈmɪsɪz/" },
-    "translations": [{ "type": "n", "translation": "夫人（太太）" }],
+    "translations": [{ "type": "n", "translation": "夫人；太太" }],
     "sentence_examples": [{ "en": "Mrs Li is our English teacher.", "zh": "李老师是我们的英语老师。" }]
   },
   {
@@ -9447,7 +9447,7 @@
   {
     "word": "Munich",
     "phonetics": { "uk": "/ˈmjuːnɪk/", "us": "/ˈmjuːnɪk/" },
-    "translations": [{ "type": "n", "translation": "慕尼黑（德国城市）" }],
+    "translations": [{ "type": "n", "translation": "慕尼黑" }],
     "sentence_examples": [{ "en": "Munich is a city in Germany.", "zh": "慕尼黑是德国的一个城市。" }]
   },
   {
@@ -9459,7 +9459,7 @@
   {
     "word": "Alaska",
     "phonetics": { "uk": "/əˈlæskə/", "us": "/əˈlæskə/" },
-    "translations": [{ "type": "n", "translation": "阿拉斯加州（美国州名）" }],
+    "translations": [{ "type": "n", "translation": "阿拉斯加州" }],
     "sentence_examples": [{ "en": "It is very cold in Alaska.", "zh": "阿拉斯加很冷。" }]
   },
   {
@@ -9768,8 +9768,8 @@
   {
     "word": "police office",
     "phonetics": { "uk": "/pəˈliːs ˈɒfɪs/", "us": "/pəˈliːs ˈɔːfɪs/" },
-    "translations": [{ "type": "n", "translation": "警察（此处按课本词条）" }],
-    "sentence_examples": [{ "en": "The police office is near the crossing.", "zh": "警察局（课本词条）在十字路口附近。" }]
+    "translations": [{ "type": "n", "translation": "警察局" }],
+    "sentence_examples": [{ "en": "The police office is near the crossing.", "zh": "警察局在十字路口附近。" }]
   },
   {
     "word": "fisherman",
@@ -10051,7 +10051,7 @@
   {
     "word": "younger",
     "phonetics": { "uk": "/ˈjʌŋɡə/", "us": "/ˈjʌŋɡər/" },
-    "translations": [{ "type": "adj", "translation": "更年轻的（young 的比较级）" }],
+    "translations": [{ "type": "adj", "translation": "更年轻的" }],
     "sentence_examples": [
       { "en": "My brother is younger than me.", "zh": "我的弟弟比我更年轻。" }
     ]
@@ -10059,7 +10059,7 @@
   {
     "word": "older",
     "phonetics": { "uk": "/ˈəʊldə/", "us": "/ˈoʊldər/" },
-    "translations": [{ "type": "adj", "translation": "更年长的（old 的比较级）" }],
+    "translations": [{ "type": "adj", "translation": "更年长的" }],
     "sentence_examples": [
       { "en": "Grandpa is older than Dad.", "zh": "爷爷比爸爸年纪更大。" }
     ]
@@ -10067,7 +10067,7 @@
   {
     "word": "taller",
     "phonetics": { "uk": "/ˈtɔːlə/", "us": "/ˈtɔːlər/" },
-    "translations": [{ "type": "adj", "translation": "更高的（tall 的比较级）" }],
+    "translations": [{ "type": "adj", "translation": "更高的" }],
     "sentence_examples": [
       { "en": "Amy is taller than Lily.", "zh": "艾米比莉莉更高。" }
     ]
@@ -10075,7 +10075,7 @@
   {
     "word": "shorter",
     "phonetics": { "uk": "/ˈʃɔːtə/", "us": "/ˈʃɔːrtər/" },
-    "translations": [{ "type": "adj", "translation": "更矮的；更短的（short 的比较级）" }],
+    "translations": [{ "type": "adj", "translation": "更矮的；更短的" }],
     "sentence_examples": [
       { "en": "This ruler is shorter than that one.", "zh": "这把尺子比那把更短。" }
     ]
@@ -10083,7 +10083,7 @@
   {
     "word": "longer",
     "phonetics": { "uk": "/ˈlɒŋɡə/", "us": "/ˈlɔːŋɡər/" },
-    "translations": [{ "type": "adj", "translation": "更长的（long 的比较级）" }],
+    "translations": [{ "type": "adj", "translation": "更长的" }],
     "sentence_examples": [
       { "en": "My hair is longer now.", "zh": "我现在头发更长了。" }
     ]
@@ -10091,7 +10091,7 @@
   {
     "word": "thinner",
     "phonetics": { "uk": "/ˈθɪnə/", "us": "/ˈθɪnər/" },
-    "translations": [{ "type": "adj", "translation": "更瘦的；更薄的（thin 的比较级）" }],
+    "translations": [{ "type": "adj", "translation": "更瘦的；更薄的" }],
     "sentence_examples": [
       { "en": "This book is thinner than that book.", "zh": "这本书比那本更薄。" }
     ]
@@ -10099,7 +10099,7 @@
   {
     "word": "heavier",
     "phonetics": { "uk": "/ˈheviə/", "us": "/ˈheviər/" },
-    "translations": [{ "type": "adj", "translation": "更重的（heavy 的比较级）" }],
+    "translations": [{ "type": "adj", "translation": "更重的" }],
     "sentence_examples": [
       { "en": "The bag is heavier than yesterday.", "zh": "这个书包比昨天更重。" }
     ]
@@ -10107,7 +10107,7 @@
   {
     "word": "bigger",
     "phonetics": { "uk": "/ˈbɪɡə/", "us": "/ˈbɪɡər/" },
-    "translations": [{ "type": "adj", "translation": "更大的（big 的比较级）" }],
+    "translations": [{ "type": "adj", "translation": "更大的" }],
     "sentence_examples": [
       { "en": "This room is bigger than ours.", "zh": "这个房间比我们的更大。" }
     ]
@@ -10115,7 +10115,7 @@
   {
     "word": "smaller",
     "phonetics": { "uk": "/ˈsmɔːlə/", "us": "/ˈsmɔːlər/" },
-    "translations": [{ "type": "adj", "translation": "更小的（small 的比较级）" }],
+    "translations": [{ "type": "adj", "translation": "更小的" }],
     "sentence_examples": [
       { "en": "My cat is smaller than your dog.", "zh": "我的猫比你的狗更小。" }
     ]
@@ -10123,7 +10123,7 @@
   {
     "word": "stronger",
     "phonetics": { "uk": "/ˈstrɒŋɡə/", "us": "/ˈstrɔːŋɡər/" },
-    "translations": [{ "type": "adj", "translation": "更强壮的；更强的（strong 的比较级）" }],
+    "translations": [{ "type": "adj", "translation": "更强壮的；更强的" }],
     "sentence_examples": [
       { "en": "He is stronger than me.", "zh": "他比我更强壮。" }
     ]
@@ -10155,7 +10155,7 @@
   {
     "word": "than",
     "phonetics": { "uk": "/ðæn/", "us": "/ðæn/" },
-    "translations": [{ "type": "prep", "translation": "比（用于比较）" }],
+    "translations": [{ "type": "prep", "translation": "比" }],
     "sentence_examples": [
       { "en": "I am taller than my sister.", "zh": "我比我妹妹更高。" }
     ]
@@ -10187,7 +10187,7 @@
   {
     "word": "lower",
     "phonetics": { "uk": "/ˈləʊə/", "us": "/ˈloʊər/" },
-    "translations": [{ "type": "adj", "translation": "更低的（low 的比较级）" }],
+    "translations": [{ "type": "adj", "translation": "更低的" }],
     "sentence_examples": [
       { "en": "This table is lower than that one.", "zh": "这张桌子比那张更低。" }
     ]
@@ -10203,9 +10203,9 @@
   {
     "word": "smarter",
     "phonetics": { "uk": "/ˈsmɑːtə/", "us": "/ˈsmɑːrtər/" },
-    "translations": [{ "type": "adj", "translation": "更聪明的（smart 的比较级）" }],
+    "translations": [{ "type": "adj", "translation": "更聪明的" }],
     "sentence_examples": [
-      { "en": "She is smarter than me in math.", "zh": "她数学比我更聪明（更厉害）。" }
+      { "en": "She is smarter than me in math.", "zh": "她数学比我更聪明。" }
     ]
   },
   {
@@ -10340,7 +10340,7 @@
   {
     "word": "better",
     "phonetics": { "uk": "/ˈbetə/", "us": "/ˈbetər/" },
-    "translations": [{ "type": "adj", "translation": "更好的（good / well 的比较级）" }],
+    "translations": [{ "type": "adj", "translation": "更好的" }],
     "sentence_examples": [
       { "en": "I feel better today.", "zh": "我今天感觉好多了。" }
     ]
@@ -10453,7 +10453,7 @@
   {
     "word": "hurt",
     "phonetics": { "uk": "/hɜːt/", "us": "/hɝːt/" },
-    "translations": [{ "type": "v", "translation": "受伤；弄疼（hurt 的过去式/原形同形）" }],
+    "translations": [{ "type": "v", "translation": "受伤；弄疼" }],
     "sentence_examples": [
       { "en": "I hurt my knee when I fell.", "zh": "我摔倒时膝盖受伤了。" }
     ]
@@ -10678,7 +10678,7 @@
   {
     "word": "look up",
     "phonetics": { "uk": "/lʊk ʌp/", "us": "/lʊk ʌp/" },
-    "translations": [{ "type": "v", "translation": "查阅（单词等）" }],
+    "translations": [{ "type": "v", "translation": "查阅" }],
     "sentence_examples": [
       { "en": "Look up the new word in the dictionary.", "zh": "在词典里查一下这个生词。" }
     ]
