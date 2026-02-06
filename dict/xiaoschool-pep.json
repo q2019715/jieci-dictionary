@@ -453,7 +453,7 @@
     "translations": [
       {
         "type": "n",
-        "translation": "（外）祖母；奶奶；姥姥；外婆"
+        "translation": "祖母；奶奶；姥姥；外婆"
       }
     ],
     "sentence_examples": [
@@ -476,7 +476,7 @@
     "translations": [
       {
         "type": "n",
-        "translation": "（外）祖父；爷爷；姥爷；外公"
+        "translation": "祖父；爷爷；姥爷；外公"
       }
     ],
     "sentence_examples": [
@@ -591,7 +591,7 @@
     "translations": [
       {
         "type": "pron",
-        "translation": "我（宾格）"
+        "translation": "我"
       }
     ],
     "sentence_examples": [
@@ -706,7 +706,7 @@
     "translations": [
       {
         "type": "n",
-        "translation": "堂（表）兄弟；堂（表）姐妹"
+        "translation": "堂兄弟；堂姐妹"
       }
     ],
     "sentence_examples": [
@@ -1097,7 +1097,7 @@
     "translations": [
       {
         "type": "n",
-        "translation": "（对女老师的称呼）老师"
+        "translation": "老师"
       }
     ],
     "sentence_examples": [
@@ -1761,7 +1761,7 @@
     "translations": [
       {
         "type": "pron",
-        "translation": "我们（宾格）"
+        "translation": "我们"
       }
     ],
     "sentence_examples": [
@@ -1784,7 +1784,7 @@
     "translations": [
       {
         "type": "pron",
-        "translation": "他们/她们/它们（宾格）"
+        "translation": "他们/她们/它们"
       }
     ],
     "sentence_examples": [
@@ -2464,7 +2464,7 @@
     "translations": [
       {
         "type": "n",
-        "translation": "（表示整点）……点钟"
+        "translation": "……点钟"
       }
     ],
     "sentence_examples": [
@@ -2582,7 +2582,7 @@
   {
     "word": "from",
     "phonetics": { "uk": "/frɒm/", "us": "/frɒm/" },
-    "translations": [{ "type": "prep", "translation": "（表示来源）来自；从……来" }],
+    "translations": [{ "type": "prep", "translation": "来自；从……来" }],
     "sentence_examples": [
       { "en": "I am from China.", "zh": "我来自中国。" },
       { "en": "This gift is from my mom.", "zh": "这份礼物来自我妈妈。" }
@@ -2690,7 +2690,7 @@
   {
     "word": "Mr",
     "phonetics": { "uk": "/ˈmɪstə(r)/", "us": "/ˈmɪstə(r)/" },
-    "translations": [{ "type": "abbr", "translation": "（用于男子的姓氏或姓名前）先生" }],
+    "translations": [{ "type": "abbr", "translation": "先生" }],
     "sentence_examples": [
       { "en": "Mr Li is our teacher.", "zh": "李先生是我们的老师。" },
       { "en": "Good morning, Mr Brown.", "zh": "早上好，布朗先生。" }
@@ -2792,7 +2792,7 @@
   {
     "word": "long",
     "phonetics": { "uk": "/lɒŋ/", "us": "/lɒŋ/" },
-    "translations": [{ "type": "adj", "translation": "（长度或距离）长的" }],
+    "translations": [{ "type": "adj", "translation": "长的" }],
     "sentence_examples": [
       { "en": "This ruler is long.", "zh": "这把尺子很长。" },
       { "en": "She has long hair.", "zh": "她有长头发。" }
@@ -2930,7 +2930,7 @@
   {
     "word": "sing",
     "phonetics": { "uk": "/sɪŋ/", "us": "/sɪŋ/" },
-    "translations": [{ "type": "v", "translation": "唱（歌）；演唱" }],
+    "translations": [{ "type": "v", "translation": "唱；演唱" }],
     "sentence_examples": [
       { "en": "We sing a song in class.", "zh": "我们在课堂上唱歌。" },
       { "en": "She can sing well.", "zh": "她唱得很好。" }
@@ -3101,7 +3101,7 @@
   {
     "word": "smell",
     "phonetics": { "uk": "/smel/", "us": "/smel/" },
-    "translations": [{ "type": "v", "translation": "闻（气味）" }],
+    "translations": [{ "type": "v", "translation": "闻" }],
     "sentence_examples": [
       { "en": "I smell flowers.", "zh": "我闻花香。" },
       { "en": "The soup smells good.", "zh": "这汤闻起来很香。" }
@@ -3110,7 +3110,7 @@
   {
     "word": "taste",
     "phonetics": { "uk": "/teɪst/", "us": "/teɪst/" },
-    "translations": [{ "type": "v", "translation": "尝（味道）" }],
+    "translations": [{ "type": "v", "translation": "尝" }],
     "sentence_examples": [
       { "en": "Taste the apple.", "zh": "尝尝这个苹果。" },
       { "en": "The milk tastes sweet.", "zh": "牛奶尝起来甜甜的。" }
@@ -3221,7 +3221,7 @@
   {
     "word": "egg",
     "phonetics": { "uk": "/eg/", "us": "/eg/" },
-    "translations": [{ "type": "n", "translation": "（作食物用的）蛋；鸡蛋" }],
+    "translations": [{ "type": "n", "translation": "蛋；鸡蛋" }],
     "sentence_examples": [
       { "en": "I eat an egg every morning.", "zh": "我每天早上吃一个鸡蛋。" },
       { "en": "The egg is on the plate.", "zh": "鸡蛋在盘子里。" }
@@ -3347,7 +3347,7 @@
   {
     "word": "at",
     "phonetics": { "uk": "/æt/", "us": "/æt/" },
-    "translations": [{ "type": "prep", "translation": "在（某处）" }],
+    "translations": [{ "type": "prep", "translation": "在" }],
     "sentence_examples": [
       { "en": "I am at home.", "zh": "我在家。" },
       { "en": "Meet me at the school gate.", "zh": "在学校门口见我。" }
@@ -3617,7 +3617,7 @@
   {
     "word": "spend",
     "phonetics": { "uk": "/spend/", "us": "/spend/" },
-    "translations": [{ "type": "v", "translation": "用；花（钱）" }],
+    "translations": [{ "type": "v", "translation": "用；花" }],
     "sentence_examples": [
       { "en": "Don't spend all your money.", "zh": "不要把钱全花光。" },
       { "en": "I spend two yuan on candy.", "zh": "我花两元买糖果。" }
@@ -3653,7 +3653,7 @@
   {
     "word": "PE",
     "phonetics": { "uk": "/ˌpiː ˈiː/", "us": "/ˌpiː ˈiː/" },
-    "translations": [{ "type": "n", "translation": "体育（课）" }],
+    "translations": [{ "type": "n", "translation": "体育" }],
     "sentence_examples": [
       { "en": "We have PE on Monday.", "zh": "我们星期一上体育课。" }
     ]
@@ -3803,7 +3803,7 @@
   {
     "word": "child",
     "phonetics": { "uk": "/tʃaɪld/", "us": "/tʃaɪld/" },
-    "translations": [{ "type": "n", "translation": "儿童；小孩（复数：children）" }],
+    "translations": [{ "type": "n", "translation": "儿童；小孩" }],
     "sentence_examples": [
       { "en": "The child is reading a book.", "zh": "这个小孩正在读书。" }
     ]
@@ -4521,7 +4521,7 @@
   {
     "word": "leaf",
     "phonetics": { "uk": "/liːf/", "us": "/liːf/" },
-    "translations": [{ "type": "n", "translation": "叶（复数：leaves）" }],
+    "translations": [{ "type": "n", "translation": "叶" }],
     "sentence_examples": [
       { "en": "A leaf is on the ground.", "zh": "地上有一片叶子。" }
     ]
