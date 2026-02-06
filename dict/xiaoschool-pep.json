@@ -1,0 +1,2573 @@
+[
+  {
+    "word": "nice",
+    "phonetics": {
+      "uk": "/naɪs/",
+      "us": "/naɪs/"
+    },
+    "translations": [
+      {
+        "type": "adj",
+        "translation": "令人愉快的；友好的"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "You are nice to me.",
+        "zh": "你对我很友好。"
+      },
+      {
+        "en": "Have a nice day!",
+        "zh": "祝你有愉快的一天！"
+      }
+    ]
+  },
+  {
+    "word": "ear",
+    "phonetics": {
+      "uk": "/ɪə(r)/",
+      "us": "/ɪr/"
+    },
+    "translations": [
+      {
+        "type": "n",
+        "translation": "耳朵"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "My ear hurts.",
+        "zh": "我的耳朵疼。"
+      },
+      {
+        "en": "I have two ears.",
+        "zh": "我有两只耳朵。"
+      }
+    ]
+  },
+  {
+    "word": "hand",
+    "phonetics": {
+      "uk": "/hænd/",
+      "us": "/hænd/"
+    },
+    "translations": [
+      {
+        "type": "n",
+        "translation": "手"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "Wash your hands.",
+        "zh": "洗洗手。"
+      },
+      {
+        "en": "Hold my hand, please.",
+        "zh": "请牵着我的手。"
+      }
+    ]
+  },
+  {
+    "word": "eye",
+    "phonetics": {
+      "uk": "/aɪ/",
+      "us": "/aɪ/"
+    },
+    "translations": [
+      {
+        "type": "n",
+        "translation": "眼睛"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "I have two eyes.",
+        "zh": "我有两只眼睛。"
+      },
+      {
+        "en": "Close your eyes.",
+        "zh": "闭上你的眼睛。"
+      }
+    ]
+  },
+  {
+    "word": "mouth",
+    "phonetics": {
+      "uk": "/maʊθ/",
+      "us": "/maʊθ/"
+    },
+    "translations": [
+      {
+        "type": "n",
+        "translation": "嘴"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "Open your mouth.",
+        "zh": "张开嘴。"
+      },
+      {
+        "en": "My mouth is big.",
+        "zh": "我的嘴巴很大。"
+      }
+    ]
+  },
+  {
+    "word": "arm",
+    "phonetics": {
+      "uk": "/ɑːm/",
+      "us": "/ɑrm/"
+    },
+    "translations": [
+      {
+        "type": "n",
+        "translation": "胳膊"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "My arm is strong.",
+        "zh": "我的胳膊很有力。"
+      },
+      {
+        "en": "I can lift my arm.",
+        "zh": "我可以举起胳膊。"
+      }
+    ]
+  },
+  {
+    "word": "can",
+    "phonetics": {
+      "uk": "/kæn/",
+      "us": "/kæn/"
+    },
+    "translations": [
+      {
+        "type": "v",
+        "translation": "可以；能"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "I can swim.",
+        "zh": "我会游泳。"
+      },
+      {
+        "en": "Can you help me?",
+        "zh": "你能帮帮我吗？"
+      }
+    ]
+  },
+  {
+    "word": "share",
+    "phonetics": {
+      "uk": "/ʃeə(r)/",
+      "us": "/ʃer/"
+    },
+    "translations": [
+      {
+        "type": "v",
+        "translation": "分享"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "Let’s share the cake.",
+        "zh": "我们一起分享蛋糕吧。"
+      },
+      {
+        "en": "I share my toy with my friend.",
+        "zh": "我和朋友分享玩具。"
+      }
+    ]
+  },
+  {
+    "word": "smile",
+    "phonetics": {
+      "uk": "/smaɪl/",
+      "us": "/smaɪl/"
+    },
+    "translations": [
+      {
+        "type": "v",
+        "translation": "微笑"
+      },
+      {
+        "type": "n",
+        "translation": "笑容"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "Smile, please.",
+        "zh": "请微笑。"
+      },
+      {
+        "en": "Her smile is sweet.",
+        "zh": "她的笑容很甜。"
+      }
+    ]
+  },
+  {
+    "word": "listen",
+    "phonetics": {
+      "uk": "/ˈlɪs(ə)n/",
+      "us": "/ˈlɪs(ə)n/"
+    },
+    "translations": [
+      {
+        "type": "v",
+        "translation": "听；倾听"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "Listen to the teacher.",
+        "zh": "听老师讲。"
+      },
+      {
+        "en": "Please listen carefully.",
+        "zh": "请认真听。"
+      }
+    ]
+  },
+  {
+    "word": "help",
+    "phonetics": {
+      "uk": "/help/",
+      "us": "/help/"
+    },
+    "translations": [
+      {
+        "type": "v",
+        "translation": "帮助"
+      },
+      {
+        "type": "n",
+        "translation": "帮助"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "I help my mum.",
+        "zh": "我帮妈妈。"
+      },
+      {
+        "en": "Thank you for your help.",
+        "zh": "谢谢你的帮助。"
+      }
+    ]
+  },
+  {
+    "word": "say",
+    "phonetics": {
+      "uk": "/seɪ/",
+      "us": "/seɪ/"
+    },
+    "translations": [
+      {
+        "type": "v",
+        "translation": "说；讲"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "Say hello to Miss Li.",
+        "zh": "跟李老师说“你好”。"
+      },
+      {
+        "en": "What do you say?",
+        "zh": "你说什么？"
+      }
+    ]
+  },
+  {
+    "word": "and",
+    "phonetics": {
+      "uk": "/ænd/",
+      "us": "/ænd/"
+    },
+    "translations": [
+      {
+        "type": "conj",
+        "translation": "和；与"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "I have a cat and a dog.",
+        "zh": "我有一只猫和一只狗。"
+      },
+      {
+        "en": "Mum and dad are here.",
+        "zh": "妈妈和爸爸都在这里。"
+      }
+    ]
+  },
+  {
+    "word": "goodbye",
+    "phonetics": {
+      "uk": "/ˌɡʊdˈbaɪ/",
+      "us": "/ˌɡʊdˈbaɪ/"
+    },
+    "translations": [
+      {
+        "type": "int",
+        "translation": "再见"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "Goodbye, Miss Wang.",
+        "zh": "再见，王老师。"
+      },
+      {
+        "en": "Say goodbye to your friend.",
+        "zh": "和你的朋友说再见。"
+      }
+    ]
+  },
+  {
+    "word": "toy",
+    "phonetics": {
+      "uk": "/tɔɪ/",
+      "us": "/tɔɪ/"
+    },
+    "translations": [
+      {
+        "type": "n",
+        "translation": "玩具"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "This is my toy.",
+        "zh": "这是我的玩具。"
+      },
+      {
+        "en": "I like this toy car.",
+        "zh": "我喜欢这辆玩具小汽车。"
+      }
+    ]
+  },
+  {
+    "word": "friend",
+    "phonetics": {
+      "uk": "/frend/",
+      "us": "/frɛnd/"
+    },
+    "translations": [
+      {
+        "type": "n",
+        "translation": "朋友"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "She is my friend.",
+        "zh": "她是我的朋友。"
+      },
+      {
+        "en": "I play with my friends.",
+        "zh": "我和朋友们一起玩。"
+      }
+    ]
+  },
+  {
+    "word": "good",
+    "phonetics": {
+      "uk": "/ɡʊd/",
+      "us": "/ɡʊd/"
+    },
+    "translations": [
+      {
+        "type": "adj",
+        "translation": "好的"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "This is a good book.",
+        "zh": "这是一本好书。"
+      },
+      {
+        "en": "Good job!",
+        "zh": "干得好！"
+      }
+    ]
+  },
+  {
+    "word": "mum",
+    "phonetics": {
+      "uk": "/mʌm/",
+      "us": "/mʌm/"
+    },
+    "translations": [
+      {
+        "type": "n",
+        "translation": "妈妈"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "Mum, I love you.",
+        "zh": "妈妈，我爱你。"
+      },
+      {
+        "en": "My mum is kind.",
+        "zh": "我妈妈很和蔼。"
+      }
+    ]
+  },
+  {
+    "word": "dad",
+    "phonetics": {
+      "uk": "/dæd/",
+      "us": "/dæd/"
+    },
+    "translations": [
+      {
+        "type": "n",
+        "translation": "爸爸"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "Dad, look at me!",
+        "zh": "爸爸，看我！"
+      },
+      {
+        "en": "My dad can drive.",
+        "zh": "我爸爸会开车。"
+      }
+    ]
+  },
+  {
+    "word": "grandma",
+    "phonetics": {
+      "uk": "/ˈɡrænmɑː/",
+      "us": "/ˈɡrænˌmɑ/"
+    },
+    "translations": [
+      {
+        "type": "n",
+        "translation": "（外）祖母；奶奶；姥姥；外婆"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "I visit my grandma on Sunday.",
+        "zh": "我星期天去看望外婆/奶奶。"
+      },
+      {
+        "en": "Grandma makes nice noodles.",
+        "zh": "外婆/奶奶做的面条很好吃。"
+      }
+    ]
+  },
+  {
+    "word": "grandpa",
+    "phonetics": {
+      "uk": "/ˈɡrænpɑː/",
+      "us": "/ˈɡrænˌpɑ/"
+    },
+    "translations": [
+      {
+        "type": "n",
+        "translation": "（外）祖父；爷爷；姥爷；外公"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "My grandpa is tall.",
+        "zh": "我爷爷/外公很高。"
+      },
+      {
+        "en": "Grandpa tells me stories.",
+        "zh": "爷爷/外公给我讲故事。"
+      }
+    ]
+  },
+  {
+    "word": "grandfather",
+    "phonetics": {
+      "uk": "/ˈɡrænfɑːðə(r)/",
+      "us": "/ˈɡrænˌfɑðər/"
+    },
+    "translations": [
+      {
+        "type": "n",
+        "translation": "祖父；爷爷；姥爷；外公"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "My grandfather likes tea.",
+        "zh": "我爷爷/外公喜欢喝茶。"
+      },
+      {
+        "en": "I walk with my grandfather.",
+        "zh": "我和爷爷/外公一起散步。"
+      }
+    ]
+  },
+  {
+    "word": "grandmother",
+    "phonetics": {
+      "uk": "/ˈɡrænmʌðə(r)/",
+      "us": "/ˈɡrænˌmʌðər/"
+    },
+    "translations": [
+      {
+        "type": "n",
+        "translation": "祖母；奶奶；姥姥；外婆"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "My grandmother is happy.",
+        "zh": "我奶奶/外婆很开心。"
+      },
+      {
+        "en": "I help my grandmother.",
+        "zh": "我帮助奶奶/外婆。"
+      }
+    ]
+  },
+  {
+    "word": "mother",
+    "phonetics": {
+      "uk": "/ˈmʌðə(r)/",
+      "us": "/ˈmʌðər/"
+    },
+    "translations": [
+      {
+        "type": "n",
+        "translation": "母亲；妈妈"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "My mother is a teacher.",
+        "zh": "我妈妈是一名老师。"
+      },
+      {
+        "en": "I love my mother.",
+        "zh": "我爱我的妈妈。"
+      }
+    ]
+  },
+  {
+    "word": "father",
+    "phonetics": {
+      "uk": "/ˈfɑːðə(r)/",
+      "us": "/ˈfɑðər/"
+    },
+    "translations": [
+      {
+        "type": "n",
+        "translation": "父亲；爸爸"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "My father is strong.",
+        "zh": "我爸爸很强壮。"
+      },
+      {
+        "en": "I play with my father.",
+        "zh": "我和爸爸一起玩。"
+      }
+    ]
+  },
+  {
+    "word": "me",
+    "phonetics": {
+      "uk": "/miː/",
+      "us": "/mi/"
+    },
+    "translations": [
+      {
+        "type": "pron",
+        "translation": "我（宾格）"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "Look at me!",
+        "zh": "看着我！"
+      },
+      {
+        "en": "Can you help me?",
+        "zh": "你能帮我吗？"
+      }
+    ]
+  },
+  {
+    "word": "sister",
+    "phonetics": {
+      "uk": "/ˈsɪstə(r)/",
+      "us": "/ˈsɪstər/"
+    },
+    "translations": [
+      {
+        "type": "n",
+        "translation": "姐；妹"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "My sister has a new bag.",
+        "zh": "我姐姐/妹妹有一个新书包。"
+      },
+      {
+        "en": "I share my toys with my sister.",
+        "zh": "我和姐姐/妹妹分享玩具。"
+      }
+    ]
+  },
+  {
+    "word": "family",
+    "phonetics": {
+      "uk": "/ˈfæməli/",
+      "us": "/ˈfæməli/"
+    },
+    "translations": [
+      {
+        "type": "n",
+        "translation": "家；家庭"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "This is my family.",
+        "zh": "这是我的家人。"
+      },
+      {
+        "en": "I love my family.",
+        "zh": "我爱我的家庭。"
+      }
+    ]
+  },
+  {
+    "word": "have",
+    "phonetics": {
+      "uk": "/hæv/",
+      "us": "/hæv/"
+    },
+    "translations": [
+      {
+        "type": "v",
+        "translation": "有"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "I have a dog.",
+        "zh": "我有一只狗。"
+      },
+      {
+        "en": "We have two apples.",
+        "zh": "我们有两个苹果。"
+      }
+    ]
+  },
+  {
+    "word": "big",
+    "phonetics": {
+      "uk": "/bɪɡ/",
+      "us": "/bɪɡ/"
+    },
+    "translations": [
+      {
+        "type": "adj",
+        "translation": "大的"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "This elephant is big.",
+        "zh": "这头大象很大。"
+      },
+      {
+        "en": "I have a big bag.",
+        "zh": "我有一个大书包。"
+      }
+    ]
+  },
+  {
+    "word": "cousin",
+    "phonetics": {
+      "uk": "/ˈkʌz(ə)n/",
+      "us": "/ˈkʌz(ə)n/"
+    },
+    "translations": [
+      {
+        "type": "n",
+        "translation": "堂（表）兄弟；堂（表）姐妹"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "My cousin is my friend.",
+        "zh": "我的堂/表兄弟（姐妹）也是我的朋友。"
+      },
+      {
+        "en": "I play with my cousin.",
+        "zh": "我和堂/表兄弟（姐妹）一起玩。"
+      }
+    ]
+  },
+  {
+    "word": "brother",
+    "phonetics": {
+      "uk": "/ˈbrʌðə(r)/",
+      "us": "/ˈbrʌðər/"
+    },
+    "translations": [
+      {
+        "type": "n",
+        "translation": "兄弟"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "My brother is funny.",
+        "zh": "我哥哥/弟弟很有趣。"
+      },
+      {
+        "en": "I help my brother.",
+        "zh": "我帮助哥哥/弟弟。"
+      }
+    ]
+  },
+  {
+    "word": "baby",
+    "phonetics": {
+      "uk": "/ˈbeɪbi/",
+      "us": "/ˈbeɪbi/"
+    },
+    "translations": [
+      {
+        "type": "n",
+        "translation": "婴儿"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "The baby is sleeping.",
+        "zh": "宝宝在睡觉。"
+      },
+      {
+        "en": "The baby smiles.",
+        "zh": "宝宝笑了。"
+      }
+    ]
+  },
+  {
+    "word": "uncle",
+    "phonetics": {
+      "uk": "/ˈʌŋk(ə)l/",
+      "us": "/ˈʌŋk(ə)l/"
+    },
+    "translations": [
+      {
+        "type": "n",
+        "translation": "舅父；伯父；叔父；姑父；姨夫"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "My uncle has a car.",
+        "zh": "我叔叔/舅舅有一辆车。"
+      },
+      {
+        "en": "I visit my uncle.",
+        "zh": "我去看望叔叔/舅舅。"
+      }
+    ]
+  },
+  {
+    "word": "aunt",
+    "phonetics": {
+      "uk": "/ɑːnt/",
+      "us": "/ænt/"
+    },
+    "translations": [
+      {
+        "type": "n",
+        "translation": "姑母；姨母；伯母；婶母；舅母"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "My aunt is kind.",
+        "zh": "我阿姨/姑姑很亲切。"
+      },
+      {
+        "en": "I help my aunt in the kitchen.",
+        "zh": "我在厨房帮阿姨/姑姑。"
+      }
+    ]
+  },
+  {
+    "word": "some",
+    "phonetics": {
+      "uk": "/sʌm/",
+      "us": "/sʌm/"
+    },
+    "translations": [
+      {
+        "type": "det",
+        "translation": "一些"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "I have some water.",
+        "zh": "我有一些水。"
+      },
+      {
+        "en": "Give me some grapes, please.",
+        "zh": "请给我一些葡萄。"
+      }
+    ]
+  },
+  {
+    "word": "small",
+    "phonetics": {
+      "uk": "/smɔːl/",
+      "us": "/smɔl/"
+    },
+    "translations": [
+      {
+        "type": "adj",
+        "translation": "小的"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "This cat is small.",
+        "zh": "这只猫很小。"
+      },
+      {
+        "en": "I want a small apple.",
+        "zh": "我想要一个小苹果。"
+      }
+    ]
+  },
+  {
+    "word": "like",
+    "phonetics": {
+      "uk": "/laɪk/",
+      "us": "/laɪk/"
+    },
+    "translations": [
+      {
+        "type": "v",
+        "translation": "喜欢"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "I like dogs.",
+        "zh": "我喜欢狗。"
+      },
+      {
+        "en": "Do you like apples?",
+        "zh": "你喜欢苹果吗？"
+      }
+    ]
+  },
+  {
+    "word": "dog",
+    "phonetics": {
+      "uk": "/dɒɡ/",
+      "us": "/dɔɡ/"
+    },
+    "translations": [
+      {
+        "type": "n",
+        "translation": "狗"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "The dog is cute.",
+        "zh": "这只狗很可爱。"
+      },
+      {
+        "en": "My dog can run fast.",
+        "zh": "我的狗跑得很快。"
+      }
+    ]
+  },
+  {
+    "word": "pet",
+    "phonetics": {
+      "uk": "/pet/",
+      "us": "/pet/"
+    },
+    "translations": [
+      {
+        "type": "n",
+        "translation": "宠物"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "I have a pet cat.",
+        "zh": "我有一只宠物猫。"
+      },
+      {
+        "en": "My pet is my friend.",
+        "zh": "我的宠物是我的好朋友。"
+      }
+    ]
+  },
+  {
+    "word": "cat",
+    "phonetics": {
+      "uk": "/kæt/",
+      "us": "/kæt/"
+    },
+    "translations": [
+      {
+        "type": "n",
+        "translation": "猫"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "The cat is sleeping.",
+        "zh": "小猫在睡觉。"
+      },
+      {
+        "en": "My cat likes fish.",
+        "zh": "我的猫喜欢吃鱼。"
+      }
+    ]
+  },
+  {
+    "word": "fish",
+    "phonetics": {
+      "uk": "/fɪʃ/",
+      "us": "/fɪʃ/"
+    },
+    "translations": [
+      {
+        "type": "n",
+        "translation": "鱼"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "I can see a fish.",
+        "zh": "我能看到一条鱼。"
+      },
+      {
+        "en": "The cat eats fish.",
+        "zh": "猫吃鱼。"
+      }
+    ]
+  },
+  {
+    "word": "bird",
+    "phonetics": {
+      "uk": "/bɜːd/",
+      "us": "/bɝd/"
+    },
+    "translations": [
+      {
+        "type": "n",
+        "translation": "鸟"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "A bird is in the tree.",
+        "zh": "树上有一只鸟。"
+      },
+      {
+        "en": "The bird can fly.",
+        "zh": "鸟会飞。"
+      }
+    ]
+  },
+  {
+    "word": "rabbit",
+    "phonetics": {
+      "uk": "/ˈræbɪt/",
+      "us": "/ˈræbɪt/"
+    },
+    "translations": [
+      {
+        "type": "n",
+        "translation": "兔"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "The rabbit is white.",
+        "zh": "这只兔子是白色的。"
+      },
+      {
+        "en": "I see a rabbit at the zoo.",
+        "zh": "我在动物园看到一只兔子。"
+      }
+    ]
+  },
+  {
+    "word": "go",
+    "phonetics": {
+      "uk": "/ɡəʊ/",
+      "us": "/ɡoʊ/"
+    },
+    "translations": [
+      {
+        "type": "v",
+        "translation": "去"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "Let’s go to school.",
+        "zh": "我们去上学吧。"
+      },
+      {
+        "en": "I go to the zoo.",
+        "zh": "我去动物园。"
+      }
+    ]
+  },
+  {
+    "word": "zoo",
+    "phonetics": {
+      "uk": "/zuː/",
+      "us": "/zu/"
+    },
+    "translations": [
+      {
+        "type": "n",
+        "translation": "动物园"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "We go to the zoo today.",
+        "zh": "我们今天去动物园。"
+      },
+      {
+        "en": "I see a panda at the zoo.",
+        "zh": "我在动物园看到一只熊猫。"
+      }
+    ]
+  },
+  {
+    "word": "fox",
+    "phonetics": {
+      "uk": "/fɒks/",
+      "us": "/fɑks/"
+    },
+    "translations": [
+      {
+        "type": "n",
+        "translation": "狐狸"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "The fox is red.",
+        "zh": "狐狸是红色的。"
+      },
+      {
+        "en": "I see a fox in the storybook.",
+        "zh": "我在故事书里看到一只狐狸。"
+      }
+    ]
+  },
+  {
+    "word": "Miss",
+    "phonetics": {
+      "uk": "/mɪs/",
+      "us": "/mɪs/"
+    },
+    "translations": [
+      {
+        "type": "n",
+        "translation": "（对女老师的称呼）老师"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "Good morning, Miss Li.",
+        "zh": "早上好，李老师。"
+      },
+      {
+        "en": "Miss Wang is my English teacher.",
+        "zh": "王老师是我的英语老师。"
+      }
+    ]
+  },
+  {
+    "word": "panda",
+    "phonetics": {
+      "uk": "/ˈpændə/",
+      "us": "/ˈpændə/"
+    },
+    "translations": [
+      {
+        "type": "n",
+        "translation": "大熊猫"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "The panda is cute.",
+        "zh": "大熊猫很可爱。"
+      },
+      {
+        "en": "I like pandas.",
+        "zh": "我喜欢大熊猫。"
+      }
+    ]
+  },
+  {
+    "word": "red panda",
+    "phonetics": {
+      "uk": "/ˌred ˈpændə/",
+      "us": "/ˌrɛd ˈpændə/"
+    },
+    "translations": [
+      {
+        "type": "n",
+        "translation": "小熊猫"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "The red panda is small.",
+        "zh": "小熊猫很小。"
+      },
+      {
+        "en": "I see a red panda at the zoo.",
+        "zh": "我在动物园看到一只小熊猫。"
+      }
+    ]
+  },
+  {
+    "word": "cute",
+    "phonetics": {
+      "uk": "/kjuːt/",
+      "us": "/kjuːt/"
+    },
+    "translations": [
+      {
+        "type": "adj",
+        "translation": "可爱的"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "This kitten is cute.",
+        "zh": "这只小猫很可爱。"
+      },
+      {
+        "en": "Your smile is cute.",
+        "zh": "你的笑容很可爱。"
+      }
+    ]
+  },
+  {
+    "word": "monkey",
+    "phonetics": {
+      "uk": "/ˈmʌŋki/",
+      "us": "/ˈmʌŋki/"
+    },
+    "translations": [
+      {
+        "type": "n",
+        "translation": "猴子"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "The monkey can climb.",
+        "zh": "猴子会爬。"
+      },
+      {
+        "en": "I see monkeys at the zoo.",
+        "zh": "我在动物园看到猴子。"
+      }
+    ]
+  },
+  {
+    "word": "tiger",
+    "phonetics": {
+      "uk": "/ˈtaɪɡə(r)/",
+      "us": "/ˈtaɪɡər/"
+    },
+    "translations": [
+      {
+        "type": "n",
+        "translation": "老虎"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "The tiger is big.",
+        "zh": "老虎很大。"
+      },
+      {
+        "en": "I see a tiger at the zoo.",
+        "zh": "我在动物园看到一只老虎。"
+      }
+    ]
+  },
+  {
+    "word": "elephant",
+    "phonetics": {
+      "uk": "/ˈelɪfənt/",
+      "us": "/ˈelɪfənt/"
+    },
+    "translations": [
+      {
+        "type": "n",
+        "translation": "大象"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "The elephant has a long nose.",
+        "zh": "大象有一条长鼻子。"
+      },
+      {
+        "en": "An elephant is big.",
+        "zh": "大象很大。"
+      }
+    ]
+  },
+  {
+    "word": "lion",
+    "phonetics": {
+      "uk": "/ˈlaɪən/",
+      "us": "/ˈlaɪən/"
+    },
+    "translations": [
+      {
+        "type": "n",
+        "translation": "狮子"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "The lion is strong.",
+        "zh": "狮子很强壮。"
+      },
+      {
+        "en": "I see a lion at the zoo.",
+        "zh": "我在动物园看到一只狮子。"
+      }
+    ]
+  },
+  {
+    "word": "giraffe",
+    "phonetics": {
+      "uk": "/dʒəˈrɑːf/",
+      "us": "/dʒəˈræf/"
+    },
+    "translations": [
+      {
+        "type": "n",
+        "translation": "长颈鹿"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "The giraffe is tall.",
+        "zh": "长颈鹿很高。"
+      },
+      {
+        "en": "I can see the giraffe’s long neck.",
+        "zh": "我能看到长颈鹿的长脖子。"
+      }
+    ]
+  },
+  {
+    "word": "tall",
+    "phonetics": {
+      "uk": "/tɔːl/",
+      "us": "/tɔl/"
+    },
+    "translations": [
+      {
+        "type": "adj",
+        "translation": "高的"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "My dad is tall.",
+        "zh": "我爸爸很高。"
+      },
+      {
+        "en": "That tree is tall.",
+        "zh": "那棵树很高。"
+      }
+    ]
+  },
+  {
+    "word": "fast",
+    "phonetics": {
+      "uk": "/fɑːst/",
+      "us": "/fæst/"
+    },
+    "translations": [
+      {
+        "type": "adj",
+        "translation": "快的"
+      },
+      {
+        "type": "adv",
+        "translation": "快地"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "The rabbit runs fast.",
+        "zh": "兔子跑得快。"
+      },
+      {
+        "en": "This car is fast.",
+        "zh": "这辆车很快。"
+      }
+    ]
+  },
+  {
+    "word": "apple",
+    "phonetics": {
+      "uk": "/ˈæp(ə)l/",
+      "us": "/ˈæp(ə)l/"
+    },
+    "translations": [
+      {
+        "type": "n",
+        "translation": "苹果"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "I eat an apple.",
+        "zh": "我吃一个苹果。"
+      },
+      {
+        "en": "The apple is red.",
+        "zh": "苹果是红色的。"
+      }
+    ]
+  },
+  {
+    "word": "banana",
+    "phonetics": {
+      "uk": "/bəˈnɑːnə/",
+      "us": "/bəˈnænə/"
+    },
+    "translations": [
+      {
+        "type": "n",
+        "translation": "香蕉"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "I like bananas.",
+        "zh": "我喜欢香蕉。"
+      },
+      {
+        "en": "The banana is yellow.",
+        "zh": "香蕉是黄色的。"
+      }
+    ]
+  },
+  {
+    "word": "farm",
+    "phonetics": {
+      "uk": "/fɑːm/",
+      "us": "/fɑrm/"
+    },
+    "translations": [
+      {
+        "type": "n",
+        "translation": "农场"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "We go to the farm.",
+        "zh": "我们去农场。"
+      },
+      {
+        "en": "I see ducks on the farm.",
+        "zh": "我在农场看到鸭子。"
+      }
+    ]
+  },
+  {
+    "word": "air",
+    "phonetics": {
+      "uk": "/eə(r)/",
+      "us": "/er/"
+    },
+    "translations": [
+      {
+        "type": "n",
+        "translation": "空气"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "The air is clean.",
+        "zh": "空气很干净。"
+      },
+      {
+        "en": "I breathe air.",
+        "zh": "我呼吸空气。"
+      }
+    ]
+  },
+  {
+    "word": "orange",
+    "phonetics": {
+      "uk": "/ˈɒrɪndʒ/",
+      "us": "/ˈɔrɪndʒ/"
+    },
+    "translations": [
+      {
+        "type": "n",
+        "translation": "橙子"
+      },
+      {
+        "type": "adj",
+        "translation": "橙色的"
+      },
+      {
+        "type": "n",
+        "translation": "橙色"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "I eat an orange.",
+        "zh": "我吃一个橙子。"
+      },
+      {
+        "en": "The orange is orange.",
+        "zh": "这个橙子是橙色的。"
+      }
+    ]
+  },
+  {
+    "word": "grape",
+    "phonetics": {
+      "uk": "/ɡreɪp/",
+      "us": "/ɡreɪp/"
+    },
+    "translations": [
+      {
+        "type": "n",
+        "translation": "葡萄"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "These grapes are sweet.",
+        "zh": "这些葡萄很甜。"
+      },
+      {
+        "en": "I have some grapes.",
+        "zh": "我有一些葡萄。"
+      }
+    ]
+  },
+  {
+    "word": "school",
+    "phonetics": {
+      "uk": "/skuːl/",
+      "us": "/skuːl/"
+    },
+    "translations": [
+      {
+        "type": "n",
+        "translation": "学校"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "I go to school.",
+        "zh": "我去上学。"
+      },
+      {
+        "en": "My school is big.",
+        "zh": "我的学校很大。"
+      }
+    ]
+  },
+  {
+    "word": "garden",
+    "phonetics": {
+      "uk": "/ˈɡɑːd(ə)n/",
+      "us": "/ˈɡɑrd(ə)n/"
+    },
+    "translations": [
+      {
+        "type": "n",
+        "translation": "花园"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "There are flowers in the garden.",
+        "zh": "花园里有花。"
+      },
+      {
+        "en": "I play in the garden.",
+        "zh": "我在花园里玩。"
+      }
+    ]
+  },
+  {
+    "word": "need",
+    "phonetics": {
+      "uk": "/niːd/",
+      "us": "/niːd/"
+    },
+    "translations": [
+      {
+        "type": "v",
+        "translation": "需要"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "I need some water.",
+        "zh": "我需要一些水。"
+      },
+      {
+        "en": "We need a pencil.",
+        "zh": "我们需要一支铅笔。"
+      }
+    ]
+  },
+  {
+    "word": "water",
+    "phonetics": {
+      "uk": "/ˈwɔːtə(r)/",
+      "us": "/ˈwɔtər/"
+    },
+    "translations": [
+      {
+        "type": "n",
+        "translation": "水"
+      },
+      {
+        "type": "v",
+        "translation": "浇水"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "I drink water.",
+        "zh": "我喝水。"
+      },
+      {
+        "en": "I water the flowers.",
+        "zh": "我给花浇水。"
+      }
+    ]
+  },
+  {
+    "word": "flower",
+    "phonetics": {
+      "uk": "/ˈflaʊə(r)/",
+      "us": "/ˈflaʊər/"
+    },
+    "translations": [
+      {
+        "type": "n",
+        "translation": "花"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "This flower is beautiful.",
+        "zh": "这朵花很漂亮。"
+      },
+      {
+        "en": "I smell the flower.",
+        "zh": "我闻闻花香。"
+      }
+    ]
+  },
+  {
+    "word": "grass",
+    "phonetics": {
+      "uk": "/ɡrɑːs/",
+      "us": "/ɡræs/"
+    },
+    "translations": [
+      {
+        "type": "n",
+        "translation": "草；草地"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "The grass is green.",
+        "zh": "草是绿色的。"
+      },
+      {
+        "en": "Don’t run on the grass.",
+        "zh": "不要在草地上跑。"
+      }
+    ]
+  },
+  {
+    "word": "plant",
+    "phonetics": {
+      "uk": "/plɑːnt/",
+      "us": "/plænt/"
+    },
+    "translations": [
+      {
+        "type": "v",
+        "translation": "种植"
+      },
+      {
+        "type": "n",
+        "translation": "植物"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "We plant a tree.",
+        "zh": "我们种一棵树。"
+      },
+      {
+        "en": "This plant needs water.",
+        "zh": "这株植物需要水。"
+      }
+    ]
+  },
+  {
+    "word": "new",
+    "phonetics": {
+      "uk": "/njuː/",
+      "us": "/nuː/"
+    },
+    "translations": [
+      {
+        "type": "adj",
+        "translation": "新的"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "I have a new pencil.",
+        "zh": "我有一支新铅笔。"
+      },
+      {
+        "en": "This is my new schoolbag.",
+        "zh": "这是我的新书包。"
+      }
+    ]
+  },
+  {
+    "word": "tree",
+    "phonetics": {
+      "uk": "/triː/",
+      "us": "/triː/"
+    },
+    "translations": [
+      {
+        "type": "n",
+        "translation": "树"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "A bird is in the tree.",
+        "zh": "树上有一只鸟。"
+      },
+      {
+        "en": "The tree is tall.",
+        "zh": "这棵树很高。"
+      }
+    ]
+  },
+  {
+    "word": "sun",
+    "phonetics": {
+      "uk": "/sʌn/",
+      "us": "/sʌn/"
+    },
+    "translations": [
+      {
+        "type": "n",
+        "translation": "太阳"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "The sun is bright.",
+        "zh": "太阳很亮。"
+      },
+      {
+        "en": "I see the sun in the sky.",
+        "zh": "我看到天空中的太阳。"
+      }
+    ]
+  },
+  {
+    "word": "give",
+    "phonetics": {
+      "uk": "/ɡɪv/",
+      "us": "/ɡɪv/"
+    },
+    "translations": [
+      {
+        "type": "v",
+        "translation": "给"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "Please give me a pencil.",
+        "zh": "请给我一支铅笔。"
+      },
+      {
+        "en": "I give my friend an apple.",
+        "zh": "我给朋友一个苹果。"
+      }
+    ]
+  },
+  {
+    "word": "us",
+    "phonetics": {
+      "uk": "/ʌs/",
+      "us": "/ʌs/"
+    },
+    "translations": [
+      {
+        "type": "pron",
+        "translation": "我们（宾格）"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "Help us, please.",
+        "zh": "请帮助我们。"
+      },
+      {
+        "en": "The teacher likes us.",
+        "zh": "老师喜欢我们。"
+      }
+    ]
+  },
+  {
+    "word": "them",
+    "phonetics": {
+      "uk": "/ðem/",
+      "us": "/ðɛm/"
+    },
+    "translations": [
+      {
+        "type": "pron",
+        "translation": "他们/她们/它们（宾格）"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "I see them.",
+        "zh": "我看见他们/它们了。"
+      },
+      {
+        "en": "Give them the toys.",
+        "zh": "把玩具给他们/它们。"
+      }
+    ]
+  },
+  {
+    "word": "colour",
+    "phonetics": {
+      "uk": "/ˈkʌlə(r)/",
+      "us": "/ˈkʌlər/"
+    },
+    "translations": [
+      {
+        "type": "n",
+        "translation": "颜色"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "What colour is it?",
+        "zh": "它是什么颜色？"
+      },
+      {
+        "en": "I like the blue colour.",
+        "zh": "我喜欢蓝色。"
+      }
+    ]
+  },
+  {
+    "word": "green",
+    "phonetics": {
+      "uk": "/ɡriːn/",
+      "us": "/ɡriːn/"
+    },
+    "translations": [
+      {
+        "type": "adj",
+        "translation": "绿色的"
+      },
+      {
+        "type": "n",
+        "translation": "绿色"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "The grass is green.",
+        "zh": "草是绿色的。"
+      },
+      {
+        "en": "My bag is green.",
+        "zh": "我的书包是绿色的。"
+      }
+    ]
+  },
+  {
+    "word": "red",
+    "phonetics": {
+      "uk": "/red/",
+      "us": "/rɛd/"
+    },
+    "translations": [
+      {
+        "type": "adj",
+        "translation": "红色的"
+      },
+      {
+        "type": "n",
+        "translation": "红色"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "The apple is red.",
+        "zh": "苹果是红色的。"
+      },
+      {
+        "en": "I draw a red sun.",
+        "zh": "我画一个红色的太阳。"
+      }
+    ]
+  },
+  {
+    "word": "blue",
+    "phonetics": {
+      "uk": "/bluː/",
+      "us": "/bluː/"
+    },
+    "translations": [
+      {
+        "type": "adj",
+        "translation": "蓝色的"
+      },
+      {
+        "type": "n",
+        "translation": "蓝色"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "The sky is blue.",
+        "zh": "天空是蓝色的。"
+      },
+      {
+        "en": "I have a blue pen.",
+        "zh": "我有一支蓝色的笔。"
+      }
+    ]
+  },
+  {
+    "word": "make",
+    "phonetics": {
+      "uk": "/meɪk/",
+      "us": "/meɪk/"
+    },
+    "translations": [
+      {
+        "type": "v",
+        "translation": "做；制作"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "I make a cake with Mum.",
+        "zh": "我和妈妈一起做蛋糕。"
+      },
+      {
+        "en": "Let’s make a toy.",
+        "zh": "我们做一个玩具吧。"
+      }
+    ]
+  },
+  {
+    "word": "purple",
+    "phonetics": {
+      "uk": "/ˈpɜːp(ə)l/",
+      "us": "/ˈpɝp(ə)l/"
+    },
+    "translations": [
+      {
+        "type": "adj",
+        "translation": "紫色的"
+      },
+      {
+        "type": "n",
+        "translation": "紫色"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "This flower is purple.",
+        "zh": "这朵花是紫色的。"
+      },
+      {
+        "en": "I like purple.",
+        "zh": "我喜欢紫色。"
+      }
+    ]
+  },
+  {
+    "word": "brown",
+    "phonetics": {
+      "uk": "/braʊn/",
+      "us": "/braʊn/"
+    },
+    "translations": [
+      {
+        "type": "adj",
+        "translation": "棕色的"
+      },
+      {
+        "type": "n",
+        "translation": "棕色"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "The bear is brown.",
+        "zh": "熊是棕色的。"
+      },
+      {
+        "en": "I have a brown bag.",
+        "zh": "我有一个棕色的书包。"
+      }
+    ]
+  },
+  {
+    "word": "bear",
+    "phonetics": {
+      "uk": "/beə(r)/",
+      "us": "/ber/"
+    },
+    "translations": [
+      {
+        "type": "n",
+        "translation": "熊"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "The bear is big.",
+        "zh": "熊很大。"
+      },
+      {
+        "en": "I see a bear in the zoo.",
+        "zh": "我在动物园看到一只熊。"
+      }
+    ]
+  },
+  {
+    "word": "yellow",
+    "phonetics": {
+      "uk": "/ˈjeləʊ/",
+      "us": "/ˈjeloʊ/"
+    },
+    "translations": [
+      {
+        "type": "adj",
+        "translation": "黄色的"
+      },
+      {
+        "type": "n",
+        "translation": "黄色"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "The banana is yellow.",
+        "zh": "香蕉是黄色的。"
+      },
+      {
+        "en": "I draw a yellow duck.",
+        "zh": "我画一只黄色的小鸭子。"
+      }
+    ]
+  },
+  {
+    "word": "duck",
+    "phonetics": {
+      "uk": "/dʌk/",
+      "us": "/dʌk/"
+    },
+    "translations": [
+      {
+        "type": "n",
+        "translation": "鸭"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "The duck can swim.",
+        "zh": "鸭子会游泳。"
+      },
+      {
+        "en": "I see a duck on the farm.",
+        "zh": "我在农场看到一只鸭子。"
+      }
+    ]
+  },
+  {
+    "word": "sea",
+    "phonetics": {
+      "uk": "/siː/",
+      "us": "/siː/"
+    },
+    "translations": [
+      {
+        "type": "n",
+        "translation": "海洋"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "The sea is blue.",
+        "zh": "大海是蓝色的。"
+      },
+      {
+        "en": "I go to the sea with my family.",
+        "zh": "我和家人去看海。"
+      }
+    ]
+  },
+  {
+    "word": "pink",
+    "phonetics": {
+      "uk": "/pɪŋk/",
+      "us": "/pɪŋk/"
+    },
+    "translations": [
+      {
+        "type": "adj",
+        "translation": "粉色的"
+      },
+      {
+        "type": "n",
+        "translation": "粉色"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "My dress is pink.",
+        "zh": "我的裙子是粉色的。"
+      },
+      {
+        "en": "I like pink flowers.",
+        "zh": "我喜欢粉色的花。"
+      }
+    ]
+  },
+  {
+    "word": "draw",
+    "phonetics": {
+      "uk": "/drɔː/",
+      "us": "/drɔ/"
+    },
+    "translations": [
+      {
+        "type": "v",
+        "translation": "画"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "I draw a cat.",
+        "zh": "我画一只猫。"
+      },
+      {
+        "en": "Let’s draw together.",
+        "zh": "我们一起画画吧。"
+      }
+    ]
+  },
+  {
+    "word": "white",
+    "phonetics": {
+      "uk": "/waɪt/",
+      "us": "/waɪt/"
+    },
+    "translations": [
+      {
+        "type": "adj",
+        "translation": "白色的"
+      },
+      {
+        "type": "n",
+        "translation": "白色"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "The rabbit is white.",
+        "zh": "兔子是白色的。"
+      },
+      {
+        "en": "I have a white shirt.",
+        "zh": "我有一件白色的衬衫。"
+      }
+    ]
+  },
+  {
+    "word": "black",
+    "phonetics": {
+      "uk": "/blæk/",
+      "us": "/blæk/"
+    },
+    "translations": [
+      {
+        "type": "adj",
+        "translation": "黑色的"
+      },
+      {
+        "type": "n",
+        "translation": "黑色"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "My cat is black.",
+        "zh": "我的猫是黑色的。"
+      },
+      {
+        "en": "I draw a black hat.",
+        "zh": "我画一顶黑色的帽子。"
+      }
+    ]
+  },
+  {
+    "word": "old",
+    "phonetics": {
+      "uk": "/əʊld/",
+      "us": "/oʊld/"
+    },
+    "translations": [
+      {
+        "type": "adj",
+        "translation": "旧的；年纪大的"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "This is an old book.",
+        "zh": "这是一本旧书。"
+      },
+      {
+        "en": "My grandpa is old.",
+        "zh": "我爷爷/外公年纪大了。"
+      }
+    ]
+  },
+  {
+    "word": "five",
+    "phonetics": {
+      "uk": "/faɪv/",
+      "us": "/faɪv/"
+    },
+    "translations": [
+      {
+        "type": "num",
+        "translation": "五"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "I am five.",
+        "zh": "我五岁。"
+      },
+      {
+        "en": "I have five apples.",
+        "zh": "我有五个苹果。"
+      }
+    ]
+  },
+  {
+    "word": "year",
+    "phonetics": {
+      "uk": "/jɪə(r)/",
+      "us": "/jɪr/"
+    },
+    "translations": [
+      {
+        "type": "n",
+        "translation": "年"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "This year is 2024.",
+        "zh": "今年是 2024 年。"
+      },
+      {
+        "en": "I go to school this year.",
+        "zh": "我今年上学。"
+      }
+    ]
+  },
+  {
+    "word": "one",
+    "phonetics": {
+      "uk": "/wʌn/",
+      "us": "/wʌn/"
+    },
+    "translations": [
+      {
+        "type": "num",
+        "translation": "一"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "I have one book.",
+        "zh": "我有一本书。"
+      },
+      {
+        "en": "One, two, three!",
+        "zh": "一、二、三！"
+      }
+    ]
+  },
+  {
+    "word": "two",
+    "phonetics": {
+      "uk": "/tuː/",
+      "us": "/tuː/"
+    },
+    "translations": [
+      {
+        "type": "num",
+        "translation": "二"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "I have two hands.",
+        "zh": "我有两只手。"
+      },
+      {
+        "en": "Two cats are here.",
+        "zh": "这里有两只猫。"
+      }
+    ]
+  },
+  {
+    "word": "three",
+    "phonetics": {
+      "uk": "/θriː/",
+      "us": "/θriː/"
+    },
+    "translations": [
+      {
+        "type": "num",
+        "translation": "三"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "I have three pencils.",
+        "zh": "我有三支铅笔。"
+      },
+      {
+        "en": "Three birds can fly.",
+        "zh": "三只鸟会飞。"
+      }
+    ]
+  },
+  {
+    "word": "four",
+    "phonetics": {
+      "uk": "/fɔː(r)/",
+      "us": "/fɔr/"
+    },
+    "translations": [
+      {
+        "type": "num",
+        "translation": "四"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "I have four books.",
+        "zh": "我有四本书。"
+      },
+      {
+        "en": "It is four o’clock.",
+        "zh": "现在四点整。"
+      }
+    ]
+  },
+  {
+    "word": "ten",
+    "phonetics": {
+      "uk": "/ten/",
+      "us": "/tɛn/"
+    },
+    "translations": [
+      {
+        "type": "num",
+        "translation": "十"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "I have ten crayons.",
+        "zh": "我有十支蜡笔。"
+      },
+      {
+        "en": "Count to ten.",
+        "zh": "数到十。"
+      }
+    ]
+  },
+  {
+    "word": "six",
+    "phonetics": {
+      "uk": "/sɪks/",
+      "us": "/sɪks/"
+    },
+    "translations": [
+      {
+        "type": "num",
+        "translation": "六"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "I am six.",
+        "zh": "我六岁。"
+      },
+      {
+        "en": "I have six grapes.",
+        "zh": "我有六颗葡萄。"
+      }
+    ]
+  },
+  {
+    "word": "seven",
+    "phonetics": {
+      "uk": "/ˈsev(ə)n/",
+      "us": "/ˈsev(ə)n/"
+    },
+    "translations": [
+      {
+        "type": "num",
+        "translation": "七"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "I have seven books.",
+        "zh": "我有七本书。"
+      },
+      {
+        "en": "Count: one to seven.",
+        "zh": "数数：从一数到七。"
+      }
+    ]
+  },
+  {
+    "word": "eight",
+    "phonetics": {
+      "uk": "/eɪt/",
+      "us": "/eɪt/"
+    },
+    "translations": [
+      {
+        "type": "num",
+        "translation": "八"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "I have eight pencils.",
+        "zh": "我有八支铅笔。"
+      },
+      {
+        "en": "It is eight o’clock.",
+        "zh": "现在八点整。"
+      }
+    ]
+  },
+  {
+    "word": "nine",
+    "phonetics": {
+      "uk": "/naɪn/",
+      "us": "/naɪn/"
+    },
+    "translations": [
+      {
+        "type": "num",
+        "translation": "九"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "I am nine.",
+        "zh": "我九岁。"
+      },
+      {
+        "en": "I have nine toys.",
+        "zh": "我有九个玩具。"
+      }
+    ]
+  },
+  {
+    "word": "o’clock",
+    "phonetics": {
+      "uk": "/əˈklɒk/",
+      "us": "/əˈklɑk/"
+    },
+    "translations": [
+      {
+        "type": "n",
+        "translation": "（表示整点）……点钟"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "It is six o’clock.",
+        "zh": "现在六点整。"
+      },
+      {
+        "en": "It is nine o’clock. Time for school!",
+        "zh": "现在九点整。该上学啦！"
+      }
+    ]
+  },
+  {
+    "word": "cut",
+    "phonetics": {
+      "uk": "/kʌt/",
+      "us": "/kʌt/"
+    },
+    "translations": [
+      {
+        "type": "v",
+        "translation": "切；切块"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "Cut the apple, please.",
+        "zh": "请把苹果切开。"
+      },
+      {
+        "en": "Mum cuts the cake.",
+        "zh": "妈妈切蛋糕。"
+      }
+    ]
+  },
+  {
+    "word": "piece",
+    "phonetics": {
+      "uk": "/piːs/",
+      "us": "/piːs/"
+    },
+    "translations": [
+      {
+        "type": "n",
+        "translation": "块；片"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "I want a piece of cake.",
+        "zh": "我想要一块蛋糕。"
+      },
+      {
+        "en": "Give me two pieces of apple.",
+        "zh": "给我两块苹果。"
+      }
+    ]
+  },
+  {
+    "word": "eat",
+    "phonetics": {
+      "uk": "/iːt/",
+      "us": "/iːt/"
+    },
+    "translations": [
+      {
+        "type": "v",
+        "translation": "吃"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "I eat an apple.",
+        "zh": "我吃一个苹果。"
+      },
+      {
+        "en": "Let’s eat cake.",
+        "zh": "我们吃蛋糕吧。"
+      }
+    ]
+  },
+  {
+    "word": "cake",
+    "phonetics": {
+      "uk": "/keɪk/",
+      "us": "/keɪk/"
+    },
+    "translations": [
+      {
+        "type": "n",
+        "translation": "蛋糕"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "This cake is yummy.",
+        "zh": "这个蛋糕很好吃。"
+      },
+      {
+        "en": "I eat a piece of cake.",
+        "zh": "我吃一块蛋糕。"
+      }
+    ]
+  }
+]
