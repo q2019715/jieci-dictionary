@@ -1,5 +1,26 @@
   [
     {
+      "name": "小学词汇-音标例句",
+      "filename": "xiaoschool-pep.json",
+      "wordCount": 228,
+      "size": 312000,
+      "description": "小学词汇-音标例句"
+    },
+    {
+      "name": "初中词汇",
+      "filename": "chuzhong.json",
+      "wordCount": 7508,
+      "size": 4460000,
+      "description": "初中词汇"
+    },
+    {
+      "name": "高中词汇",
+      "filename": "gaozhong.json",
+      "wordCount": 6008,
+      "size": 6910000,
+      "description": "高中词汇"
+    },
+    {
       "name": "CET-4词汇",
       "filename": "cet4.json",
       "wordCount": 7508,
@@ -28,27 +49,6 @@
       "description": "大学英语六级核心词汇，包含音标与例句"
     },
     {
-      "name": "小学词汇-音标例句",
-      "filename": "xiaoschool-pep.json",
-      "wordCount": 228,
-      "size": 3120000,
-      "description": "小学词汇-音标例句"
-    },
-    {
-      "name": "初中词汇",
-      "filename": "chuzhong.json",
-      "wordCount": 7508,
-      "size": 4460000,
-      "description": "初中词汇"
-    },
-    {
-      "name": "高中词汇",
-      "filename": "gaozhong.json",
-      "wordCount": 6008,
-      "size": 6910000,
-      "description": "高中词汇"
-    },
-    {
       "name": "考研词汇",
       "filename": "kaoyan.json",
       "wordCount": 9602,
@@ -69,7 +69,7 @@
       "size": 4270000,
       "description": "SAT核心词汇"
     },
-        {
+    {
       "name": "托福词汇",
       "filename": "tuofu.json",
       "wordCount": 13477,
