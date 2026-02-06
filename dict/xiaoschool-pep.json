@@ -2569,5 +2569,1085 @@
         "zh": "我吃一块蛋糕。"
       }
     ]
+  },
+  {
+    "word": "where",
+    "phonetics": { "uk": "/weə(r)/", "us": "/weə(r)/" },
+    "translations": [{ "type": "adv", "translation": "在哪里；到哪里" }],
+    "sentence_examples": [
+      { "en": "Where is my bag?", "zh": "我的书包在哪里？" },
+      { "en": "Where do you go after school?", "zh": "放学后你去哪里？" }
+    ]
+  },
+  {
+    "word": "from",
+    "phonetics": { "uk": "/frɒm/", "us": "/frɒm/" },
+    "translations": [{ "type": "prep", "translation": "（表示来源）来自；从……来" }],
+    "sentence_examples": [
+      { "en": "I am from China.", "zh": "我来自中国。" },
+      { "en": "This gift is from my mom.", "zh": "这份礼物来自我妈妈。" }
+    ]
+  },
+  {
+    "word": "about",
+    "phonetics": { "uk": "/əˈbaʊt/", "us": "/əˈbaʊt/" },
+    "translations": [{ "type": "adv", "translation": "大约；左右" }],
+    "sentence_examples": [
+      { "en": "It is about ten o'clock.", "zh": "大约十点了。" },
+      { "en": "The book is about animals.", "zh": "这本书是关于动物的。" }
+    ]
+  },
+  {
+    "word": "today",
+    "phonetics": { "uk": "/təˈdeɪ/", "us": "/təˈdeɪ/" },
+    "translations": [{ "type": "adv", "translation": "今天" }],
+    "sentence_examples": [
+      { "en": "I am happy today.", "zh": "我今天很开心。" },
+      { "en": "Today is Monday.", "zh": "今天是星期一。" }
+    ]
+  },
+  {
+    "word": "teacher",
+    "phonetics": { "uk": "/ˈtiːtʃə(r)/", "us": "/ˈtiːtʃə(r)/" },
+    "translations": [{ "type": "n", "translation": "教师" }],
+    "sentence_examples": [
+      { "en": "My teacher is kind.", "zh": "我的老师很和蔼。" },
+      { "en": "The teacher helps me read.", "zh": "老师帮助我阅读。" }
+    ]
+  },
+  {
+    "word": "student",
+    "phonetics": { "uk": "/ˈstjuːdnt/", "us": "/ˈstjuːdnt/" },
+    "translations": [{ "type": "n", "translation": "学生" }],
+    "sentence_examples": [
+      { "en": "I am a student.", "zh": "我是一个学生。" },
+      { "en": "The student answers the question.", "zh": "这个学生回答问题。" }
+    ]
+  },
+  {
+    "word": "after",
+    "phonetics": { "uk": "/ˈɑːftə(r)/", "us": "/ˈɑːftə(r)/" },
+    "translations": [{ "type": "prep", "translation": "在……后面；在……之后" }],
+    "sentence_examples": [
+      { "en": "We play after school.", "zh": "我们放学后玩。" },
+      { "en": "Wash your hands after lunch.", "zh": "午饭后洗手。" }
+    ]
+  },
+  {
+    "word": "who",
+    "phonetics": { "uk": "/huː/", "us": "/huː/" },
+    "translations": [{ "type": "pron", "translation": "谁；什么人" }],
+    "sentence_examples": [
+      { "en": "Who is she?", "zh": "她是谁？" },
+      { "en": "Who has my pencil?", "zh": "谁拿了我的铅笔？" }
+    ]
+  },
+  {
+    "word": "girl",
+    "phonetics": { "uk": "/ɡɜːl/", "us": "/ɡɜːl/" },
+    "translations": [{ "type": "n", "translation": "女孩" }],
+    "sentence_examples": [
+      { "en": "The girl is my classmate.", "zh": "这个女孩是我的同班同学。" },
+      { "en": "That girl can sing.", "zh": "那个女孩会唱歌。" }
+    ]
+  },
+  {
+    "word": "neighbour",
+    "phonetics": { "uk": "/ˈneɪbə(r)/", "us": "/ˈneɪbə(r)/" },
+    "translations": [{ "type": "n", "translation": "邻居" }],
+    "sentence_examples": [
+      { "en": "My neighbour has a cute cat.", "zh": "我的邻居有一只可爱的猫。" },
+      { "en": "I say hello to my neighbour.", "zh": "我向邻居问好。" }
+    ]
+  },
+  {
+    "word": "boy",
+    "phonetics": { "uk": "/bɔɪ/", "us": "/bɔɪ/" },
+    "translations": [{ "type": "n", "translation": "男孩" }],
+    "sentence_examples": [
+      { "en": "The boy is tall.", "zh": "这个男孩很高。" },
+      { "en": "That boy likes football.", "zh": "那个男孩喜欢足球。" }
+    ]
+  },
+  {
+    "word": "woman",
+    "phonetics": { "uk": "/ˈwʊmən/", "us": "/ˈwʊmən/" },
+    "translations": [{ "type": "n", "translation": "成年女子；妇女" }],
+    "sentence_examples": [
+      { "en": "The woman is my aunt.", "zh": "这位女士是我的阿姨。" },
+      { "en": "A woman is reading a book.", "zh": "一位女士正在看书。" }
+    ]
+  },
+  {
+    "word": "man",
+    "phonetics": { "uk": "/mæn/", "us": "/mæn/" },
+    "translations": [{ "type": "n", "translation": "成年男子；男人" }],
+    "sentence_examples": [
+      { "en": "The man is my dad.", "zh": "这个男人是我爸爸。" },
+      { "en": "The man helps the child.", "zh": "这位男士帮助孩子。" }
+    ]
+  },
+  {
+    "word": "Mr",
+    "phonetics": { "uk": "/ˈmɪstə(r)/", "us": "/ˈmɪstə(r)/" },
+    "translations": [{ "type": "abbr", "translation": "（用于男子的姓氏或姓名前）先生" }],
+    "sentence_examples": [
+      { "en": "Mr Li is our teacher.", "zh": "李先生是我们的老师。" },
+      { "en": "Good morning, Mr Brown.", "zh": "早上好，布朗先生。" }
+    ]
+  },
+  {
+    "word": "classmate",
+    "phonetics": { "uk": "/ˈklɑːsmeɪt/", "us": "/ˈklɑːsmeɪt/" },
+    "translations": [{ "type": "n", "translation": "同班同学" }],
+    "sentence_examples": [
+      { "en": "My classmate sits next to me.", "zh": "我的同班同学坐在我旁边。" },
+      { "en": "I play with my classmates.", "zh": "我和同班同学一起玩。" }
+    ]
+  },
+  {
+    "word": "he",
+    "phonetics": { "uk": "/hiː/", "us": "/hiː/" },
+    "translations": [{ "type": "pron", "translation": "他" }],
+    "sentence_examples": [
+      { "en": "He is my friend.", "zh": "他是我的朋友。" },
+      { "en": "He can dance.", "zh": "他会跳舞。" }
+    ]
+  },
+  {
+    "word": "English",
+    "phonetics": { "uk": "/ˈɪŋɡlɪʃ/", "us": "/ˈɪŋɡlɪʃ/" },
+    "translations": [
+      { "type": "n", "translation": "英语" },
+      { "type": "adj", "translation": "英语的" }
+    ],
+    "sentence_examples": [
+      { "en": "I like English.", "zh": "我喜欢英语。" },
+      { "en": "We have an English class today.", "zh": "我们今天有英语课。" }
+    ]
+  },
+  {
+    "word": "she",
+    "phonetics": { "uk": "/ʃi/", "us": "/ʃi/" },
+    "translations": [{ "type": "pron", "translation": "她" }],
+    "sentence_examples": [
+      { "en": "She is my sister.", "zh": "她是我妹妹。" },
+      { "en": "She has a red bag.", "zh": "她有一个红色的书包。" }
+    ]
+  },
+  {
+    "word": "very",
+    "phonetics": { "uk": "/ˈveri/", "us": "/ˈveri/" },
+    "translations": [{ "type": "adv", "translation": "很；非常；十分" }],
+    "sentence_examples": [
+      { "en": "The soup is very hot.", "zh": "汤非常烫。" },
+      { "en": "I am very happy.", "zh": "我非常开心。" }
+    ]
+  },
+  {
+    "word": "UK",
+    "phonetics": { "uk": "/ˌjuː ˈkeɪ/", "us": "/ˌjuː ˈkeɪ/" },
+    "translations": [{ "type": "abbr", "translation": "英国" }],
+    "sentence_examples": [
+      { "en": "My uncle lives in the UK.", "zh": "我叔叔住在英国。" },
+      { "en": "The UK is far from China.", "zh": "英国离中国很远。" }
+    ]
+  },
+  {
+    "word": "China",
+    "phonetics": { "uk": "/ˈtʃaɪnə/", "us": "/ˈtʃaɪnə/" },
+    "translations": [{ "type": "n", "translation": "中国" }],
+    "sentence_examples": [
+      { "en": "I live in China.", "zh": "我住在中国。" },
+      { "en": "China has many people.", "zh": "中国有很多人。" }
+    ]
+  },
+  {
+    "word": "Canada",
+    "phonetics": { "uk": "/ˈkænədə/", "us": "/ˈkænədə/" },
+    "translations": [{ "type": "n", "translation": "加拿大" }],
+    "sentence_examples": [
+      { "en": "My friend is from Canada.", "zh": "我的朋友来自加拿大。" },
+      { "en": "Canada is very big.", "zh": "加拿大非常大。" }
+    ]
+  },
+  {
+    "word": "USA",
+    "phonetics": { "uk": "/ˌjuː es ˈeɪ/", "us": "/ˌjuː es ˈeɪ/" },
+    "translations": [{ "type": "abbr", "translation": "美国" }],
+    "sentence_examples": [
+      { "en": "He goes to the USA.", "zh": "他去美国。" },
+      { "en": "The USA has many schools.", "zh": "美国有很多学校。" }
+    ]
+  },
+  {
+    "word": "has",
+    "phonetics": { "uk": "/hæz/", "us": "/hæz/" },
+    "translations": [{ "type": "v", "translation": "have 的第三人称单数形式；有" }],
+    "sentence_examples": [
+      { "en": "She has a new pencil.", "zh": "她有一支新铅笔。" },
+      { "en": "He has two books.", "zh": "他有两本书。" }
+    ]
+  },
+  {
+    "word": "long",
+    "phonetics": { "uk": "/lɒŋ/", "us": "/lɒŋ/" },
+    "translations": [{ "type": "adj", "translation": "（长度或距离）长的" }],
+    "sentence_examples": [
+      { "en": "This ruler is long.", "zh": "这把尺子很长。" },
+      { "en": "She has long hair.", "zh": "她有长头发。" }
+    ]
+  },
+  {
+    "word": "body",
+    "phonetics": { "uk": "/ˈbɒdi/", "us": "/ˈbɒdi/" },
+    "translations": [{ "type": "n", "translation": "身体" }],
+    "sentence_examples": [
+      { "en": "My body is healthy.", "zh": "我的身体很健康。" },
+      { "en": "Wash your body after sports.", "zh": "运动后洗澡（清洁身体）。" }
+    ]
+  },
+  {
+    "word": "short",
+    "phonetics": { "uk": "/ʃɔːt/", "us": "/ʃɔːt/" },
+    "translations": [{ "type": "adj", "translation": "短的；个子矮的" }],
+    "sentence_examples": [
+      { "en": "The pencil is short.", "zh": "这支铅笔很短。" },
+      { "en": "My brother is short.", "zh": "我弟弟个子矮。" }
+    ]
+  },
+  {
+    "word": "leg",
+    "phonetics": { "uk": "/leg/", "us": "/leg/" },
+    "translations": [{ "type": "n", "translation": "腿" }],
+    "sentence_examples": [
+      { "en": "My leg hurts.", "zh": "我的腿疼。" },
+      { "en": "The dog has four legs.", "zh": "狗有四条腿。" }
+    ]
+  },
+  {
+    "word": "right",
+    "phonetics": { "uk": "/raɪt/", "us": "/raɪt/" },
+    "translations": [{ "type": "adj", "translation": "准确的；确切的；恰当的" }],
+    "sentence_examples": [
+      { "en": "Your answer is right.", "zh": "你的答案是对的。" },
+      { "en": "This is the right book.", "zh": "这是对的那本书。" }
+    ]
+  },
+  {
+    "word": "fat",
+    "phonetics": { "uk": "/faet/", "us": "/faet/" },
+    "translations": [{ "type": "adj", "translation": "肥的；肥胖的" }],
+    "sentence_examples": [
+      { "en": "The cat is fat.", "zh": "这只猫很胖。" },
+      { "en": "Too much candy can make you fat.", "zh": "吃太多糖果会让你变胖。" }
+    ]
+  },
+  {
+    "word": "thin",
+    "phonetics": { "uk": "/θɪn/", "us": "/θɪn/" },
+    "translations": [{ "type": "adj", "translation": "瘦的" }],
+    "sentence_examples": [
+      { "en": "This paper is thin.", "zh": "这张纸很薄。" },
+      { "en": "The boy is thin but healthy.", "zh": "这个男孩很瘦但很健康。" }
+    ]
+  },
+  {
+    "word": "slow",
+    "phonetics": { "uk": "/sləʊ/", "us": "/sləʊ/" },
+    "translations": [{ "type": "adj", "translation": "缓慢的；慢的" }],
+    "sentence_examples": [
+      { "en": "The turtle is slow.", "zh": "乌龟很慢。" },
+      { "en": "Please speak slow.", "zh": "请说慢一点。" }
+    ]
+  },
+  {
+    "word": "love",
+    "phonetics": { "uk": "/lʌv/", "us": "/lʌv/" },
+    "translations": [
+      { "type": "v", "translation": "喜爱；爱" },
+      { "type": "n", "translation": "爱" }
+    ],
+    "sentence_examples": [
+      { "en": "I love my family.", "zh": "我爱我的家人。" },
+      { "en": "I love reading.", "zh": "我喜欢阅读。" }
+    ]
+  },
+  {
+    "word": "tail",
+    "phonetics": { "uk": "/teɪl/", "us": "/teɪl/" },
+    "translations": [{ "type": "n", "translation": "尾；尾巴" }],
+    "sentence_examples": [
+      { "en": "The dog has a long tail.", "zh": "这只狗有一条长尾巴。" },
+      { "en": "The cat moves its tail.", "zh": "猫在摇尾巴。" }
+    ]
+  },
+  {
+    "word": "bye",
+    "phonetics": { "uk": "/baɪ/", "us": "/baɪ/" },
+    "translations": [{ "type": "interj", "translation": "再见；再会" }],
+    "sentence_examples": [
+      { "en": "Bye, see you tomorrow!", "zh": "再见，明天见！" },
+      { "en": "I wave and say bye.", "zh": "我挥手说再见。" }
+    ]
+  },
+  {
+    "word": "her",
+    "phonetics": { "uk": "/hɜː(r)/", "us": "/hɜː(r)/" },
+    "translations": [{ "type": "pron", "translation": "她；她的" }],
+    "sentence_examples": [
+      { "en": "This is her book.", "zh": "这是她的书。" },
+      { "en": "I help her carry the bag.", "zh": "我帮她拿书包。" }
+    ]
+  },
+  {
+    "word": "gift",
+    "phonetics": { "uk": "/ɡɪft/", "us": "/ɡɪft/" },
+    "translations": [{ "type": "n", "translation": "礼物" }],
+    "sentence_examples": [
+      { "en": "I have a birthday gift.", "zh": "我有一份生日礼物。" },
+      { "en": "This gift is for you.", "zh": "这份礼物是给你的。" }
+    ]
+  },
+  {
+    "word": "picture",
+    "phonetics": { "uk": "/ˈpɪktʃə(r)/", "us": "/ˈpɪktʃə(r)/" },
+    "translations": [{ "type": "n", "translation": "图画；绘画" }],
+    "sentence_examples": [
+      { "en": "I draw a picture of a cat.", "zh": "我画了一幅猫的图画。" },
+      { "en": "Look at this picture.", "zh": "看看这张图片。" }
+    ]
+  },
+  {
+    "word": "card",
+    "phonetics": { "uk": "/kɑːd/", "us": "/kɑːd/" },
+    "translations": [{ "type": "n", "translation": "贺卡；卡片" }],
+    "sentence_examples": [
+      { "en": "I make a card for my mom.", "zh": "我给妈妈做一张贺卡。" },
+      { "en": "Here is your birthday card.", "zh": "这是你的生日卡。" }
+    ]
+  },
+  {
+    "word": "sing",
+    "phonetics": { "uk": "/sɪŋ/", "us": "/sɪŋ/" },
+    "translations": [{ "type": "v", "translation": "唱（歌）；演唱" }],
+    "sentence_examples": [
+      { "en": "We sing a song in class.", "zh": "我们在课堂上唱歌。" },
+      { "en": "She can sing well.", "zh": "她唱得很好。" }
+    ]
+  },
+  {
+    "word": "dance",
+    "phonetics": { "uk": "/dɑːns/", "us": "/dɑːns/" },
+    "translations": [{ "type": "v", "translation": "跳舞" }],
+    "sentence_examples": [
+      { "en": "They dance after school.", "zh": "他们放学后跳舞。" },
+      { "en": "I like to dance with my friends.", "zh": "我喜欢和朋友一起跳舞。" }
+    ]
+  },
+  {
+    "word": "face",
+    "phonetics": { "uk": "/feɪs/", "us": "/feɪs/" },
+    "translations": [{ "type": "n", "translation": "脸；面孔" }],
+    "sentence_examples": [
+      { "en": "Wash your face in the morning.", "zh": "早上洗脸。" },
+      { "en": "She has a happy face.", "zh": "她脸上很开心。" }
+    ]
+  },
+  {
+    "word": "all",
+    "phonetics": { "uk": "/ɔːl/", "us": "/ɔːl/" },
+    "translations": [{ "type": "det", "translation": "所有；全部" }],
+    "sentence_examples": [
+      { "en": "All the students are here.", "zh": "所有学生都在这里。" },
+      { "en": "I eat all my rice.", "zh": "我把米饭都吃完了。" }
+    ]
+  },
+  {
+    "word": "so",
+    "phonetics": { "uk": "/səʊ/", "us": "/səʊ/" },
+    "translations": [{ "type": "adv", "translation": "这么；那么" }],
+    "sentence_examples": [
+      { "en": "The soup is so yummy.", "zh": "这汤太好喝了。" },
+      { "en": "Don't run so fast.", "zh": "别跑那么快。" }
+    ]
+  },
+  {
+    "word": "talk",
+    "phonetics": { "uk": "/tɔːk/", "us": "/tɔːk/" },
+    "translations": [{ "type": "v", "translation": "讲；说；说话" }],
+    "sentence_examples": [
+      { "en": "We talk in English.", "zh": "我们用英语说话。" },
+      { "en": "Please don't talk in class.", "zh": "请不要在课堂上讲话。" }
+    ]
+  },
+  {
+    "word": "song",
+    "phonetics": { "uk": "/sɒŋ/", "us": "/sɒŋ/" },
+    "translations": [{ "type": "n", "translation": "歌；歌曲" }],
+    "sentence_examples": [
+      { "en": "This song is nice.", "zh": "这首歌很好听。" },
+      { "en": "We learn a new song today.", "zh": "我们今天学一首新歌。" }
+    ]
+  },
+  {
+    "word": "or",
+    "phonetics": { "uk": "/ɔː(r)/", "us": "/ɔː(r)/" },
+    "translations": [{ "type": "conj", "translation": "或；或者；还是" }],
+    "sentence_examples": [
+      { "en": "Do you want rice or noodles?", "zh": "你想要米饭还是面条？" },
+      { "en": "Is it a pen or a pencil?", "zh": "这是钢笔还是铅笔？" }
+    ]
+  },
+  {
+    "word": "much",
+    "phonetics": { "uk": "/mʌtʃ/", "us": "/mʌtʃ/" },
+    "translations": [{ "type": "det", "translation": "许多；大量" }],
+    "sentence_examples": [
+      { "en": "Don't eat too much candy.", "zh": "不要吃太多糖果。" },
+      { "en": "Thank you very much.", "zh": "非常感谢你。" }
+    ]
+  },
+  {
+    "word": "eraser",
+    "phonetics": { "uk": "/ɪˈreɪzə(r)/", "us": "/ɪˈreɪzə(r)/" },
+    "translations": [{ "type": "n", "translation": "橡皮" }],
+    "sentence_examples": [
+      { "en": "I have a new eraser.", "zh": "我有一块新橡皮。" },
+      { "en": "Use the eraser to clean the paper.", "zh": "用橡皮把纸擦干净。" }
+    ]
+  },
+  {
+    "word": "find",
+    "phonetics": { "uk": "/faɪnd/", "us": "/faɪnd/" },
+    "translations": [{ "type": "v", "translation": "找到；找回" }],
+    "sentence_examples": [
+      { "en": "I can't find my pen.", "zh": "我找不到我的钢笔。" },
+      { "en": "I find my ruler in the bag.", "zh": "我在书包里找到了尺子。" }
+    ]
+  },
+  {
+    "word": "ruler",
+    "phonetics": { "uk": "/ˈruːlə(r)/", "us": "/ˈruːlə(r)/" },
+    "translations": [{ "type": "n", "translation": "直尺" }],
+    "sentence_examples": [
+      { "en": "I draw a line with a ruler.", "zh": "我用尺子画一条线。" },
+      { "en": "My ruler is in my pencil box.", "zh": "我的尺子在铅笔盒里。" }
+    ]
+  },
+  {
+    "word": "pen",
+    "phonetics": { "uk": "/pen/", "us": "/pen/" },
+    "translations": [{ "type": "n", "translation": "钢笔" }],
+    "sentence_examples": [
+      { "en": "This pen is blue.", "zh": "这支钢笔是蓝色的。" },
+      { "en": "Please give me your pen.", "zh": "请把你的钢笔给我。" }
+    ]
+  },
+  {
+    "word": "pencil",
+    "phonetics": { "uk": "/ˈpensl/", "us": "/ˈpensl/" },
+    "translations": [{ "type": "n", "translation": "铅笔" }],
+    "sentence_examples": [
+      { "en": "I write with a pencil.", "zh": "我用铅笔写字。" },
+      { "en": "My pencil is short now.", "zh": "我的铅笔现在很短了。" }
+    ]
+  },
+  {
+    "word": "book",
+    "phonetics": { "uk": "/bʊk/", "us": "/bʊk/" },
+    "translations": [{ "type": "n", "translation": "书；书籍" }],
+    "sentence_examples": [
+      { "en": "I read a book every day.", "zh": "我每天读书。" },
+      { "en": "This book is about animals.", "zh": "这本书是关于动物的。" }
+    ]
+  },
+  {
+    "word": "bag",
+    "phonetics": { "uk": "/bæɡ/", "us": "/bæɡ/" },
+    "translations": [{ "type": "n", "translation": "包；袋" }],
+    "sentence_examples": [
+      { "en": "My bag is heavy.", "zh": "我的书包很重。" },
+      { "en": "Put the book in your bag.", "zh": "把书放进你的书包里。" }
+    ]
+  },
+  {
+    "word": "paper",
+    "phonetics": { "uk": "/ˈpeɪpə(r)/", "us": "/ˈpeɪpə(r)/" },
+    "translations": [{ "type": "n", "translation": "纸" }],
+    "sentence_examples": [
+      { "en": "Write your name on the paper.", "zh": "把你的名字写在纸上。" },
+      { "en": "This paper is white.", "zh": "这张纸是白色的。" }
+    ]
+  },
+  {
+    "word": "these",
+    "phonetics": { "uk": "/ðiːz/", "us": "/ðiːz/" },
+    "translations": [{ "type": "pron", "translation": "这些" }],
+    "sentence_examples": [
+      { "en": "These are my pencils.", "zh": "这些是我的铅笔。" },
+      { "en": "These apples are red.", "zh": "这些苹果是红色的。" }
+    ]
+  },
+  {
+    "word": "see",
+    "phonetics": { "uk": "/siː/", "us": "/siː/" },
+    "translations": [{ "type": "v", "translation": "看见" }],
+    "sentence_examples": [
+      { "en": "I can see a bird.", "zh": "我能看见一只鸟。" },
+      { "en": "See you tomorrow.", "zh": "明天见。" }
+    ]
+  },
+  {
+    "word": "smell",
+    "phonetics": { "uk": "/smel/", "us": "/smel/" },
+    "translations": [{ "type": "v", "translation": "闻（气味）" }],
+    "sentence_examples": [
+      { "en": "I smell flowers.", "zh": "我闻花香。" },
+      { "en": "The soup smells good.", "zh": "这汤闻起来很香。" }
+    ]
+  },
+  {
+    "word": "taste",
+    "phonetics": { "uk": "/teɪst/", "us": "/teɪst/" },
+    "translations": [{ "type": "v", "translation": "尝（味道）" }],
+    "sentence_examples": [
+      { "en": "Taste the apple.", "zh": "尝尝这个苹果。" },
+      { "en": "The milk tastes sweet.", "zh": "牛奶尝起来甜甜的。" }
+    ]
+  },
+  {
+    "word": "hear",
+    "phonetics": { "uk": "/hɪə(r)/", "us": "/hɪə(r)/" },
+    "translations": [{ "type": "v", "translation": "听见；听到" }],
+    "sentence_examples": [
+      { "en": "I hear music.", "zh": "我听到音乐。" },
+      { "en": "Can you hear me?", "zh": "你能听见我说话吗？" }
+    ]
+  },
+  {
+    "word": "touch",
+    "phonetics": { "uk": "/tʌtʃ/", "us": "/tʌtʃ/" },
+    "translations": [{ "type": "v", "translation": "触摸；碰" }],
+    "sentence_examples": [
+      { "en": "Don't touch the hot plate.", "zh": "不要碰热盘子。" },
+      { "en": "Touch the ball gently.", "zh": "轻轻摸一下球。" }
+    ]
+  },
+  {
+    "word": "sense",
+    "phonetics": { "uk": "/sens/", "us": "/sens/" },
+    "translations": [{ "type": "n", "translation": "感觉；感官" }],
+    "sentence_examples": [
+      { "en": "We have five senses.", "zh": "我们有五种感官。" },
+      { "en": "My sense of smell is good.", "zh": "我的嗅觉很好。" }
+    ]
+  },
+  {
+    "word": "learn",
+    "phonetics": { "uk": "/lɜːn/", "us": "/lɜːn/" },
+    "translations": [{ "type": "v", "translation": "学；学习" }],
+    "sentence_examples": [
+      { "en": "We learn English at school.", "zh": "我们在学校学英语。" },
+      { "en": "I want to learn to swim.", "zh": "我想学游泳。" }
+    ]
+  },
+  {
+    "word": "nose",
+    "phonetics": { "uk": "/nəʊz/", "us": "/nəʊz/" },
+    "translations": [{ "type": "n", "translation": "鼻；鼻子" }],
+    "sentence_examples": [
+      { "en": "My nose is small.", "zh": "我的鼻子很小。" },
+      { "en": "I smell with my nose.", "zh": "我用鼻子闻气味。" }
+    ]
+  },
+  {
+    "word": "tongue",
+    "phonetics": { "uk": "/tʌŋ/", "us": "/tʌŋ/" },
+    "translations": [{ "type": "n", "translation": "舌；舌头" }],
+    "sentence_examples": [
+      { "en": "My tongue tastes sweet and sour.", "zh": "我的舌头能尝到酸甜。" },
+      { "en": "Don't stick out your tongue.", "zh": "不要吐舌头。" }
+    ]
+  },
+  {
+    "word": "class",
+    "phonetics": { "uk": "/klɑːs/", "us": "/klɑːs/" },
+    "translations": [
+      { "type": "n", "translation": "课" },
+      { "type": "n", "translation": "班级" }
+    ],
+    "sentence_examples": [
+      { "en": "We have English class today.", "zh": "我们今天有英语课。" },
+      { "en": "Our class is friendly.", "zh": "我们班很友好。" }
+    ]
+  },
+  {
+    "word": "computer",
+    "phonetics": { "uk": "/kəmˈpjuːtə(r)/", "us": "/kəmˈpjuːtə(r)/" },
+    "translations": [{ "type": "n", "translation": "计算机；电脑" }],
+    "sentence_examples": [
+      { "en": "I use the computer to learn.", "zh": "我用电脑学习。" },
+      { "en": "The computer is on the desk.", "zh": "电脑在桌子上。" }
+    ]
+  },
+  {
+    "word": "breakfast",
+    "phonetics": { "uk": "/ˈbrekfəst/", "us": "/ˈbrekfəst/" },
+    "translations": [{ "type": "n", "translation": "早餐；早饭" }],
+    "sentence_examples": [
+      { "en": "I have breakfast at home.", "zh": "我在家吃早饭。" },
+      { "en": "Breakfast is bread and milk.", "zh": "早餐是面包和牛奶。" }
+    ]
+  },
+  {
+    "word": "time",
+    "phonetics": { "uk": "/taɪm/", "us": "/taɪm/" },
+    "translations": [{ "type": "n", "translation": "时间" }],
+    "sentence_examples": [
+      { "en": "What time is it?", "zh": "现在几点了？" },
+      { "en": "It's time for breakfast.", "zh": "该吃早饭了。" }
+    ]
+  },
+  {
+    "word": "bread",
+    "phonetics": { "uk": "/bred/", "us": "/bred/" },
+    "translations": [{ "type": "n", "translation": "面包" }],
+    "sentence_examples": [
+      { "en": "I eat bread for breakfast.", "zh": "我早餐吃面包。" },
+      { "en": "The bread is warm.", "zh": "面包是热的。" }
+    ]
+  },
+  {
+    "word": "egg",
+    "phonetics": { "uk": "/eg/", "us": "/eg/" },
+    "translations": [{ "type": "n", "translation": "（作食物用的）蛋；鸡蛋" }],
+    "sentence_examples": [
+      { "en": "I eat an egg every morning.", "zh": "我每天早上吃一个鸡蛋。" },
+      { "en": "The egg is on the plate.", "zh": "鸡蛋在盘子里。" }
+    ]
+  },
+  {
+    "word": "milk",
+    "phonetics": { "uk": "/mɪlk/", "us": "/mɪlk/" },
+    "translations": [{ "type": "n", "translation": "奶；牛奶" }],
+    "sentence_examples": [
+      { "en": "Drink milk every day.", "zh": "每天喝牛奶。" },
+      { "en": "I like warm milk.", "zh": "我喜欢热牛奶。" }
+    ]
+  },
+  {
+    "word": "noodle",
+    "phonetics": { "uk": "/ˈnuːdl/", "us": "/ˈnuːdl/" },
+    "translations": [{ "type": "n", "translation": "面条" }],
+    "sentence_examples": [
+      { "en": "I eat noodles for lunch.", "zh": "我午饭吃面条。" },
+      { "en": "These noodles are yummy.", "zh": "这些面条很好吃。" }
+    ]
+  },
+  {
+    "word": "juice",
+    "phonetics": { "uk": "/dʒuːs/", "us": "/dʒuːs/" },
+    "translations": [{ "type": "n", "translation": "果汁" }],
+    "sentence_examples": [
+      { "en": "I drink apple juice.", "zh": "我喝苹果汁。" },
+      { "en": "The juice is in the cup.", "zh": "果汁在杯子里。" }
+    ]
+  },
+  {
+    "word": "rice",
+    "phonetics": { "uk": "/raɪs/", "us": "/raɪs/" },
+    "translations": [{ "type": "n", "translation": "大米；米饭" }],
+    "sentence_examples": [
+      { "en": "We eat rice for dinner.", "zh": "我们晚饭吃米饭。" },
+      { "en": "The rice is hot.", "zh": "米饭是热的。" }
+    ]
+  },
+  {
+    "word": "meat",
+    "phonetics": { "uk": "/miːt/", "us": "/miːt/" },
+    "translations": [{ "type": "n", "translation": "肉" }],
+    "sentence_examples": [
+      { "en": "I like meat and vegetables.", "zh": "我喜欢吃肉和蔬菜。" },
+      { "en": "Don't eat too much meat.", "zh": "不要吃太多肉。" }
+    ]
+  },
+  {
+    "word": "vegetable",
+    "phonetics": { "uk": "/ˈvedʒtəbl/", "us": "/ˈvedʒtəbl/" },
+    "translations": [{ "type": "n", "translation": "蔬菜" }],
+    "sentence_examples": [
+      { "en": "Carrots are vegetables.", "zh": "胡萝卜是蔬菜。" },
+      { "en": "Eat vegetables to be healthy.", "zh": "吃蔬菜会更健康。" }
+    ]
+  },
+  {
+    "word": "healthy",
+    "phonetics": { "uk": "/ˈhelθi/", "us": "/ˈhelθi/" },
+    "translations": [{ "type": "adj", "translation": "健康的" }],
+    "sentence_examples": [
+      { "en": "Milk is healthy.", "zh": "牛奶很健康。" },
+      { "en": "I want to be healthy.", "zh": "我想要身体健康。" }
+    ]
+  },
+  {
+    "word": "plate",
+    "phonetics": { "uk": "/pleɪt/", "us": "/pleɪt/" },
+    "translations": [{ "type": "n", "translation": "盘子" }],
+    "sentence_examples": [
+      { "en": "The egg is on the plate.", "zh": "鸡蛋在盘子里。" },
+      { "en": "Please put the fruit on a plate.", "zh": "请把水果放在盘子里。" }
+    ]
+  },
+  {
+    "word": "soup",
+    "phonetics": { "uk": "/suːp/", "us": "/suːp/" },
+    "translations": [{ "type": "n", "translation": "汤" }],
+    "sentence_examples": [
+      { "en": "I like tomato soup.", "zh": "我喜欢番茄汤。" },
+      { "en": "The soup is hot.", "zh": "汤很烫。" }
+    ]
+  },
+  {
+    "word": "fruit",
+    "phonetics": { "uk": "/fruːt/", "us": "/fruːt/" },
+    "translations": [{ "type": "n", "translation": "水果" }],
+    "sentence_examples": [
+      { "en": "I eat fruit every day.", "zh": "我每天吃水果。" },
+      { "en": "Apples are my favourite fruit.", "zh": "苹果是我最喜欢的水果。" }
+    ]
+  },
+  {
+    "word": "colourful",
+    "phonetics": { "uk": "/ˈkʌləfl/", "us": "/ˈkʌləfl/" },
+    "translations": [{ "type": "adj", "translation": "五彩缤纷的" }],
+    "sentence_examples": [
+      { "en": "The flowers are colourful.", "zh": "这些花五彩缤纷。" },
+      { "en": "I like this colourful picture.", "zh": "我喜欢这幅彩色的图画。" }
+    ]
+  },
+  {
+    "word": "candy",
+    "phonetics": { "uk": "/ˈkændi/", "us": "/ˈkændi/" },
+    "translations": [{ "type": "n", "translation": "糖果" }],
+    "sentence_examples": [
+      { "en": "I get one candy after dinner.", "zh": "我晚饭后吃一颗糖。" },
+      { "en": "Too much candy is not healthy.", "zh": "吃太多糖不健康。" }
+    ]
+  },
+  {
+    "word": "yummy",
+    "phonetics": { "uk": "/ˈjʌmi/", "us": "/ˈjʌmi/" },
+    "translations": [{ "type": "adj", "translation": "很好吃的" }],
+    "sentence_examples": [
+      { "en": "The noodles are yummy.", "zh": "面条很好吃。" },
+      { "en": "This cake is yummy!", "zh": "这个蛋糕真好吃！" }
+    ]
+  },
+  {
+    "word": "at",
+    "phonetics": { "uk": "/æt/", "us": "/æt/" },
+    "translations": [{ "type": "prep", "translation": "在（某处）" }],
+    "sentence_examples": [
+      { "en": "I am at home.", "zh": "我在家。" },
+      { "en": "Meet me at the school gate.", "zh": "在学校门口见我。" }
+    ]
+  },
+  {
+    "word": "home",
+    "phonetics": { "uk": "/həʊm/", "us": "/həʊm/" },
+    "translations": [{ "type": "n", "translation": "家；住所" }],
+    "sentence_examples": [
+      { "en": "I go home after school.", "zh": "放学后我回家。" },
+      { "en": "Home is warm and safe.", "zh": "家温暖又安全。" }
+    ]
+  },
+  {
+    "word": "boat",
+    "phonetics": { "uk": "/bəʊt/", "us": "/bəʊt/" },
+    "translations": [{ "type": "n", "translation": "小船；舟" }],
+    "sentence_examples": [
+      { "en": "The boat is on the lake.", "zh": "小船在湖上。" },
+      { "en": "I make a paper boat.", "zh": "我做了一只纸船。" }
+    ]
+  },
+  {
+    "word": "cool",
+    "phonetics": { "uk": "/kuːl/", "us": "/kuːl/" },
+    "translations": [{ "type": "adj", "translation": "酷的；绝妙的" }],
+    "sentence_examples": [
+      { "en": "Your new cap is cool.", "zh": "你的新帽子真酷。" },
+      { "en": "That game is so cool.", "zh": "那个游戏太棒了。" }
+    ]
+  },
+  {
+    "word": "keep",
+    "phonetics": { "uk": "/kiːp/", "us": "/kiːp/" },
+    "translations": [{ "type": "v", "translation": "保有；留着" }],
+    "sentence_examples": [
+      { "en": "Keep your room clean.", "zh": "保持你的房间干净。" },
+      { "en": "I keep my toys in a box.", "zh": "我把玩具放在盒子里。" }
+    ]
+  },
+  {
+    "word": "ball",
+    "phonetics": { "uk": "/bɔːl/", "us": "/bɔːl/" },
+    "translations": [{ "type": "n", "translation": "球" }],
+    "sentence_examples": [
+      { "en": "I play with a ball.", "zh": "我玩球。" },
+      { "en": "The ball is under the chair.", "zh": "球在椅子下面。" }
+    ]
+  },
+  {
+    "word": "doll",
+    "phonetics": { "uk": "/dɒl/", "us": "/dɒl/" },
+    "translations": [{ "type": "n", "translation": "玩偶；玩具娃娃" }],
+    "sentence_examples": [
+      { "en": "This doll is my favourite.", "zh": "这个娃娃是我最喜欢的。" },
+      { "en": "The doll is on the shelf.", "zh": "娃娃在架子上。" }
+    ]
+  },
+  {
+    "word": "car",
+    "phonetics": { "uk": "/kɑː(r)/", "us": "/kɑː(r)/" },
+    "translations": [{ "type": "n", "translation": "小汽车；轿车" }],
+    "sentence_examples": [
+      { "en": "My dad has a car.", "zh": "我爸爸有一辆车。" },
+      { "en": "The toy car is in the box.", "zh": "玩具小汽车在盒子里。" }
+    ]
+  },
+  {
+    "word": "on",
+    "phonetics": { "uk": "/ɒn/", "us": "/ɒn/" },
+    "translations": [{ "type": "prep", "translation": "在……上" }],
+    "sentence_examples": [
+      { "en": "The book is on the desk.", "zh": "书在桌子上。" },
+      { "en": "Sit on the chair.", "zh": "坐在椅子上。" }
+    ]
+  },
+  {
+    "word": "shelf",
+    "phonetics": { "uk": "/ʃelf/", "us": "/ʃelf/" },
+    "translations": [{ "type": "n", "translation": "架子" }],
+    "sentence_examples": [
+      { "en": "The books are on the shelf.", "zh": "书在架子上。" },
+      { "en": "Put the toy on the shelf.", "zh": "把玩具放到架子上。" }
+    ]
+  },
+  {
+    "word": "in",
+    "phonetics": { "uk": "/ɪn/", "us": "/ɪn/" },
+    "translations": [{ "type": "prep", "translation": "在……内；在……中" }],
+    "sentence_examples": [
+      { "en": "The pen is in my bag.", "zh": "钢笔在我书包里。" },
+      { "en": "I am in the classroom.", "zh": "我在教室里。" }
+    ]
+  },
+  {
+    "word": "box",
+    "phonetics": { "uk": "/bɒks/", "us": "/bɒks/" },
+    "translations": [{ "type": "n", "translation": "盒子" }],
+    "sentence_examples": [
+      { "en": "The doll is in the box.", "zh": "娃娃在盒子里。" },
+      { "en": "Open the box, please.", "zh": "请打开盒子。" }
+    ]
+  },
+  {
+    "word": "now",
+    "phonetics": { "uk": "/naʊ/", "us": "/naʊ/" },
+    "translations": [{ "type": "adv", "translation": "现在" }],
+    "sentence_examples": [
+      { "en": "I am doing my homework now.", "zh": "我现在正在写作业。" },
+      { "en": "Now it's your turn.", "zh": "现在轮到你了。" }
+    ]
+  },
+  {
+    "word": "cap",
+    "phonetics": { "uk": "/kæp/", "us": "/kæp/" },
+    "translations": [{ "type": "n", "translation": "帽子" }],
+    "sentence_examples": [
+      { "en": "I wear a cap.", "zh": "我戴着一顶帽子。" },
+      { "en": "My cap is under the bed.", "zh": "我的帽子在床下。" }
+    ]
+  },
+  {
+    "word": "map",
+    "phonetics": { "uk": "/mæp/", "us": "/mæp/" },
+    "translations": [{ "type": "n", "translation": "地图" }],
+    "sentence_examples": [
+      { "en": "Look at the map.", "zh": "看看这张地图。" },
+      { "en": "The map is on the wall.", "zh": "地图在墙上。" }
+    ]
+  },
+  {
+    "word": "under",
+    "phonetics": { "uk": "/ˈʌndə(r)/", "us": "/ˈʌndə(r)/" },
+    "translations": [{ "type": "prep", "translation": "在……下面" }],
+    "sentence_examples": [
+      { "en": "The ball is under the chair.", "zh": "球在椅子下面。" },
+      { "en": "My shoes are under the bed.", "zh": "我的鞋在床下。" }
+    ]
+  },
+  {
+    "word": "still",
+    "phonetics": { "uk": "/stɪl/", "us": "/stɪl/" },
+    "translations": [{ "type": "adv", "translation": "还是；仍然" }],
+    "sentence_examples": [
+      { "en": "It is still raining.", "zh": "天还在下雨。" },
+      { "en": "My toy is still in the box.", "zh": "我的玩具还在盒子里。" }
+    ]
+  },
+  {
+    "word": "put",
+    "phonetics": { "uk": "/pʊt/", "us": "/pʊt/" },
+    "translations": [{ "type": "v", "translation": "放；安置" }],
+    "sentence_examples": [
+      { "en": "Put the book on the desk.", "zh": "把书放在桌子上。" },
+      { "en": "Put your toys away.", "zh": "把你的玩具收好。" }
+    ]
+  },
+  {
+    "word": "fifteen",
+    "phonetics": { "uk": "/ˌfɪfˈtiːn/", "us": "/ˌfɪfˈtiːn/" },
+    "translations": [{ "type": "num", "translation": "十五" }],
+    "sentence_examples": [
+      { "en": "I have fifteen pencils.", "zh": "我有十五支铅笔。" },
+      { "en": "It's fifteen minutes.", "zh": "是十五分钟。" }
+    ]
+  },
+  {
+    "word": "twelve",
+    "phonetics": { "uk": "/twelv/", "us": "/twelv/" },
+    "translations": [{ "type": "num", "translation": "十二" }],
+    "sentence_examples": [
+      { "en": "There are twelve months in a year.", "zh": "一年有十二个月。" },
+      { "en": "I am twelve years old.", "zh": "我十二岁。" }
+    ]
+  },
+  {
+    "word": "fourteen",
+    "phonetics": { "uk": "/ˌfɔːˈtiːn/", "us": "/ˌfɔːˈtiːn/" },
+    "translations": [{ "type": "num", "translation": "十四" }],
+    "sentence_examples": [
+      { "en": "She has fourteen books.", "zh": "她有十四本书。" },
+      { "en": "Today is the fourteenth.", "zh": "今天是十四号。" }
+    ]
+  },
+  {
+    "word": "thirteen",
+    "phonetics": { "uk": "/ˌθɜːˈtiːn/", "us": "/ˌθɜːˈtiːn/" },
+    "translations": [{ "type": "num", "translation": "十三" }],
+    "sentence_examples": [
+      { "en": "I have thirteen cards.", "zh": "我有十三张卡片。" },
+      { "en": "There are thirteen students in the group.", "zh": "这个小组有十三个学生。" }
+    ]
+  },
+  {
+    "word": "eleven",
+    "phonetics": { "uk": "/ɪˈlevn/", "us": "/ɪˈlevn/" },
+    "translations": [{ "type": "num", "translation": "十一" }],
+    "sentence_examples": [
+      { "en": "It's eleven o'clock.", "zh": "现在十一点。" },
+      { "en": "I have eleven apples.", "zh": "我有十一个苹果。" }
+    ]
+  },
+  {
+    "word": "choose",
+    "phonetics": { "uk": "/tʃuːz/", "us": "/tʃuːz/" },
+    "translations": [{ "type": "v", "translation": "选择；挑选" }],
+    "sentence_examples": [
+      { "en": "Choose a book you like.", "zh": "挑一本你喜欢的书。" },
+      { "en": "I choose the red ball.", "zh": "我选红色的球。" }
+    ]
+  },
+  {
+    "word": "twenty",
+    "phonetics": { "uk": "/ˈtwenti/", "us": "/ˈtwenti/" },
+    "translations": [{ "type": "num", "translation": "二十" }],
+    "sentence_examples": [
+      { "en": "I have twenty yuan.", "zh": "我有二十元。" },
+      { "en": "There are twenty students in my class.", "zh": "我们班有二十个学生。" }
+    ]
+  },
+  {
+    "word": "seventeen",
+    "phonetics": { "uk": "/ˌsevnˈtiːn/", "us": "/ˌsevnˈtiːn/" },
+    "translations": [{ "type": "num", "translation": "十七" }],
+    "sentence_examples": [
+      { "en": "He has seventeen stickers.", "zh": "他有十七张贴纸。" },
+      { "en": "Seventeen comes after sixteen.", "zh": "十七在十六后面。" }
+    ]
+  },
+  {
+    "word": "sixteen",
+    "phonetics": { "uk": "/ˌsɪksˈtiːn/", "us": "/ˌsɪksˈtiːn/" },
+    "translations": [{ "type": "num", "translation": "十六" }],
+    "sentence_examples": [
+      { "en": "I have sixteen crayons.", "zh": "我有十六支蜡笔。" },
+      { "en": "Sixteen is a number.", "zh": "十六是一个数字。" }
+    ]
+  },
+  {
+    "word": "eighteen",
+    "phonetics": { "uk": "/ˌeɪˈtiːn/", "us": "/ˌeɪˈtiːn/" },
+    "translations": [{ "type": "num", "translation": "十八" }],
+    "sentence_examples": [
+      { "en": "There are eighteen chairs.", "zh": "这里有十八把椅子。" },
+      { "en": "I can count to eighteen.", "zh": "我会数到十八。" }
+    ]
+  },
+  {
+    "word": "nineteen",
+    "phonetics": { "uk": "/ˌnaɪnˈtiːn/", "us": "/ˌnaɪnˈtiːn/" },
+    "translations": [{ "type": "num", "translation": "十九" }],
+    "sentence_examples": [
+      { "en": "I have nineteen cards.", "zh": "我有十九张卡片。" },
+      { "en": "Nineteen is before twenty.", "zh": "十九在二十前面。" }
+    ]
+  },
+  {
+    "word": "save",
+    "phonetics": { "uk": "/seɪv/", "us": "/seɪv/" },
+    "translations": [{ "type": "v", "translation": "储蓄；攒钱" }],
+    "sentence_examples": [
+      { "en": "I save money in my piggy bank.", "zh": "我把钱存进我的存钱罐。" },
+      { "en": "Save your pocket money.", "zh": "把零花钱攒起来。" }
+    ]
+  },
+  {
+    "word": "spend",
+    "phonetics": { "uk": "/spend/", "us": "/spend/" },
+    "translations": [{ "type": "v", "translation": "用；花（钱）" }],
+    "sentence_examples": [
+      { "en": "Don't spend all your money.", "zh": "不要把钱全花光。" },
+      { "en": "I spend two yuan on candy.", "zh": "我花两元买糖果。" }
+    ]
+  },
+  {
+    "word": "piggy bank",
+    "phonetics": { "uk": "/ˈpɪɡi bæŋk/", "us": "/ˈpɪɡi bæŋk/" },
+    "translations": [{ "type": "n", "translation": "猪形储钱罐；存钱罐" }],
+    "sentence_examples": [
+      { "en": "My piggy bank is on the shelf.", "zh": "我的存钱罐在架子上。" },
+      { "en": "I put coins into my piggy bank.", "zh": "我把硬币放进存钱罐。" }
+    ]
+  },
+  {
+    "word": "pay",
+    "phonetics": { "uk": "/peɪ/", "us": "/peɪ/" },
+    "translations": [{ "type": "v", "translation": "付费；付款" }],
+    "sentence_examples": [
+      { "en": "I pay for the juice.", "zh": "我付果汁的钱。" },
+      { "en": "Dad pays at the shop.", "zh": "爸爸在商店付款。" }
+    ]
+  },
+  {
+    "word": "back",
+    "phonetics": { "uk": "/bæk/", "us": "/bæk/" },
+    "translations": [{ "type": "adv", "translation": "回到原处" }],
+    "sentence_examples": [
+      { "en": "Come back home early.", "zh": "早点回家。" },
+      { "en": "Put the book back on the shelf.", "zh": "把书放回架子上。" }
+    ]
   }
 ]
