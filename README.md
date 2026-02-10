@@ -144,5 +144,6 @@
 
 
 # 关于这个数据集是如何制作的
-1、https://github.com/KyleBing/english-vocabulary   从这里下载  
-2、使用脚本(\tools\q2019_format_json.py)进行格式转化
+1、部分来自 https://github.com/KyleBing/english-vocabulary   从这里下载  
+2、部分来自我自己在各个地方的收集  
+3、计算机相关术语 来自 https://github.com/EarsEyesMouth/computerese-cross-references/blob/master/README.md

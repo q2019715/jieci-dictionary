@@ -1,0 +1,9249 @@
+[
+  {
+    "word": "Abstract Factory",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "抽象工厂"
+      }
+    ]
+  },
+  {
+    "word": "Abstract Factory Pattern",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "抽象工厂模式"
+      }
+    ]
+  },
+  {
+    "word": "abstraction layer",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "抽象层"
+      }
+    ]
+  },
+  {
+    "word": "access",
+    "translations": [
+      {
+        "type": "v/n",
+        "translation": "获取，存取"
+      }
+    ]
+  },
+  {
+    "word": "access modifier",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "访问修饰符"
+      }
+    ]
+  },
+  {
+    "word": "acoustic coupler",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "声音耦合器"
+      }
+    ]
+  },
+  {
+    "word": "Active Directory",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "活动目录"
+      }
+    ]
+  },
+  {
+    "word": "Acyclic Dependencies Principle",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "非循环依赖原则"
+      }
+    ]
+  },
+  {
+    "word": "acyclic digraph",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "有向无环图"
+      }
+    ]
+  },
+  {
+    "word": "Adapter",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "适配器"
+      }
+    ]
+  },
+  {
+    "word": "Adapter Pattern",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "适配器模式"
+      }
+    ]
+  },
+  {
+    "word": "Adaptive Code",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "自适应代码"
+      }
+    ]
+  },
+  {
+    "word": "Add Parameter",
+    "translations": [
+      {
+        "type": "v",
+        "translation": "添加参数"
+      }
+    ]
+  },
+  {
+    "word": "ADSL",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "非对称数字用户环线"
+      }
+    ]
+  },
+  {
+    "word": "affinity",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "绑定"
+      }
+    ]
+  },
+  {
+    "word": "affinity group",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "地缘组"
+      }
+    ]
+  },
+  {
+    "word": "agent",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "代理"
+      }
+    ]
+  },
+  {
+    "word": "agent-based interface",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "代理人界面"
+      }
+    ]
+  },
+  {
+    "word": "Aggregate",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "聚合"
+      }
+    ]
+  },
+  {
+    "word": "Aggregate Root",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "聚合根"
+      }
+    ]
+  },
+  {
+    "word": "Agile",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "敏捷方法论"
+      }
+    ]
+  },
+  {
+    "word": "agile practice",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "敏捷实践"
+      }
+    ]
+  },
+  {
+    "word": "agile process",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "敏捷流程"
+      }
+    ]
+  },
+  {
+    "word": "agility",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "敏捷性"
+      }
+    ]
+  },
+  {
+    "word": "AI",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "人工智能"
+      }
+    ]
+  },
+  {
+    "word": "air waves",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "无线电波"
+      }
+    ]
+  },
+  {
+    "word": "algorithm",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "算法"
+      }
+    ]
+  },
+  {
+    "word": "Algorithm-of-Thought",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "思维算法"
+      }
+    ]
+  },
+  {
+    "word": "analog",
+    "translations": [
+      {
+        "type": "n/adj",
+        "translation": "模拟的"
+      }
+    ]
+  },
+  {
+    "word": "animation",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "动画"
+      }
+    ]
+  },
+  {
+    "word": "annotation",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "注解，注释"
+      }
+    ]
+  },
+  {
+    "word": "answering machine",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "电话应答机"
+      }
+    ]
+  },
+  {
+    "word": "antenna",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "天线"
+      }
+    ]
+  },
+  {
+    "word": "anti-pattern",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "反模式"
+      }
+    ]
+  },
+  {
+    "word": "AoT",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "思维算法"
+      }
+    ]
+  },
+  {
+    "word": "APM",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "异步编程模型"
+      }
+    ]
+  },
+  {
+    "word": "Apocalyptic defect",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "灾难缺陷"
+      }
+    ]
+  },
+  {
+    "word": "application",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "应用，应用程序，应用软件"
+      }
+    ]
+  },
+  {
+    "word": "application life cycle",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "应用程序生命周期"
+      }
+    ]
+  },
+  {
+    "word": "application pool",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "应用程序池"
+      }
+    ]
+  },
+  {
+    "word": "Application Programming Interface",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "应用程序编程接口，目的是提供应用程序与开发人员基于某软件或硬件得以访问一组例程的能力，而又无需访问源码，或理解内部工作机制的细节。"
+      }
+    ]
+  },
+  {
+    "word": "Application Service",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "应用服务"
+      }
+    ]
+  },
+  {
+    "word": "arbitrary error",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "任意错误"
+      }
+    ]
+  },
+  {
+    "word": "architecture",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "体系机构，结构"
+      }
+    ]
+  },
+  {
+    "word": "architecture decay",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "架构腐坏"
+      }
+    ]
+  },
+  {
+    "word": "Architecture Style",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "架构风格"
+      }
+    ]
+  },
+  {
+    "word": "ARPA",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "美国国防部高级研究计划署"
+      }
+    ]
+  },
+  {
+    "word": "ARPAnet",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "阿帕网"
+      }
+    ]
+  },
+  {
+    "word": "Arrange-Act-Assert",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "准备-执行-断言"
+      }
+    ]
+  },
+  {
+    "word": "artifact",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "构建物"
+      }
+    ]
+  },
+  {
+    "word": "Aspect-Oriented Programming",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "面向切面编程"
+      }
+    ]
+  },
+  {
+    "word": "aspect ratio",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "屏幕高宽比"
+      }
+    ]
+  },
+  {
+    "word": "assembly",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "程序集"
+      }
+    ]
+  },
+  {
+    "word": "associative array",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "关联数组"
+      }
+    ]
+  },
+  {
+    "word": "Asynchronous Programming Model",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "异步编程模型"
+      }
+    ]
+  },
+  {
+    "word": "ATM",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "异步传输模式"
+      }
+    ]
+  },
+  {
+    "word": "atomic operation",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "原子操作"
+      }
+    ]
+  },
+  {
+    "word": "atomic transaction",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "原子事务"
+      }
+    ]
+  },
+  {
+    "word": "atomicity",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "原子性"
+      }
+    ]
+  },
+  {
+    "word": "attribute",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "特性（C#）、属性（Java 等）"
+      }
+    ]
+  },
+  {
+    "word": "augmented reality",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "增强实现"
+      }
+    ]
+  },
+  {
+    "word": "authentication",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "身份验证"
+      }
+    ]
+  },
+  {
+    "word": "authorization",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "授权"
+      }
+    ]
+  },
+  {
+    "word": "auto-generated properties",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "自动生成的属性"
+      }
+    ]
+  },
+  {
+    "word": "automated unit testing",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "自动化单元测试"
+      }
+    ]
+  },
+  {
+    "word": "automation",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "自动化"
+      }
+    ]
+  },
+  {
+    "word": "autonomous",
+    "translations": [
+      {
+        "type": "adj",
+        "translation": "独立性"
+      }
+    ]
+  },
+  {
+    "word": "auxiliary database",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "辅助数据库"
+      }
+    ]
+  },
+  {
+    "word": "availability",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "可用性"
+      }
+    ]
+  },
+  {
+    "word": "availability set",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "可用性集"
+      }
+    ]
+  },
+  {
+    "word": "AZs",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "可用性区域"
+      }
+    ]
+  },
+  {
+    "word": "BaaS",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "电池即服务（电池租用商业模式）"
+      }
+    ]
+  },
+  {
+    "word": "Backend as a Service",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "后端即服务"
+      }
+    ]
+  },
+  {
+    "word": "backpane",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "底板"
+      }
+    ]
+  },
+  {
+    "word": "backward compatibility",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "向后兼容性"
+      }
+    ]
+  },
+  {
+    "word": "bandwidth",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "带宽"
+      }
+    ]
+  },
+  {
+    "word": "bar code",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "条形码"
+      }
+    ]
+  },
+  {
+    "word": "Base Class Library",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "基类库"
+      }
+    ]
+  },
+  {
+    "word": "baseline",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "准线"
+      }
+    ]
+  },
+  {
+    "word": "baud",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "波特"
+      }
+    ]
+  },
+  {
+    "word": "BCL",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "基类库"
+      }
+    ]
+  },
+  {
+    "word": "bear",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "熊"
+      }
+    ]
+  },
+  {
+    "word": "behavior",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "行为"
+      }
+    ]
+  },
+  {
+    "word": "behavior preserving program transformations",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "行为保留式程序转换"
+      }
+    ]
+  },
+  {
+    "word": "Behavioral Design Patterns",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "行为性设计模式"
+      }
+    ]
+  },
+  {
+    "word": "Behavioral error",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "行为错误"
+      }
+    ]
+  },
+  {
+    "word": "BERT",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "谷歌公司的大型语言模型，对自然语言处理研究产生了重大影响。该模型使用双向方法从一个词的左右两边捕捉上下文，使得各种任务的性能提高，如情感分析和命名实体识别。"
+      }
+    ]
+  },
+  {
+    "word": "BFF",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "为前端服务的后端"
+      }
+    ]
+  },
+  {
+    "word": "BFS",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "广度优先搜索"
+      }
+    ]
+  },
+  {
+    "word": "Big Ball of Mud",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "大泥球"
+      }
+    ]
+  },
+  {
+    "word": "big data",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "大数据"
+      }
+    ]
+  },
+  {
+    "word": "Big Design Up Front",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "大优先设计"
+      }
+    ]
+  },
+  {
+    "word": "binary",
+    "translations": [
+      {
+        "type": "adj",
+        "translation": "二进制的"
+      }
+    ]
+  },
+  {
+    "word": "binochlar",
+    "translations": [
+      {
+        "type": "adj",
+        "translation": "双目并用的"
+      }
+    ]
+  },
+  {
+    "word": "bit",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "比特"
+      }
+    ]
+  },
+  {
+    "word": "Bit-field",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "位域"
+      }
+    ]
+  },
+  {
+    "word": "bitnik",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "比特族"
+      }
+    ]
+  },
+  {
+    "word": "blob",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "二进制大对象"
+      }
+    ]
+  },
+  {
+    "word": "block",
+    "translations": [
+      {
+        "type": "v/n",
+        "translation": "阻断"
+      }
+    ]
+  },
+  {
+    "word": "block blob",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "块二进制大对象"
+      }
+    ]
+  },
+  {
+    "word": "Blockchain as a Service",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "区块链即服务"
+      }
+    ]
+  },
+  {
+    "word": "bottleneck",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "瓶颈"
+      }
+    ]
+  },
+  {
+    "word": "bounded context",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "边界上下文、界限上下文"
+      }
+    ]
+  },
+  {
+    "word": "box",
+    "translations": [
+      {
+        "type": "v",
+        "translation": "装箱"
+      }
+    ]
+  },
+  {
+    "word": "bps",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "比特/秒"
+      }
+    ]
+  },
+  {
+    "word": "Brainstorming",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "头脑风暴（脑暴）"
+      }
+    ]
+  },
+  {
+    "word": "BRD",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "商业需求文档"
+      }
+    ]
+  },
+  {
+    "word": "breakpoint",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "断点"
+      }
+    ]
+  },
+  {
+    "word": "Bridge",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "桥接"
+      }
+    ]
+  },
+  {
+    "word": "Bridge Pattern",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "桥接模式"
+      }
+    ]
+  },
+  {
+    "word": "broadcast",
+    "translations": [
+      {
+        "type": "v/n",
+        "translation": "（无线电或电视）广播"
+      }
+    ]
+  },
+  {
+    "word": "Broken Hierarchy",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "支离破碎的层次结构"
+      }
+    ]
+  },
+  {
+    "word": "Broken Modularization",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "拆散的模块化"
+      }
+    ]
+  },
+  {
+    "word": "brownfield project",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "行进中项目"
+      }
+    ]
+  },
+  {
+    "word": "Browser Object Model",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "浏览器对象模型"
+      }
+    ]
+  },
+  {
+    "word": "browser-server",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "浏览器-服务器"
+      }
+    ]
+  },
+  {
+    "word": "bug",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "缺陷"
+      }
+    ]
+  },
+  {
+    "word": "Builder Pattern",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "建造者模式"
+      }
+    ]
+  },
+  {
+    "word": "built-in",
+    "translations": [
+      {
+        "type": "adj",
+        "translation": "内置的，内建的；嵌入的"
+      }
+    ]
+  },
+  {
+    "word": "bulkhead",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "舱壁"
+      }
+    ]
+  },
+  {
+    "word": "business intelligence",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "商业智能，将企业中现有的数据进行有效的整合，快速准确地提供报表并提出决策依据，帮助企业做出明智的业务经营决策。"
+      }
+    ]
+  },
+  {
+    "word": "business layer",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "业务层"
+      }
+    ]
+  },
+  {
+    "word": "business logic layer",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "业务逻辑层"
+      }
+    ]
+  },
+  {
+    "word": "Business Requirements Document",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "商业需求文档"
+      }
+    ]
+  },
+  {
+    "word": "busy (status)",
+    "translations": [
+      {
+        "type": "adj",
+        "translation": "忙（状态）；繁忙（状态）"
+      }
+    ]
+  },
+  {
+    "word": "byte",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "字节"
+      }
+    ]
+  },
+  {
+    "word": "cable",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "电缆"
+      }
+    ]
+  },
+  {
+    "word": "Cache/Caching",
+    "translations": [
+      {
+        "type": "n/v",
+        "translation": "缓存"
+      }
+    ]
+  },
+  {
+    "word": "call stack",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "调用堆栈"
+      }
+    ]
+  },
+  {
+    "word": "callout box",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "标注框"
+      }
+    ]
+  },
+  {
+    "word": "camelCase",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "驼峰式大小写"
+      }
+    ]
+  },
+  {
+    "word": "canary releasing",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "金丝雀发布"
+      }
+    ]
+  },
+  {
+    "word": "carbon copy",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "复写本，副本；抄送"
+      }
+    ]
+  },
+  {
+    "word": "carriage return",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "回车"
+      }
+    ]
+  },
+  {
+    "word": "Cascading Style Sheets",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "层叠样式表"
+      }
+    ]
+  },
+  {
+    "word": "catastrophic failover",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "灾难性故障转移"
+      }
+    ]
+  },
+  {
+    "word": "CD",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "持续交付"
+      }
+    ]
+  },
+  {
+    "word": "CDC",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "消费者驱动的契约"
+      }
+    ]
+  },
+  {
+    "word": "CDN",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "内容分发网络"
+      }
+    ]
+  },
+  {
+    "word": "cell",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "单元"
+      }
+    ]
+  },
+  {
+    "word": "cellular telephone",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "移动电话"
+      }
+    ]
+  },
+  {
+    "word": "Central Processing Unit",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "中央处理器"
+      }
+    ]
+  },
+  {
+    "word": "certificate",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "（数字）证书"
+      }
+    ]
+  },
+  {
+    "word": "Certificate Authority",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "证书认证机构"
+      }
+    ]
+  },
+  {
+    "word": "Chain of Responsibility",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "责任链"
+      }
+    ]
+  },
+  {
+    "word": "Chain of Responsibility Pattern",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "责任链模式"
+      }
+    ]
+  },
+  {
+    "word": "Chain-of-Thought",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "思维链"
+      }
+    ]
+  },
+  {
+    "word": "Chain-of-Thought-Self-Consistency",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "思维链自洽性"
+      }
+    ]
+  },
+  {
+    "word": "Change Bidirectional Association to Unidirectional",
+    "translations": [
+      {
+        "type": "v",
+        "translation": "将双向关联改为单向关联"
+      }
+    ]
+  },
+  {
+    "word": "Change Point",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "修改点：需要往代码中引入修改的点"
+      }
+    ]
+  },
+  {
+    "word": "Change Reference to Value",
+    "translations": [
+      {
+        "type": "v",
+        "translation": "将引用对象改为值对象"
+      }
+    ]
+  },
+  {
+    "word": "Change Unidirectional Association to Bidirectional",
+    "translations": [
+      {
+        "type": "v",
+        "translation": "将单向关联改为双向关联"
+      }
+    ]
+  },
+  {
+    "word": "Change Value to Reference",
+    "translations": [
+      {
+        "type": "v",
+        "translation": "将值对象改为引用对象"
+      }
+    ]
+  },
+  {
+    "word": "channel",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "信道，频道"
+      }
+    ]
+  },
+  {
+    "word": "character",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "字符"
+      }
+    ]
+  },
+  {
+    "word": "Characterization test",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "特征测试：描述软件某部分的当前行为的测试，当你修改代码时能够用来保持行为"
+      }
+    ]
+  },
+  {
+    "word": "check in",
+    "translations": [
+      {
+        "type": "v",
+        "translation": "签入"
+      }
+    ]
+  },
+  {
+    "word": "check out",
+    "translations": [
+      {
+        "type": "v",
+        "translation": "签出"
+      }
+    ]
+  },
+  {
+    "word": "checksum",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "校验和"
+      }
+    ]
+  },
+  {
+    "word": "chip",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "芯片"
+      }
+    ]
+  },
+  {
+    "word": "choreography",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "协同"
+      }
+    ]
+  },
+  {
+    "word": "CI",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "持续集成"
+      }
+    ]
+  },
+  {
+    "word": "cipher",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "密码"
+      }
+    ]
+  },
+  {
+    "word": "claim",
+    "translations": [
+      {
+        "type": "n/v",
+        "translation": "声明"
+      }
+    ]
+  },
+  {
+    "word": "class definition",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "类定义"
+      }
+    ]
+  },
+  {
+    "word": "Clean Object-oriented and Layered Architecture",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "整洁面向对象分层架构"
+      }
+    ]
+  },
+  {
+    "word": "CLI",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "公共语言基础结构"
+      }
+    ]
+  },
+  {
+    "word": "client-server",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "客户端-服务器"
+      }
+    ]
+  },
+  {
+    "word": "clone",
+    "translations": [
+      {
+        "type": "v/n",
+        "translation": "克隆，复制"
+      }
+    ]
+  },
+  {
+    "word": "cloud computing",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "云计算"
+      }
+    ]
+  },
+  {
+    "word": "cloud service",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "云服务"
+      }
+    ]
+  },
+  {
+    "word": "CLR",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "公共语言运行时"
+      }
+    ]
+  },
+  {
+    "word": "CLS",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "公共语言规范"
+      }
+    ]
+  },
+  {
+    "word": "cluster",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "集群"
+      }
+    ]
+  },
+  {
+    "word": "clustered index",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "聚集索引"
+      }
+    ]
+  },
+  {
+    "word": "co-occurring smells",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "同时出现的坏味"
+      }
+    ]
+  },
+  {
+    "word": "CoAP",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "受限应用协议"
+      }
+    ]
+  },
+  {
+    "word": "coaxial cable",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "同轴电缆"
+      }
+    ]
+  },
+  {
+    "word": "COBIT",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "信息和相关技术的控制目标"
+      }
+    ]
+  },
+  {
+    "word": "CoC",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "更改开销"
+      }
+    ]
+  },
+  {
+    "word": "code smell",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "代码味道"
+      }
+    ]
+  },
+  {
+    "word": "COLA",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "整洁面向对象分层架构"
+      }
+    ]
+  },
+  {
+    "word": "Collapse Hierarchy",
+    "translations": [
+      {
+        "type": "v",
+        "translation": "折叠继承关系"
+      }
+    ]
+  },
+  {
+    "word": "comcurrency",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "并发"
+      }
+    ]
+  },
+  {
+    "word": "command",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "命令"
+      }
+    ]
+  },
+  {
+    "word": "Command Pattern",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "命令模式"
+      }
+    ]
+  },
+  {
+    "word": "command prompt",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "命令行提示"
+      }
+    ]
+  },
+  {
+    "word": "Command/Query Responsibility Segregation",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "命令/查询职责分离"
+      }
+    ]
+  },
+  {
+    "word": "Command/Query Separation",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "命令/查询分离"
+      }
+    ]
+  },
+  {
+    "word": "commingled bits",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "混合的比特"
+      }
+    ]
+  },
+  {
+    "word": "communication",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "通信"
+      }
+    ]
+  },
+  {
+    "word": "community",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "社区"
+      }
+    ]
+  },
+  {
+    "word": "committed",
+    "translations": [
+      {
+        "type": "adj",
+        "translation": "已提交（的）"
+      }
+    ]
+  },
+  {
+    "word": "Common Intermediate Language",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "公共中间语言"
+      }
+    ]
+  },
+  {
+    "word": "Common Language Infrastructure",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "公共语言基础结构"
+      }
+    ]
+  },
+  {
+    "word": "Common Language Runtime",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "公共语言运行时"
+      }
+    ]
+  },
+  {
+    "word": "Common Language Specification",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "公共语言规范"
+      }
+    ]
+  },
+  {
+    "word": "Common Type System",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "公共类型系统"
+      }
+    ]
+  },
+  {
+    "word": "common name",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "通用名称"
+      }
+    ]
+  },
+  {
+    "word": "compatibility",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "兼容性"
+      }
+    ]
+  },
+  {
+    "word": "Competing Consumer pattern",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "消费者竞争模式"
+      }
+    ]
+  },
+  {
+    "word": "compile-time correctness checking",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "编译时正确性检查"
+      }
+    ]
+  },
+  {
+    "word": "Component Object Model",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "组件对象模型"
+      }
+    ]
+  },
+  {
+    "word": "Composability",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "组合性"
+      }
+    ]
+  },
+  {
+    "word": "composite formatting",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "复合格式化"
+      }
+    ]
+  },
+  {
+    "word": "Composite Pattern",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "复合模式、组合模式"
+      }
+    ]
+  },
+  {
+    "word": "concurrency conflicts",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "并发冲突"
+      }
+    ]
+  },
+  {
+    "word": "concurrency mode",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "并发模式"
+      }
+    ]
+  },
+  {
+    "word": "conditional compilation",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "条件编译"
+      }
+    ]
+  },
+  {
+    "word": "conditional compilation statement",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "条件编译语句"
+      }
+    ]
+  },
+  {
+    "word": "configuration",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "配置，设置"
+      }
+    ]
+  },
+  {
+    "word": "connection string",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "连接字符串"
+      }
+    ]
+  },
+  {
+    "word": "Consolidate Conditional Expression",
+    "translations": [
+      {
+        "type": "v",
+        "translation": "合并条件表达式"
+      }
+    ]
+  },
+  {
+    "word": "Consolidate Duplicate Conditional Fragments",
+    "translations": [
+      {
+        "type": "v",
+        "translation": "合并重复的条件片段"
+      }
+    ]
+  },
+  {
+    "word": "consistency",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "一致性"
+      }
+    ]
+  },
+  {
+    "word": "constructor",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "构造函数"
+      }
+    ]
+  },
+  {
+    "word": "container",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "容器"
+      }
+    ]
+  },
+  {
+    "word": "Container As A Service",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "容器即服务"
+      }
+    ]
+  },
+  {
+    "word": "content",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "内容"
+      }
+    ]
+  },
+  {
+    "word": "context",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "上下文"
+      }
+    ]
+  },
+  {
+    "word": "context map",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "上下文地图"
+      }
+    ]
+  },
+  {
+    "word": "Context Mapping",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "上下文映射"
+      }
+    ]
+  },
+  {
+    "word": "contextual keyword",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "上下文关键字"
+      }
+    ]
+  },
+  {
+    "word": "continuous integration",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "持续集成"
+      }
+    ]
+  },
+  {
+    "word": "contribute",
+    "translations": [
+      {
+        "type": "v",
+        "translation": "贡献"
+      }
+    ]
+  },
+  {
+    "word": "Contributor License Agreement",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "贡献者许可协议"
+      }
+    ]
+  },
+  {
+    "word": "convention",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "约定"
+      }
+    ]
+  },
+  {
+    "word": "covariance",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "协变"
+      }
+    ]
+  },
+  {
+    "word": "contravariance",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "逆变"
+      }
+    ]
+  },
+  {
+    "word": "convert",
+    "translations": [
+      {
+        "type": "v",
+        "translation": "转换"
+      }
+    ]
+  },
+  {
+    "word": "Convert Procedural Design to Objects",
+    "translations": [
+      {
+        "type": "v",
+        "translation": "将过程化设计转化为对象设计"
+      }
+    ]
+  },
+  {
+    "word": "cookie",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "Cookie"
+      }
+    ]
+  },
+  {
+    "word": "copy-on-write",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "写时复制"
+      }
+    ]
+  },
+  {
+    "word": "core",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "内核；NET Core 的简写（能且仅能与 NET Framework 的简写 nfx 同时出现，作如 nfx/core，单独使用时应为全称 NET Core）"
+      }
+    ]
+  },
+  {
+    "word": "core domain",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "核心领域"
+      }
+    ]
+  },
+  {
+    "word": "corruption",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "损毁"
+      }
+    ]
+  },
+  {
+    "word": "Cosmetic issue",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "外观上问题"
+      }
+    ]
+  },
+  {
+    "word": "Cost of Change",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "更改开销"
+      }
+    ]
+  },
+  {
+    "word": "CoT",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "思维链"
+      }
+    ]
+  },
+  {
+    "word": "COTS",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "现成的商业软件"
+      }
+    ]
+  },
+  {
+    "word": "counterpoint",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "对位"
+      }
+    ]
+  },
+  {
+    "word": "Coupling count",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "耦合数：当一个方法被调用时传给它以及从它传出来的值的数目。如果该方法没有返回值，则耦合数就是它的参数数目。否则就是参数数目加 1。如果你想要在没有测试的情况下提取出一个消防法的话，计算一下它的耦合数是很有意义的。"
+      }
+    ]
+  },
+  {
+    "word": "CPU",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "中央处理器"
+      }
+    ]
+  },
+  {
+    "word": "CQRS",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "命令查询职责分离"
+      }
+    ]
+  },
+  {
+    "word": "crash",
+    "translations": [
+      {
+        "type": "v/n",
+        "translation": "（程序）崩溃"
+      }
+    ]
+  },
+  {
+    "word": "crash dump",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "故障转储"
+      }
+    ]
+  },
+  {
+    "word": "Creational Design Patterns",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "创建性设计模式"
+      }
+    ]
+  },
+  {
+    "word": "CRC",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "类-职责-交互"
+      }
+    ]
+  },
+  {
+    "word": "credential",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "凭证"
+      }
+    ]
+  },
+  {
+    "word": "cririque",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "评估"
+      }
+    ]
+  },
+  {
+    "word": "CRM",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "客户关系管理"
+      }
+    ]
+  },
+  {
+    "word": "Cross Domain",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "跨域"
+      }
+    ]
+  },
+  {
+    "word": "Cross-browser",
+    "translations": [
+      {
+        "type": "adj",
+        "translation": "跨浏览器"
+      }
+    ]
+  },
+  {
+    "word": "Cross-platform",
+    "translations": [
+      {
+        "type": "adj",
+        "translation": "跨平台"
+      }
+    ]
+  },
+  {
+    "word": "Cross-Functional Requirement",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "跨功能需求"
+      }
+    ]
+  },
+  {
+    "word": "CRT",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "阴极射线管"
+      }
+    ]
+  },
+  {
+    "word": "cruft",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "残留"
+      }
+    ]
+  },
+  {
+    "word": "cryptography",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "密码术"
+      }
+    ]
+  },
+  {
+    "word": "CTS",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "公共类型系统"
+      }
+    ]
+  },
+  {
+    "word": "cursor",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "光标"
+      }
+    ]
+  },
+  {
+    "word": "Customizability",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "可定制性"
+      }
+    ]
+  },
+  {
+    "word": "cybraian",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "电脑族"
+      }
+    ]
+  },
+  {
+    "word": "cyberspace",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "电脑空间"
+      }
+    ]
+  },
+  {
+    "word": "cycle time",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "周期时间"
+      }
+    ]
+  },
+  {
+    "word": "cyclic digraph",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "有向有环图"
+      }
+    ]
+  },
+  {
+    "word": "Cyclic Hierarchy",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "循环层次结构"
+      }
+    ]
+  },
+  {
+    "word": "Cyclically-dependent Modularization",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "循环依赖式模块化"
+      }
+    ]
+  },
+  {
+    "word": "Cyclomatic complexity",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "圈复杂度"
+      }
+    ]
+  },
+  {
+    "word": "DaaS",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "数据即服务"
+      }
+    ]
+  },
+  {
+    "word": "DAG",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "有向无循环图"
+      }
+    ]
+  },
+  {
+    "word": "dashboard",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "仪表盘"
+      }
+    ]
+  },
+  {
+    "word": "data access layer",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "数据访问层"
+      }
+    ]
+  },
+  {
+    "word": "Data Storage as a Service",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "数据存储即服务"
+      }
+    ]
+  },
+  {
+    "word": "data clumps",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "数据泥团"
+      }
+    ]
+  },
+  {
+    "word": "Data Encryption Standard",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "数据加密标准"
+      }
+    ]
+  },
+  {
+    "word": "data layer",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "数据层"
+      }
+    ]
+  },
+  {
+    "word": "data integrity",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "数据完整性"
+      }
+    ]
+  },
+  {
+    "word": "data invariant",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "数据不变式"
+      }
+    ]
+  },
+  {
+    "word": "data mining",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "数据挖掘"
+      }
+    ]
+  },
+  {
+    "word": "data pump",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "数据泵"
+      }
+    ]
+  },
+  {
+    "word": "Data Transfer Object",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "数据传输对象"
+      }
+    ]
+  },
+  {
+    "word": "declarative programming",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "宣告式编程"
+      }
+    ]
+  },
+  {
+    "word": "Decompose Conditional",
+    "translations": [
+      {
+        "type": "v",
+        "translation": "分解条件表达式"
+      }
+    ]
+  },
+  {
+    "word": "Decorator Pattern",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "修饰器模式、装饰模式"
+      }
+    ]
+  },
+  {
+    "word": "Deep Hierarchy",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "过深的层次结构"
+      }
+    ]
+  },
+  {
+    "word": "Default Literal",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "默认常值"
+      }
+    ]
+  },
+  {
+    "word": "Defensive Programming",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "防御式编程"
+      }
+    ]
+  },
+  {
+    "word": "Deficient Encapsulation",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "不充分的封装"
+      }
+    ]
+  },
+  {
+    "word": "Definition of Done",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "完成的定义"
+      }
+    ]
+  },
+  {
+    "word": "denial-of-service attacks",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "拒绝服务攻击"
+      }
+    ]
+  },
+  {
+    "word": "dependency injection",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "依赖注入"
+      }
+    ]
+  },
+  {
+    "word": "dependency",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "依赖"
+      }
+    ]
+  },
+  {
+    "word": "dependency digraph",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "依赖有向图"
+      }
+    ]
+  },
+  {
+    "word": "deployment",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "部署"
+      }
+    ]
+  },
+  {
+    "word": "dequeue",
+    "translations": [
+      {
+        "type": "v",
+        "translation": "出列"
+      }
+    ]
+  },
+  {
+    "word": "derives from",
+    "translations": [
+      {
+        "type": "v",
+        "translation": "继承"
+      }
+    ]
+  },
+  {
+    "word": "design pattern",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "设计模式"
+      }
+    ]
+  },
+  {
+    "word": "Design Requirements Document",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "交互设计说明文档"
+      }
+    ]
+  },
+  {
+    "word": "device",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "设备"
+      }
+    ]
+  },
+  {
+    "word": "DFS",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "深度优先搜索"
+      }
+    ]
+  },
+  {
+    "word": "DfT",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "为可测试性而设计"
+      }
+    ]
+  },
+  {
+    "word": "DI",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "依赖注入"
+      }
+    ]
+  },
+  {
+    "word": "DIaaS",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "数据智能即服务"
+      }
+    ]
+  },
+  {
+    "word": "diagnostics",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "诊断"
+      }
+    ]
+  },
+  {
+    "word": "directed graph",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "有向图"
+      }
+    ]
+  },
+  {
+    "word": "directive",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "指令"
+      }
+    ]
+  },
+  {
+    "word": "DiRT",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "灾难恢复测试"
+      }
+    ]
+  },
+  {
+    "word": "discussion forum",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "论坛"
+      }
+    ]
+  },
+  {
+    "word": "disk",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "磁盘"
+      }
+    ]
+  },
+  {
+    "word": "distributed system",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "分布式系统"
+      }
+    ]
+  },
+  {
+    "word": "DLL",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "动态链接库"
+      }
+    ]
+  },
+  {
+    "word": "DNS",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "域名系统"
+      }
+    ]
+  },
+  {
+    "word": "Document Object Model",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "文档对象模型"
+      }
+    ]
+  },
+  {
+    "word": "domain-driven design",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "领域驱动设计"
+      }
+    ]
+  },
+  {
+    "word": "Domain Event",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "领域事件"
+      }
+    ]
+  },
+  {
+    "word": "Domain Model",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "领域模型"
+      }
+    ]
+  },
+  {
+    "word": "Domain Name System",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "域名系统"
+      }
+    ]
+  },
+  {
+    "word": "Domain Service",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "领域服务"
+      }
+    ]
+  },
+  {
+    "word": "Domain Specific Language",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "领域特定语言"
+      }
+    ]
+  },
+  {
+    "word": "DRD",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "交互设计说明文档"
+      }
+    ]
+  },
+  {
+    "word": "DRY 原则",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "不自我重复原则，“不要重复你自己”"
+      }
+    ]
+  },
+  {
+    "word": "duck-typing",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "鸭子类型"
+      }
+    ]
+  },
+  {
+    "word": "duck test",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "鸭子测试"
+      }
+    ]
+  },
+  {
+    "word": "dummy function",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "虚构函数"
+      }
+    ]
+  },
+  {
+    "word": "dump",
+    "translations": [
+      {
+        "type": "v/n",
+        "translation": "转储"
+      }
+    ]
+  },
+  {
+    "word": "Duplicate Abstraction",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "重复的抽象"
+      }
+    ]
+  },
+  {
+    "word": "Duplicate Observed Data",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "复制“被监视数据”"
+      }
+    ]
+  },
+  {
+    "word": "durability",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "持久性"
+      }
+    ]
+  },
+  {
+    "word": "Dynamic Link Library",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "动态链接库"
+      }
+    ]
+  },
+  {
+    "word": "EAP",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "早期评估版本"
+      },
+      {
+        "type": "n",
+        "translation": "基于事件的异步模式"
+      }
+    ]
+  },
+  {
+    "word": "Early Assessment Program",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "早期评估版本"
+      }
+    ]
+  },
+  {
+    "word": "effect sketch",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "影响草图"
+      }
+    ]
+  },
+  {
+    "word": "Egress",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "流出"
+      }
+    ]
+  },
+  {
+    "word": "elasticity",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "弹性"
+      }
+    ]
+  },
+  {
+    "word": "ELBs",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "弹性负载均衡器"
+      }
+    ]
+  },
+  {
+    "word": "Element (XML)",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "元素"
+      }
+    ]
+  },
+  {
+    "word": "Elvis Operator",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "埃尔维斯运算符"
+      }
+    ]
+  },
+  {
+    "word": "Emergence",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "涌现、创发、突现、呈展、演生，是一种现象。"
+      }
+    ]
+  },
+  {
+    "word": "Encapsulate Collection",
+    "translations": [
+      {
+        "type": "v",
+        "translation": "封装集合"
+      }
+    ]
+  },
+  {
+    "word": "Encapsulate Downset",
+    "translations": [
+      {
+        "type": "v",
+        "translation": "封装向下转型"
+      }
+    ]
+  },
+  {
+    "word": "Encapsulate Field",
+    "translations": [
+      {
+        "type": "v",
+        "translation": "封装字段"
+      }
+    ]
+  },
+  {
+    "word": "endpoint",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "端点"
+      }
+    ]
+  },
+  {
+    "word": "enqueue",
+    "translations": [
+      {
+        "type": "v",
+        "translation": "入列；加入队列"
+      }
+    ]
+  },
+  {
+    "word": "Enterprise Resource Planning",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "企业资源计划"
+      }
+    ]
+  },
+  {
+    "word": "entity",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "实体"
+      }
+    ]
+  },
+  {
+    "word": "Entity Tags",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "实体标签"
+      }
+    ]
+  },
+  {
+    "word": "entourage anti-pattern",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "随从反模式"
+      }
+    ]
+  },
+  {
+    "word": "erosion",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "侵蚀"
+      }
+    ]
+  },
+  {
+    "word": "Event-based Asynchronous Pattern",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "基于事件的异步模式"
+      }
+    ]
+  },
+  {
+    "word": "event data pump",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "时间数据泵"
+      }
+    ]
+  },
+  {
+    "word": "event sourcing",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "事件源"
+      }
+    ]
+  },
+  {
+    "word": "Evolvability",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "可进化性"
+      }
+    ]
+  },
+  {
+    "word": "exception handling",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "异常处理"
+      }
+    ]
+  },
+  {
+    "word": "Exclusive OR",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "异或"
+      }
+    ]
+  },
+  {
+    "word": "explanatory figures",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "图示"
+      }
+    ]
+  },
+  {
+    "word": "Extensible Markup Language",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "可扩展标记语言"
+      }
+    ]
+  },
+  {
+    "word": "Extensibility",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "可扩展性"
+      }
+    ]
+  },
+  {
+    "word": "extra large",
+    "translations": [
+      {
+        "type": "adj",
+        "translation": "特大型"
+      }
+    ]
+  },
+  {
+    "word": "extra small",
+    "translations": [
+      {
+        "type": "adj",
+        "translation": "特小型"
+      }
+    ]
+  },
+  {
+    "word": "Extract Class",
+    "translations": [
+      {
+        "type": "v",
+        "translation": "提炼类"
+      }
+    ]
+  },
+  {
+    "word": "Extract Hierarchy",
+    "translations": [
+      {
+        "type": "v",
+        "translation": "提炼继承体系"
+      }
+    ]
+  },
+  {
+    "word": "Extract Interface",
+    "translations": [
+      {
+        "type": "v",
+        "translation": "提炼接口"
+      }
+    ]
+  },
+  {
+    "word": "Extract Method",
+    "translations": [
+      {
+        "type": "v",
+        "translation": "提炼函数"
+      }
+    ]
+  },
+  {
+    "word": "Extract Subclass",
+    "translations": [
+      {
+        "type": "v",
+        "translation": "提炼子类"
+      }
+    ]
+  },
+  {
+    "word": "Extract Superclass",
+    "translations": [
+      {
+        "type": "v",
+        "translation": "提炼超类"
+      }
+    ]
+  },
+  {
+    "word": "eXtreme Programming",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "极限编程"
+      }
+    ]
+  },
+  {
+    "word": "Facade Pattern",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "外观模式"
+      }
+    ]
+  },
+  {
+    "word": "Factory Method Pattern",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "工厂方法模式"
+      }
+    ]
+  },
+  {
+    "word": "failover",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "容错转移"
+      }
+    ]
+  },
+  {
+    "word": "failure domain",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "故障域"
+      }
+    ]
+  },
+  {
+    "word": "fake object",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "伪对象：在测试中伪装成一个类的合作者的对象"
+      }
+    ]
+  },
+  {
+    "word": "fan-in",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "扇入"
+      }
+    ]
+  },
+  {
+    "word": "fan-out",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "扇出"
+      }
+    ]
+  },
+  {
+    "word": "fat client",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "胖客户端"
+      }
+    ]
+  },
+  {
+    "word": "FCL",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "NET Framework 类库"
+      }
+    ]
+  },
+  {
+    "word": "FDD",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "软盘"
+      }
+    ]
+  },
+  {
+    "word": "feature sketch",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "特性草图"
+      }
+    ]
+  },
+  {
+    "word": "feed",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "聚合（资源聚合）"
+      }
+    ]
+  },
+  {
+    "word": "fine-tuning",
+    "translations": [
+      {
+        "type": "v",
+        "translation": "微调"
+      }
+    ]
+  },
+  {
+    "word": "first-party",
+    "translations": [
+      {
+        "type": "adj",
+        "translation": "第一方"
+      }
+    ]
+  },
+  {
+    "word": "Floopy Disk Drive",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "软盘"
+      }
+    ]
+  },
+  {
+    "word": "Flyweight Pattern",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "享元模式"
+      }
+    ]
+  },
+  {
+    "word": "follow up",
+    "translations": [
+      {
+        "type": "v",
+        "translation": "跟进"
+      }
+    ]
+  },
+  {
+    "word": "foreign key",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "外键"
+      }
+    ]
+  },
+  {
+    "word": "Form Template Method",
+    "translations": [
+      {
+        "type": "v",
+        "translation": "塑造模板函数"
+      }
+    ]
+  },
+  {
+    "word": "format item",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "格式项"
+      }
+    ]
+  },
+  {
+    "word": "format string",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "格式字符串"
+      }
+    ]
+  },
+  {
+    "word": "forward",
+    "translations": [
+      {
+        "type": "v",
+        "translation": "转发"
+      }
+    ]
+  },
+  {
+    "word": "FPP",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "零售版"
+      }
+    ]
+  },
+  {
+    "word": "Framework Class Library",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "NET Framework 类库"
+      }
+    ]
+  },
+  {
+    "word": "FRD",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "功能需求文档"
+      }
+    ]
+  },
+  {
+    "word": "free",
+    "translations": [
+      {
+        "type": "adj",
+        "translation": "免费"
+      }
+    ]
+  },
+  {
+    "word": "free function",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "自由函数：一个不属于任何类的函数。在 C 和其他过程式语言中，自由函数被简单地称为函数；在 C++ 中被称为非成员函数。在 Java 和 C# 中没有自由函数。"
+      }
+    ]
+  },
+  {
+    "word": "Functional Requirements Document",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "功能需求文档"
+      }
+    ]
+  },
+  {
+    "word": "full-duplex",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "全双工"
+      }
+    ]
+  },
+  {
+    "word": "Full Packaged Product",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "零售版"
+      }
+    ]
+  },
+  {
+    "word": "Function Pointers",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "函数指针"
+      }
+    ]
+  },
+  {
+    "word": "Garbage Collection",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "垃圾回收器"
+      }
+    ]
+  },
+  {
+    "word": "gauge",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "计量表"
+      }
+    ]
+  },
+  {
+    "word": "GC Heap",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "垃圾回收堆"
+      }
+    ]
+  },
+  {
+    "word": "GC root",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "GC 根对象"
+      }
+    ]
+  },
+  {
+    "word": "Generalization",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "泛化"
+      }
+    ]
+  },
+  {
+    "word": "Generalized Async",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "通用异步"
+      }
+    ]
+  },
+  {
+    "word": "Generalized Async Return",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "通用异步返回（C# 70）"
+      }
+    ]
+  },
+  {
+    "word": "generalizing specialist",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "全科专家（敏捷开发术语）"
+      }
+    ]
+  },
+  {
+    "word": "generator",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "生成器"
+      }
+    ]
+  },
+  {
+    "word": "Generic Attributes",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "泛型特性"
+      }
+    ]
+  },
+  {
+    "word": "Generic Math",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "泛型数学"
+      }
+    ]
+  },
+  {
+    "word": "Geo-Replication",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "地域复制"
+      }
+    ]
+  },
+  {
+    "word": "Geo Redundant",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "地域冗余"
+      }
+    ]
+  },
+  {
+    "word": "Global Assembly Cache",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "全局程序集缓存"
+      }
+    ]
+  },
+  {
+    "word": "global state",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "全局状态"
+      }
+    ]
+  },
+  {
+    "word": "global using directives",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "全局 Using 指令"
+      }
+    ]
+  },
+  {
+    "word": "Goal Directed Design",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "目标导向设计，旨在处理并满足用户目标和动机，包含产品目标和用户目标"
+      }
+    ]
+  },
+  {
+    "word": "GoT",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "思维图，思维图谱"
+      }
+    ]
+  },
+  {
+    "word": "GPT-3",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "OpenAI 最著名的大型语言模型之一，拥有1750亿个参数。该模型在文本生成、翻译和其他任务中表现出显著的性能，在全球范围内引起了热烈的反响，目前 OpenAI 已经迭代到了更高版本。"
+      }
+    ]
+  },
+  {
+    "word": "Graph-of-Thought",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "思维图，思维图谱"
+      }
+    ]
+  },
+  {
+    "word": "Graphical User Interface",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "图像用户界面设计，是一种结合计算机科学、美学、心理学、行为学、及各商业领域需求分析的人机系统工程，强调人、机、环境三者作为一个系统进行总体设计。"
+      }
+    ]
+  },
+  {
+    "word": "GUI",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "图像用户界面设计"
+      }
+    ]
+  },
+  {
+    "word": "Hackable",
+    "translations": [
+      {
+        "type": "adj",
+        "translation": "修改方便（根据《Web API 设计与开发》一书之翻译）"
+      }
+    ]
+  },
+  {
+    "word": "HAL",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "超文本应用程序语言"
+      }
+    ]
+  },
+  {
+    "word": "handle",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "句柄"
+      }
+    ]
+  },
+  {
+    "word": "Hard Disk Drive",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "硬盘"
+      }
+    ]
+  },
+  {
+    "word": "HATEOAS",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "超媒体作为程序状态的引擎"
+      }
+    ]
+  },
+  {
+    "word": "HCI",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "人机交互，属于研究层面，是人与计算机之间传递、交换信息的媒介和对话接口，是计算机系统的重要组成部分。"
+      }
+    ]
+  },
+  {
+    "word": "HDD",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "硬盘"
+      }
+    ]
+  },
+  {
+    "word": "header",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "头；标头；表头"
+      }
+    ]
+  },
+  {
+    "word": "Hexagonal Architecture",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "六边形架构，由 Alistair Cockburn 提出"
+      }
+    ]
+  },
+  {
+    "word": "HMAC",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "基于哈希的小系列码"
+      }
+    ]
+  },
+  {
+    "word": "Hide Delegate",
+    "translations": [
+      {
+        "type": "v",
+        "translation": "隐藏“委托关系”"
+      }
+    ]
+  },
+  {
+    "word": "Hide Method",
+    "translations": [
+      {
+        "type": "v",
+        "translation": "隐藏函数"
+      }
+    ]
+  },
+  {
+    "word": "High Avaliability",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "高可用性"
+      }
+    ]
+  },
+  {
+    "word": "High Fidelity Prototype",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "高保真原型，细节都比较详细的原型"
+      }
+    ]
+  },
+  {
+    "word": "high surrogate",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "高位代理项"
+      }
+    ]
+  },
+  {
+    "word": "Homogeneous",
+    "translations": [
+      {
+        "type": "adj",
+        "translation": "同质化"
+      }
+    ]
+  },
+  {
+    "word": "hook",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "钩子"
+      }
+    ]
+  },
+  {
+    "word": "hook point",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "挂接点"
+      }
+    ]
+  },
+  {
+    "word": "Horizontal Scale",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "水平缩放"
+      }
+    ]
+  },
+  {
+    "word": "Hosting",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "宿主"
+      }
+    ]
+  },
+  {
+    "word": "Hub-like Modularization",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "轮毂式模块化"
+      }
+    ]
+  },
+  {
+    "word": "HUI",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "手持设备用户界面，包括手机端和车载导航等"
+      }
+    ]
+  },
+  {
+    "word": "Human-Computer Interaction",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "人机交互"
+      }
+    ]
+  },
+  {
+    "word": "Humane Registry",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "人文注册表（由 Martin Fowler 提出）"
+      }
+    ]
+  },
+  {
+    "word": "Hybrid Cloud",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "混合云"
+      }
+    ]
+  },
+  {
+    "word": "hypertext-driven",
+    "translations": [
+      {
+        "type": "adj",
+        "translation": "超文本驱动"
+      }
+    ]
+  },
+  {
+    "word": "HyperText Markup Language",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "超文本标记语言"
+      }
+    ]
+  },
+  {
+    "word": "IA",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "信息架构"
+      }
+    ]
+  },
+  {
+    "word": "Iaas",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "设施即服务"
+      }
+    ]
+  },
+  {
+    "word": "Idempotence",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "幂等性"
+      }
+    ]
+  },
+  {
+    "word": "Idempotent Operation",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "幂等操作"
+      }
+    ]
+  },
+  {
+    "word": "Identity Provider",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "身份提供方"
+      }
+    ]
+  },
+  {
+    "word": "IL",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "中间语言"
+      }
+    ]
+  },
+  {
+    "word": "Illegitimate Injection",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "非法注入"
+      }
+    ]
+  },
+  {
+    "word": "IM",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "即时通讯"
+      }
+    ]
+  },
+  {
+    "word": "image",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "映像"
+      }
+    ]
+  },
+  {
+    "word": "immersion approach",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "沉浸法"
+      }
+    ]
+  },
+  {
+    "word": "Imperative Abstraction",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "命令式抽象"
+      }
+    ]
+  },
+  {
+    "word": "in-context learning",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "上下文学习"
+      }
+    ]
+  },
+  {
+    "word": "Incomplete Abstraction",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "不完整的抽象"
+      }
+    ]
+  },
+  {
+    "word": "index",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "索引"
+      }
+    ]
+  },
+  {
+    "word": "Information Architect",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "信息架构"
+      }
+    ]
+  },
+  {
+    "word": "Infrastructure as a Service",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "设施即服务"
+      }
+    ]
+  },
+  {
+    "word": "ingesting",
+    "translations": [
+      {
+        "type": "v",
+        "translation": "摄取"
+      }
+    ]
+  },
+  {
+    "word": "ingress",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "流入"
+      }
+    ]
+  },
+  {
+    "word": "Inline Class",
+    "translations": [
+      {
+        "type": "v",
+        "translation": "将类内联化"
+      }
+    ]
+  },
+  {
+    "word": "Inline Method",
+    "translations": [
+      {
+        "type": "v",
+        "translation": "内联函数"
+      }
+    ]
+  },
+  {
+    "word": "Inline Temp",
+    "translations": [
+      {
+        "type": "v",
+        "translation": "内联临时变量"
+      }
+    ]
+  },
+  {
+    "word": "input endpoint",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "输入端点"
+      }
+    ]
+  },
+  {
+    "word": "instance",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "实例"
+      }
+    ]
+  },
+  {
+    "word": "Instance InputEndpoint",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "实例输入端点"
+      }
+    ]
+  },
+  {
+    "word": "Instant Messaging",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "即时通讯"
+      }
+    ]
+  },
+  {
+    "word": "instantiation",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "实例化"
+      }
+    ]
+  },
+  {
+    "word": "instantiator",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "实例化器"
+      }
+    ]
+  },
+  {
+    "word": "instruction fine-tuning",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "指令微调"
+      }
+    ]
+  },
+  {
+    "word": "Insufficient Modularization",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "不充分的模块化"
+      }
+    ]
+  },
+  {
+    "word": "Interaction-based testing",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "基于交互的测试"
+      }
+    ]
+  },
+  {
+    "word": "Intercept",
+    "translations": [
+      {
+        "type": "v",
+        "translation": "截取"
+      }
+    ]
+  },
+  {
+    "word": "interception point",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "拦截点：可以编写测试来感知某些条件的地方"
+      }
+    ]
+  },
+  {
+    "word": "intermediate language",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "中间语言"
+      }
+    ]
+  },
+  {
+    "word": "Internal Endpoint",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "内部端点"
+      }
+    ]
+  },
+  {
+    "word": "Internet Information Service",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "Internet 信息服务"
+      }
+    ]
+  },
+  {
+    "word": "Internet Protocol",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "互联网协议"
+      }
+    ]
+  },
+  {
+    "word": "Interpreter Pattern",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "解释器模式"
+      }
+    ]
+  },
+  {
+    "word": "interpolated strings",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "内插字符串"
+      }
+    ]
+  },
+  {
+    "word": "Introduce Assertion",
+    "translations": [
+      {
+        "type": "v",
+        "translation": "引入断言"
+      }
+    ]
+  },
+  {
+    "word": "Introduce Explaining Variable",
+    "translations": [
+      {
+        "type": "v",
+        "translation": "引入解释性变量"
+      }
+    ]
+  },
+  {
+    "word": "Introduce Foreign Method",
+    "translations": [
+      {
+        "type": "v",
+        "translation": "引入外加函数"
+      }
+    ]
+  },
+  {
+    "word": "Introduce Local Extension",
+    "translations": [
+      {
+        "type": "v",
+        "translation": "引入本地扩展"
+      }
+    ]
+  },
+  {
+    "word": "Introduce Null Object",
+    "translations": [
+      {
+        "type": "v",
+        "translation": "引入 Null 对象"
+      }
+    ]
+  },
+  {
+    "word": "Introduce Parameter Object",
+    "translations": [
+      {
+        "type": "v",
+        "translation": "引入参数对象"
+      }
+    ]
+  },
+  {
+    "word": "Intrusion Detection Systems",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "入侵检测系统"
+      }
+    ]
+  },
+  {
+    "word": "Intrusion Prevention Systems",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "入侵预防系统"
+      }
+    ]
+  },
+  {
+    "word": "Inversion of Control",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "控制反转"
+      }
+    ]
+  },
+  {
+    "word": "Isolation",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "隔离性"
+      }
+    ]
+  },
+  {
+    "word": "isomorphism",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "同构（数学领域专用术语）"
+      }
+    ]
+  },
+  {
+    "word": "iterable",
+    "translations": [
+      {
+        "type": "adj",
+        "translation": "可迭代的"
+      }
+    ]
+  },
+  {
+    "word": "iteration",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "迭代"
+      }
+    ]
+  },
+  {
+    "word": "iterator",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "迭代器"
+      }
+    ]
+  },
+  {
+    "word": "Iterator Pattern",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "迭代模式"
+      }
+    ]
+  },
+  {
+    "word": "iterator protocol",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "迭代器协议"
+      }
+    ]
+  },
+  {
+    "word": "Job",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "作业"
+      }
+    ]
+  },
+  {
+    "word": "Job Description",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "岗位描述"
+      }
+    ]
+  },
+  {
+    "word": "JOSE",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "JSON 对象签名和加密"
+      }
+    ]
+  },
+  {
+    "word": "Json Web Token",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "JSON Web 令牌"
+      }
+    ]
+  },
+  {
+    "word": "just-in-time compilation",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "即时编译，JIT 编译"
+      }
+    ]
+  },
+  {
+    "word": "JVM",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "Java 虚拟机"
+      }
+    ]
+  },
+  {
+    "word": "Key",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "密钥"
+      }
+    ]
+  },
+  {
+    "word": "key-event notification",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "键事件通知"
+      }
+    ]
+  },
+  {
+    "word": "Key Opinion Leader",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "关键意见领袖，俗称大 V"
+      }
+    ]
+  },
+  {
+    "word": "Key Performance Indicator",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "关键绩效考核指标"
+      }
+    ]
+  },
+  {
+    "word": "Key Space",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "键空间"
+      }
+    ]
+  },
+  {
+    "word": "key-space notification",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "键空间通知"
+      }
+    ]
+  },
+  {
+    "word": "Key-Value Pair",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "键-值对"
+      }
+    ]
+  },
+  {
+    "word": "KISS 原则",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "保持简单原则，“简单是一切之本”"
+      }
+    ]
+  },
+  {
+    "word": "KPI",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "关键绩效考核指标"
+      }
+    ]
+  },
+  {
+    "word": "Language Integrated Query",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "语言集成查询"
+      }
+    ]
+  },
+  {
+    "word": "Large",
+    "translations": [
+      {
+        "type": "adj",
+        "translation": "大型"
+      }
+    ]
+  },
+  {
+    "word": "Large Language Model",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "大型语言模型"
+      }
+    ]
+  },
+  {
+    "word": "Layered Architecture",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "分层架构"
+      }
+    ]
+  },
+  {
+    "word": "LDAP",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "轻型目录访问协议"
+      }
+    ]
+  },
+  {
+    "word": "Leaky Encapsulation",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "泄露的封装"
+      }
+    ]
+  },
+  {
+    "word": "Legacy system",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "遗留系统"
+      }
+    ]
+  },
+  {
+    "word": "license",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "许可证"
+      }
+    ]
+  },
+  {
+    "word": "lifetime",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "生命周期"
+      }
+    ]
+  },
+  {
+    "word": "Lightweight Directory Access Protocol",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "轻量级目录访问协议"
+      }
+    ]
+  },
+  {
+    "word": "LINE of Business",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "业务线"
+      }
+    ]
+  },
+  {
+    "word": "link",
+    "translations": [
+      {
+        "type": "v/n",
+        "translation": "链接"
+      }
+    ]
+  },
+  {
+    "word": "link seam",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "连接期接缝：在连接期接缝处，可以通过连接到另一个库来替换行为。在编译型语言中可替换的东西包括产品库、DLL、程序集或 JAR 文件。其目的是为了解除依赖，或感知某些在测试期间可有能会发生的条件。"
+      }
+    ]
+  },
+  {
+    "word": "linked resource",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "链接的资源"
+      }
+    ]
+  },
+  {
+    "word": "Liskov Substitution Principle",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "里氏替换原则"
+      }
+    ]
+  },
+  {
+    "word": "literal",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "字面量、文字常量、直接量"
+      }
+    ]
+  },
+  {
+    "word": "living style guides",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "活样式指导"
+      }
+    ]
+  },
+  {
+    "word": "LLM",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "大型语言模型"
+      }
+    ]
+  },
+  {
+    "word": "load-balancing",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "负载平衡"
+      }
+    ]
+  },
+  {
+    "word": "load balancer",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "负载平衡器"
+      }
+    ]
+  },
+  {
+    "word": "load factor",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "负载因子"
+      }
+    ]
+  },
+  {
+    "word": "load shedding",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "减载"
+      }
+    ]
+  },
+  {
+    "word": "LOC",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "代码行数"
+      }
+    ]
+  },
+  {
+    "word": "Local Function",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "局部函数"
+      }
+    ]
+  },
+  {
+    "word": "lock-step release",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "同步发布"
+      }
+    ]
+  },
+  {
+    "word": "log",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "日志"
+      }
+    ]
+  },
+  {
+    "word": "loop",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "自循环"
+      }
+    ]
+  },
+  {
+    "word": "loose coupling",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "松散耦合"
+      }
+    ]
+  },
+  {
+    "word": "Low Fidelity Prototype",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "低保真原型，抽象原型视图"
+      }
+    ]
+  },
+  {
+    "word": "low surrogate",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "低位代理项"
+      }
+    ]
+  },
+  {
+    "word": "LSUD",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "大批你所不知道的开发人员"
+      }
+    ]
+  },
+  {
+    "word": "Mainframe",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "主机"
+      }
+    ]
+  },
+  {
+    "word": "Maintainability",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "可维护性"
+      }
+    ]
+  },
+  {
+    "word": "managed code",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "托管代码"
+      }
+    ]
+  },
+  {
+    "word": "managed execution",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "托管执行"
+      }
+    ]
+  },
+  {
+    "word": "Man-In-The-Middle Attack",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "中间人攻击"
+      }
+    ]
+  },
+  {
+    "word": "Management Key",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "管理密钥"
+      }
+    ]
+  },
+  {
+    "word": "manifest",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "清单"
+      }
+    ]
+  },
+  {
+    "word": "map",
+    "translations": [
+      {
+        "type": "v/n",
+        "translation": "映射"
+      }
+    ]
+  },
+  {
+    "word": "Market Requirement Document",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "市场需求文档"
+      }
+    ]
+  },
+  {
+    "word": "Massive Multiplayer Online Role-Playing Game",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "大型多人在线角色扮演游戏"
+      }
+    ]
+  },
+  {
+    "word": "Massively Multiplayer Online Role-Playing Game",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "大型多人在线角色扮演游戏"
+      }
+    ]
+  },
+  {
+    "word": "Mathematical Markup Language",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "数学标记语言"
+      }
+    ]
+  },
+  {
+    "word": "Mean Time Between Failures",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "平均故障时间间隔"
+      }
+    ]
+  },
+  {
+    "word": "Mean Time To Repair",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "平均修复时间"
+      }
+    ]
+  },
+  {
+    "word": "Media Service",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "媒体服务"
+      }
+    ]
+  },
+  {
+    "word": "Mediator Pattern",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "中介者模式"
+      }
+    ]
+  },
+  {
+    "word": "Medium",
+    "translations": [
+      {
+        "type": "adj",
+        "translation": "中型"
+      }
+    ]
+  },
+  {
+    "word": "Memento Pattern",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "备忘录模式"
+      }
+    ]
+  },
+  {
+    "word": "Merge",
+    "translations": [
+      {
+        "type": "v",
+        "translation": "合并"
+      }
+    ]
+  },
+  {
+    "word": "Metadata",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "元数据"
+      }
+    ]
+  },
+  {
+    "word": "metaprogramming",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "元编程"
+      }
+    ]
+  },
+  {
+    "word": "Middleware",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "中间件"
+      }
+    ]
+  },
+  {
+    "word": "mind map",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "思维导图、脑图、心智图"
+      }
+    ]
+  },
+  {
+    "word": "Minimum Marketable Feature",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "最小可售特性"
+      }
+    ]
+  },
+  {
+    "word": "Minimum Viable Product",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "最小化可行产品"
+      }
+    ]
+  },
+  {
+    "word": "Minimum Viable Release",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "最小可行发布"
+      }
+    ]
+  },
+  {
+    "word": "Missing Abstraction",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "缺失抽象"
+      }
+    ]
+  },
+  {
+    "word": "Missing Encapsulation",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "缺失的封装"
+      }
+    ]
+  },
+  {
+    "word": "Missing Hierarchy",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "缺失层次结构"
+      }
+    ]
+  },
+  {
+    "word": "Mixed Reality",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "混合现实"
+      }
+    ]
+  },
+  {
+    "word": "Mobile Service",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "移动服务"
+      }
+    ]
+  },
+  {
+    "word": "Mock Object",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "模拟对象，仿对象：在内部对条件进行断言的伪对象"
+      }
+    ]
+  },
+  {
+    "word": "Move Field",
+    "translations": [
+      {
+        "type": "v",
+        "translation": "搬移字段"
+      }
+    ]
+  },
+  {
+    "word": "Move Method",
+    "translations": [
+      {
+        "type": "v",
+        "translation": "搬移函数"
+      }
+    ]
+  },
+  {
+    "word": "MRD",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "市场需求文档"
+      }
+    ]
+  },
+  {
+    "word": "Multitenancy",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "多租户"
+      }
+    ]
+  },
+  {
+    "word": "Multifaced Abstraction",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "多方面抽象"
+      }
+    ]
+  },
+  {
+    "word": "Multipath Hierarchy",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "多路径层次结构"
+      }
+    ]
+  },
+  {
+    "word": "Multitier Architecture",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "多层体系结构"
+      }
+    ]
+  },
+  {
+    "word": "Multi-factor Authentication",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "多重验证"
+      }
+    ]
+  },
+  {
+    "word": "naming collisions",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "命名冲突"
+      }
+    ]
+  },
+  {
+    "word": "Namespace",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "命名空间，名称空间"
+      }
+    ]
+  },
+  {
+    "word": "native code",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "本机代码"
+      }
+    ]
+  },
+  {
+    "word": "NCC",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "NET Core 社区/NET 中国社区"
+      }
+    ]
+  },
+  {
+    "word": "Near Field Communication",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "近距离无线通信"
+      }
+    ]
+  },
+  {
+    "word": "network hops",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "网络跳数"
+      }
+    ]
+  },
+  {
+    "word": "NFC",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "近距离无线通信"
+      }
+    ]
+  },
+  {
+    "word": "nfx",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "NET 框架"
+      }
+    ]
+  },
+  {
+    "word": "Non-clustered Index",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "非聚集索引"
+      }
+    ]
+  },
+  {
+    "word": "non-managed code",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "非托管代码"
+      }
+    ]
+  },
+  {
+    "word": "non-optional",
+    "translations": [
+      {
+        "type": "adj",
+        "translation": "非可选的"
+      }
+    ]
+  },
+  {
+    "word": "non-transactional pipeline",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "非事务型流水线"
+      }
+    ]
+  },
+  {
+    "word": "node",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "节点"
+      }
+    ]
+  },
+  {
+    "word": "normalize",
+    "translations": [
+      {
+        "type": "v",
+        "translation": "规格化"
+      }
+    ]
+  },
+  {
+    "word": "notification",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "通知"
+      }
+    ]
+  },
+  {
+    "word": "notification hub",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "通知中心"
+      }
+    ]
+  },
+  {
+    "word": "Null Object Pattern",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "空对象模式"
+      }
+    ]
+  },
+  {
+    "word": "null-coalescing",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "空值合并"
+      }
+    ]
+  },
+  {
+    "word": "Null coalescing operator",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "空值合并运算符、空值结合运算符"
+      }
+    ]
+  },
+  {
+    "word": "N-Tier",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "N 层（结构）"
+      }
+    ]
+  },
+  {
+    "word": "obfuscator",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "混淆器"
+      }
+    ]
+  },
+  {
+    "word": "Object Pool",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "对象池"
+      }
+    ]
+  },
+  {
+    "word": "Object Pool Pattern",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "对象池模式"
+      }
+    ]
+  },
+  {
+    "word": "Object/Relational Mapper",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "对象/关系映射器"
+      }
+    ]
+  },
+  {
+    "word": "object seam",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "对象接缝：在对象连接处可以通过替换一个对象为另一个对象来“更替”行为。在面向对象语言中，通常通过子类化产品代码中的类并重写其方法来实现这一点。"
+      }
+    ]
+  },
+  {
+    "word": "Objectives and Key Results",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "目标与关键成果法"
+      }
+    ]
+  },
+  {
+    "word": "Observer Pattern",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "观察者模式"
+      }
+    ]
+  },
+  {
+    "word": "On-demand (media)",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "点播（媒体）"
+      }
+    ]
+  },
+  {
+    "word": "Once and Only Once",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "一次且仅一次"
+      }
+    ]
+  },
+  {
+    "word": "One rule, one place",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "一个规则，实现一次"
+      }
+    ]
+  },
+  {
+    "word": "One-Size-Fits-All",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "OSFA"
+      }
+    ]
+  },
+  {
+    "word": "one-time token",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "一次性令牌"
+      }
+    ]
+  },
+  {
+    "word": "Onion Architecture",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "洋葱架构，由 Jeffrey Palermo 提出"
+      }
+    ]
+  },
+  {
+    "word": "Open Closed Principle",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "开闭原则"
+      }
+    ]
+  },
+  {
+    "word": "Open System Interconnection",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "开放式系统互联"
+      }
+    ]
+  },
+  {
+    "word": "Operating System",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "操作系统"
+      }
+    ]
+  },
+  {
+    "word": "Optical Character Recognition",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "光学字符识别"
+      }
+    ]
+  },
+  {
+    "word": "Optimistic Concurrency",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "乐观并发控制"
+      }
+    ]
+  },
+  {
+    "word": "optimistic locking",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "乐观锁"
+      }
+    ]
+  },
+  {
+    "word": "orchestration",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "编排"
+      }
+    ]
+  },
+  {
+    "word": "Orchestration Layer",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "策略编排层"
+      }
+    ]
+  },
+  {
+    "word": "Ordering Principal",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "良序原则"
+      }
+    ]
+  },
+  {
+    "word": "OS",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "操作系统"
+      }
+    ]
+  },
+  {
+    "word": "OSGI",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "开放服务网关协议"
+      }
+    ]
+  },
+  {
+    "word": "overriding",
+    "translations": [
+      {
+        "type": "v",
+        "translation": "重写"
+      }
+    ]
+  },
+  {
+    "word": "Overview",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "概览"
+      }
+    ]
+  },
+  {
+    "word": "over-post",
+    "translations": [
+      {
+        "type": "v",
+        "translation": "过度提交"
+      }
+    ]
+  },
+  {
+    "word": "OWASP",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "开放式 Web 应用程序安全项目"
+      }
+    ]
+  },
+  {
+    "word": "P2P",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "个人对个人"
+      }
+    ]
+  },
+  {
+    "word": "Paas",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "平台即服务"
+      }
+    ]
+  },
+  {
+    "word": "packet sniffing",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "分组嗅探"
+      }
+    ]
+  },
+  {
+    "word": "Page Blob",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "页二进制大对象"
+      }
+    ]
+  },
+  {
+    "word": "Parameterize Method",
+    "translations": [
+      {
+        "type": "v",
+        "translation": "令函数携带参数"
+      }
+    ]
+  },
+  {
+    "word": "Partial Translate",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "部分翻译（出自 Chrome 浏览器）"
+      }
+    ]
+  },
+  {
+    "word": "partition",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "分区"
+      }
+    ]
+  },
+  {
+    "word": "Partition tolerance",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "分区容忍性"
+      }
+    ]
+  },
+  {
+    "word": "PascalCase",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "Pascal 大小写"
+      }
+    ]
+  },
+  {
+    "word": "pass-through",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "直托"
+      }
+    ]
+  },
+  {
+    "word": "passive",
+    "translations": [
+      {
+        "type": "adj",
+        "translation": "被动（的）"
+      }
+    ]
+  },
+  {
+    "word": "pattern",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "模式"
+      }
+    ]
+  },
+  {
+    "word": "Pay as You Go",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "即用即付"
+      }
+    ]
+  },
+  {
+    "word": "PC",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "个人计算机"
+      }
+    ]
+  },
+  {
+    "word": "peek",
+    "translations": [
+      {
+        "type": "v",
+        "translation": "查看"
+      }
+    ]
+  },
+  {
+    "word": "peering rules",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "对等交互规则"
+      }
+    ]
+  },
+  {
+    "word": "Percent Encoding",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "百分号编码"
+      }
+    ]
+  },
+  {
+    "word": "performance",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "性能"
+      }
+    ]
+  },
+  {
+    "word": "performance counter",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "性能计数器"
+      }
+    ]
+  },
+  {
+    "word": "performance-oriented",
+    "translations": [
+      {
+        "type": "adj",
+        "translation": "面向性能"
+      }
+    ]
+  },
+  {
+    "word": "Person-to-Person",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "个人对个人"
+      }
+    ]
+  },
+  {
+    "word": "Personal Computer",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "个人计算机"
+      }
+    ]
+  },
+  {
+    "word": "Pessimistic Concurrency",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "悲观并发控制"
+      }
+    ]
+  },
+  {
+    "word": "pessimistic locking",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "悲观锁"
+      }
+    ]
+  },
+  {
+    "word": "PHAME",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "由 Booch 提出的对象模型的 4 个主要元素的设计规则的统称，即层次结构、抽象、模块化与封装原则"
+      }
+    ]
+  },
+  {
+    "word": "pinch point",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "汇点：影响结构图中的隘口和交通要冲，在汇点编写测试的好处就是只需针对少数几个方法编写测试，就能达到探测大量其他方法的改动的目的。"
+      }
+    ]
+  },
+  {
+    "word": "placeholder",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "占位符"
+      }
+    ]
+  },
+  {
+    "word": "Platform as a Service",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "平台即服务"
+      }
+    ]
+  },
+  {
+    "word": "PMD",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "项目管理文档"
+      }
+    ]
+  },
+  {
+    "word": "point of invocation of the method",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "方法调用点"
+      }
+    ]
+  },
+  {
+    "word": "Point-to-Site",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "点到站点"
+      }
+    ]
+  },
+  {
+    "word": "polling",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "轮询"
+      }
+    ]
+  },
+  {
+    "word": "polymorphism",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "多态"
+      }
+    ]
+  },
+  {
+    "word": "polyrot programming",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "多语言编程"
+      }
+    ]
+  },
+  {
+    "word": "Poor Man’s Dependency Injection",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "穷人的依赖注入"
+      }
+    ]
+  },
+  {
+    "word": "post-initialization",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "后初始化"
+      }
+    ]
+  },
+  {
+    "word": "postcondition",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "后置条件"
+      }
+    ]
+  },
+  {
+    "word": "PoT",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "程序思维"
+      }
+    ]
+  },
+  {
+    "word": "PRD",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "产品需求文档"
+      }
+    ]
+  },
+  {
+    "word": "pre-flight request",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "事先请求"
+      }
+    ]
+  },
+  {
+    "word": "pre-initialization",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "预初始化"
+      }
+    ]
+  },
+  {
+    "word": "pre-training",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "预训练"
+      }
+    ]
+  },
+  {
+    "word": "Predicate Decorator",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "谓词修饰器"
+      }
+    ]
+  },
+  {
+    "word": "precondition",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "前提，前置条件"
+      }
+    ]
+  },
+  {
+    "word": "presentation layer",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "表现层"
+      }
+    ]
+  },
+  {
+    "word": "Preserve Whole Object",
+    "translations": [
+      {
+        "type": "v",
+        "translation": "保持对象完整"
+      }
+    ]
+  },
+  {
+    "word": "primary database",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "主数据库"
+      }
+    ]
+  },
+  {
+    "word": "primary storage",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "主存储"
+      }
+    ]
+  },
+  {
+    "word": "primitive obsession",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "基本类型偏执"
+      }
+    ]
+  },
+  {
+    "word": "principal",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "主体"
+      }
+    ]
+  },
+  {
+    "word": "Private Class Data Pattern",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "私有类数据模式"
+      }
+    ]
+  },
+  {
+    "word": "private cloud",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "私有云"
+      }
+    ]
+  },
+  {
+    "word": "priority queue",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "优先级队列"
+      }
+    ]
+  },
+  {
+    "word": "probe",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "探测器"
+      }
+    ]
+  },
+  {
+    "word": "process",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "进程"
+      }
+    ]
+  },
+  {
+    "word": "producer",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "生产者"
+      }
+    ]
+  },
+  {
+    "word": "product backlog",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "产品积压工作"
+      }
+    ]
+  },
+  {
+    "word": "Product Owner",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "产品负责人"
+      }
+    ]
+  },
+  {
+    "word": "Product Requirements Document",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "产品需求文档"
+      }
+    ]
+  },
+  {
+    "word": "production",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "生产（环境）"
+      }
+    ]
+  },
+  {
+    "word": "production load",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "生产负载"
+      }
+    ]
+  },
+  {
+    "word": "Program Managment Document",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "项目管理文档"
+      }
+    ]
+  },
+  {
+    "word": "Program-to-Thoughts",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "程序思维"
+      }
+    ]
+  },
+  {
+    "word": "programming by difference",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "差异式编程"
+      }
+    ]
+  },
+  {
+    "word": "proof of concept",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "概念验证"
+      }
+    ]
+  },
+  {
+    "word": "proportional error rate",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "错误率比例"
+      }
+    ]
+  },
+  {
+    "word": "protected variation",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "防止变异"
+      }
+    ]
+  },
+  {
+    "word": "protocol",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "协议"
+      }
+    ]
+  },
+  {
+    "word": "prototype",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "原型"
+      }
+    ]
+  },
+  {
+    "word": "Prototype Pattern",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "原型模式"
+      }
+    ]
+  },
+  {
+    "word": "proxy",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "代理"
+      }
+    ]
+  },
+  {
+    "word": "Proxy Pattern",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "代理模式"
+      }
+    ]
+  },
+  {
+    "word": "public cloud",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "公有云"
+      }
+    ]
+  },
+  {
+    "word": "Pull Up Constructor Body",
+    "translations": [
+      {
+        "type": "v",
+        "translation": "构造函数本体上移"
+      }
+    ]
+  },
+  {
+    "word": "Pull Up Field",
+    "translations": [
+      {
+        "type": "v",
+        "translation": "字段上移"
+      }
+    ]
+  },
+  {
+    "word": "Pull Up Method",
+    "translations": [
+      {
+        "type": "v",
+        "translation": "函数上移"
+      }
+    ]
+  },
+  {
+    "word": "push",
+    "translations": [
+      {
+        "type": "v",
+        "translation": "推送"
+      }
+    ]
+  },
+  {
+    "word": "Push Down Field",
+    "translations": [
+      {
+        "type": "v",
+        "translation": "字段下移"
+      }
+    ]
+  },
+  {
+    "word": "Push Down Method",
+    "translations": [
+      {
+        "type": "v",
+        "translation": "函数下移"
+      }
+    ]
+  },
+  {
+    "word": "quality assurance",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "质量保证"
+      }
+    ]
+  },
+  {
+    "word": "Queue",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "队列"
+      }
+    ]
+  },
+  {
+    "word": "Quota",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "配额"
+      }
+    ]
+  },
+  {
+    "word": "Rack",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "机架"
+      }
+    ]
+  },
+  {
+    "word": "RAII",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "资源获取即初始化"
+      }
+    ]
+  },
+  {
+    "word": "Rapid Application Development",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "快速应用程序开发"
+      }
+    ]
+  },
+  {
+    "word": "RDBMS",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "关系型数据库管理系统"
+      }
+    ]
+  },
+  {
+    "word": "Reactive extensions",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "响应式扩展"
+      }
+    ]
+  },
+  {
+    "word": "Ready (status)",
+    "translations": [
+      {
+        "type": "adj",
+        "translation": "就绪（状态）"
+      }
+    ]
+  },
+  {
+    "word": "real-time",
+    "translations": [
+      {
+        "type": "adj",
+        "translation": "即时、实时"
+      }
+    ]
+  },
+  {
+    "word": "real-time discussions",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "即时讨论、实时讨论"
+      }
+    ]
+  },
+  {
+    "word": "Rebellious Hierarchy",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "叛逆性层次结构"
+      }
+    ]
+  },
+  {
+    "word": "recursion",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "递归"
+      }
+    ]
+  },
+  {
+    "word": "Redundancy",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "冗余"
+      }
+    ]
+  },
+  {
+    "word": "Redundant",
+    "translations": [
+      {
+        "type": "adj",
+        "translation": "冗余（的）"
+      }
+    ]
+  },
+  {
+    "word": "Ref Return",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "应用返回"
+      }
+    ]
+  },
+  {
+    "word": "Ref Local",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "局部引用"
+      }
+    ]
+  },
+  {
+    "word": "Ref Property",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "引用属性"
+      }
+    ]
+  },
+  {
+    "word": "Ref-Safe-to-Escape",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "引用安全逃逸"
+      }
+    ]
+  },
+  {
+    "word": "Ref-Safe-to-Escape scope",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "引用安全逃逸范围"
+      }
+    ]
+  },
+  {
+    "word": "Refactor",
+    "translations": [
+      {
+        "type": "v",
+        "translation": "重构"
+      }
+    ]
+  },
+  {
+    "word": "region",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "地域"
+      }
+    ]
+  },
+  {
+    "word": "reification",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "具体化"
+      }
+    ]
+  },
+  {
+    "word": "Reinforcement Learning",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "强化学习，一种机器学习的方法，通过从外部获得激励来校正学习方向从而获得一种自适应的学习能力"
+      }
+    ]
+  },
+  {
+    "word": "Reinforcement Learning from Human Feedback",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "基于人工反馈的强化学习"
+      }
+    ]
+  },
+  {
+    "word": "relay",
+    "translations": [
+      {
+        "type": "v/n",
+        "translation": "中继"
+      }
+    ]
+  },
+  {
+    "word": "Relevancy",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "适切性"
+      }
+    ]
+  },
+  {
+    "word": "Reliability",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "可靠性"
+      }
+    ]
+  },
+  {
+    "word": "Relying Party",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "依赖方"
+      }
+    ]
+  },
+  {
+    "word": "Remove Assignments to Parameters",
+    "translations": [
+      {
+        "type": "v",
+        "translation": "移除对参数的赋值"
+      }
+    ]
+  },
+  {
+    "word": "Remove Control Flag",
+    "translations": [
+      {
+        "type": "v",
+        "translation": "移除控制标记"
+      }
+    ]
+  },
+  {
+    "word": "Remove Middle Man",
+    "translations": [
+      {
+        "type": "v",
+        "translation": "移除中间人"
+      }
+    ]
+  },
+  {
+    "word": "Remove Parameter",
+    "translations": [
+      {
+        "type": "v",
+        "translation": "移除参数"
+      }
+    ]
+  },
+  {
+    "word": "Remove Setting Method",
+    "translations": [
+      {
+        "type": "v",
+        "translation": "移除配置函数"
+      }
+    ]
+  },
+  {
+    "word": "Rename Method",
+    "translations": [
+      {
+        "type": "v",
+        "translation": "函数改名"
+      }
+    ]
+  },
+  {
+    "word": "Replace Array with Object",
+    "translations": [
+      {
+        "type": "v",
+        "translation": "以对象取代数组"
+      }
+    ]
+  },
+  {
+    "word": "Replace Conditional with Polymorphism",
+    "translations": [
+      {
+        "type": "v",
+        "translation": "以多态取代条件表达式"
+      }
+    ]
+  },
+  {
+    "word": "Replace Constructor with Factory Method",
+    "translations": [
+      {
+        "type": "v",
+        "translation": "以工厂函数取代构造函数"
+      }
+    ]
+  },
+  {
+    "word": "Replace Data Value with Object",
+    "translations": [
+      {
+        "type": "v",
+        "translation": "以对象取代数据值"
+      }
+    ]
+  },
+  {
+    "word": "Replace Delegation with Inheritance",
+    "translations": [
+      {
+        "type": "v",
+        "translation": "以继承取代委托"
+      }
+    ]
+  },
+  {
+    "word": "Replace Error 　 Code with Exception",
+    "translations": [
+      {
+        "type": "v",
+        "translation": "以异常取代错误码"
+      }
+    ]
+  },
+  {
+    "word": "Replace Exception with Test",
+    "translations": [
+      {
+        "type": "v",
+        "translation": "以测试取代异常"
+      }
+    ]
+  },
+  {
+    "word": "Replace Inheritance with Delegation",
+    "translations": [
+      {
+        "type": "v",
+        "translation": "以委托取代继承"
+      }
+    ]
+  },
+  {
+    "word": "Replace Magic Number with Symbolic Constant",
+    "translations": [
+      {
+        "type": "v",
+        "translation": "以字面常量取代魔法数"
+      }
+    ]
+  },
+  {
+    "word": "Replace Method with Method Object",
+    "translations": [
+      {
+        "type": "v",
+        "translation": "以函数对象取代函数"
+      }
+    ]
+  },
+  {
+    "word": "Replace Nested Conditional with Guard Clauses",
+    "translations": [
+      {
+        "type": "v",
+        "translation": "以卫语句取代嵌套条件表达式"
+      }
+    ]
+  },
+  {
+    "word": "Replace Parameter with Explicit Methods",
+    "translations": [
+      {
+        "type": "v",
+        "translation": "以明确函数取代参数"
+      }
+    ]
+  },
+  {
+    "word": "Replace Parameter with Methods",
+    "translations": [
+      {
+        "type": "v",
+        "translation": "以函数取代参数"
+      }
+    ]
+  },
+  {
+    "word": "Replace Record with Data Class",
+    "translations": [
+      {
+        "type": "v",
+        "translation": "以数据类取代记录"
+      }
+    ]
+  },
+  {
+    "word": "Replace Subclass with Fields",
+    "translations": [
+      {
+        "type": "v",
+        "translation": "以字段取代子类"
+      }
+    ]
+  },
+  {
+    "word": "Replace Temp with Query",
+    "translations": [
+      {
+        "type": "v",
+        "translation": "以查询取代临时变量"
+      }
+    ]
+  },
+  {
+    "word": "Replace Type Code with Class",
+    "translations": [
+      {
+        "type": "v",
+        "translation": "以类取代类型码"
+      }
+    ]
+  },
+  {
+    "word": "Replace Type Code with State/Strategy",
+    "translations": [
+      {
+        "type": "v",
+        "translation": "以 State/Strategy 取代类型码"
+      }
+    ]
+  },
+  {
+    "word": "Replace Type Code with Subclass",
+    "translations": [
+      {
+        "type": "v",
+        "translation": "以子类取代类型码"
+      }
+    ]
+  },
+  {
+    "word": "reporting",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "报表"
+      }
+    ]
+  },
+  {
+    "word": "Repository",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "存储库；仓储；仓库；资源库"
+      }
+    ]
+  },
+  {
+    "word": "REpresentational State Transfer",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "表述性状态转移、表征性状态传输、具象状态传输"
+      }
+    ]
+  },
+  {
+    "word": "request pipeline",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "请求管道"
+      }
+    ]
+  },
+  {
+    "word": "Requirements Churn",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "需求波动"
+      }
+    ]
+  },
+  {
+    "word": "reserved",
+    "translations": [
+      {
+        "type": "adj",
+        "translation": "专属"
+      }
+    ]
+  },
+  {
+    "word": "resolution",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "解析"
+      }
+    ]
+  },
+  {
+    "word": "Resource Acquisition Is Initialization",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "资源获取即初始化"
+      }
+    ]
+  },
+  {
+    "word": "Resource Release Is Destruction",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "在构造时没有“获取”资源，但在析构时释放资源，一种 RAII 的特殊用法"
+      }
+    ]
+  },
+  {
+    "word": "Resource-Oriented Architecture",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "面向资源的架构"
+      }
+    ]
+  },
+  {
+    "word": "Response Group",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "响应群"
+      }
+    ]
+  },
+  {
+    "word": "Return on Investment",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "投资回报"
+      }
+    ]
+  },
+  {
+    "word": "reverse proxy module",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "反向代理模块"
+      }
+    ]
+  },
+  {
+    "word": "retail",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "零售版"
+      }
+    ]
+  },
+  {
+    "word": "Rich Client",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "丰富客户端"
+      }
+    ]
+  },
+  {
+    "word": "Ripple Effect",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "涟漪效应"
+      }
+    ]
+  },
+  {
+    "word": "RLHF",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "基于人工反馈的强化学习"
+      }
+    ]
+  },
+  {
+    "word": "role",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "角色"
+      }
+    ]
+  },
+  {
+    "word": "Rolling Upgrade",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "滚动升级"
+      }
+    ]
+  },
+  {
+    "word": "round-robin",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "轮流（分配）；轮叫"
+      }
+    ]
+  },
+  {
+    "word": "round-tripping",
+    "translations": [
+      {
+        "type": "v",
+        "translation": "还原；回传；往返，往返切换"
+      }
+    ]
+  },
+  {
+    "word": "router",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "路由器"
+      }
+    ]
+  },
+  {
+    "word": "row",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "行"
+      }
+    ]
+  },
+  {
+    "word": "RPC",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "远程过程调用"
+      }
+    ]
+  },
+  {
+    "word": "RRID",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "在构造时没有“获取”资源，但在析构时释放资源，一种 RAII 的特殊用法"
+      }
+    ]
+  },
+  {
+    "word": "Saas",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "软件即服务"
+      }
+    ]
+  },
+  {
+    "word": "Safe-to-Escape",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "安全逃逸"
+      }
+    ]
+  },
+  {
+    "word": "Safe-to-Escape scope",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "安全逃逸范围"
+      }
+    ]
+  },
+  {
+    "word": "salted password hashing",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "加盐密码哈希"
+      }
+    ]
+  },
+  {
+    "word": "SAN",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "存储区域网络"
+      }
+    ]
+  },
+  {
+    "word": "SASL",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "简单认证与安全层"
+      }
+    ]
+  },
+  {
+    "word": "Scalability",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "缩放性"
+      }
+    ]
+  },
+  {
+    "word": "Scalable Vector Graphic",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "可伸缩矢量图"
+      }
+    ]
+  },
+  {
+    "word": "Scale",
+    "translations": [
+      {
+        "type": "v/n",
+        "translation": "缩放"
+      }
+    ]
+  },
+  {
+    "word": "Scale Out",
+    "translations": [
+      {
+        "type": "v",
+        "translation": "向外缩放"
+      }
+    ]
+  },
+  {
+    "word": "Scale Up",
+    "translations": [
+      {
+        "type": "v",
+        "translation": "向上缩放"
+      }
+    ]
+  },
+  {
+    "word": "scaling pattern",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "扩展模式"
+      }
+    ]
+  },
+  {
+    "word": "Schema (database)",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "架构（数据）"
+      }
+    ]
+  },
+  {
+    "word": "Schema (xml)",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "架构（xml）"
+      }
+    ]
+  },
+  {
+    "word": "Scrum Master",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "Scrum 主管"
+      }
+    ]
+  },
+  {
+    "word": "SDK",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "软件开发工具箱"
+      }
+    ]
+  },
+  {
+    "word": "seam",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "接缝：程序中的一些特殊的点，可以让你无需做任何修改就能达到修改程序行为的目的。"
+      }
+    ]
+  },
+  {
+    "word": "Search Engine",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "搜索引擎"
+      }
+    ]
+  },
+  {
+    "word": "Search Engine Marketing",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "搜索引擎营销"
+      }
+    ]
+  },
+  {
+    "word": "Search Engine Optimization",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "搜索引擎优化"
+      }
+    ]
+  },
+  {
+    "word": "secondary storage",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "二级存储"
+      }
+    ]
+  },
+  {
+    "word": "Secure Socket Layer",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "安全套接层"
+      }
+    ]
+  },
+  {
+    "word": "Security",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "安全（性）"
+      }
+    ]
+  },
+  {
+    "word": "Security Development Lifecycle",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "安全开发生命周期"
+      }
+    ]
+  },
+  {
+    "word": "Security Socket Layer",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "安全套接层"
+      }
+    ]
+  },
+  {
+    "word": "Security Token",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "安全令牌"
+      }
+    ]
+  },
+  {
+    "word": "Self Encapsulate Field",
+    "translations": [
+      {
+        "type": "v",
+        "translation": "自封装字段"
+      }
+    ]
+  },
+  {
+    "word": "self-hosted",
+    "translations": [
+      {
+        "type": "adj",
+        "translation": "自管理主机"
+      }
+    ]
+  },
+  {
+    "word": "Self-signed Certificate",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "自签名证书"
+      }
+    ]
+  },
+  {
+    "word": "Semantic Kernel",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "语义核心"
+      }
+    ]
+  },
+  {
+    "word": "semantic monitoring",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "语义监控"
+      }
+    ]
+  },
+  {
+    "word": "Semantic Versioning",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "语义化版本控制"
+      }
+    ]
+  },
+  {
+    "word": "Separate Domain from Presentation",
+    "translations": [
+      {
+        "type": "v",
+        "translation": "将领域和表述/显示分离"
+      }
+    ]
+  },
+  {
+    "word": "Separate Query from Modifier",
+    "translations": [
+      {
+        "type": "v",
+        "translation": "将查询函数和修改函数分离"
+      }
+    ]
+  },
+  {
+    "word": "Serializable",
+    "translations": [
+      {
+        "type": "adj",
+        "translation": "可序列化"
+      }
+    ]
+  },
+  {
+    "word": "Server Affinity",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "服务器绑定"
+      }
+    ]
+  },
+  {
+    "word": "Server Driven Content Negotiation",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "服务器驱动的内容协商"
+      }
+    ]
+  },
+  {
+    "word": "Server Side Render",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "服务器渲染"
+      }
+    ]
+  },
+  {
+    "word": "Service Bus",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "服务总线"
+      }
+    ]
+  },
+  {
+    "word": "Service Contract",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "服务合同"
+      }
+    ]
+  },
+  {
+    "word": "Service Level Agreement",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "服务水平协议"
+      }
+    ]
+  },
+  {
+    "word": "Service Provider",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "服务提供方"
+      }
+    ]
+  },
+  {
+    "word": "session jacking",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "会话劫持"
+      }
+    ]
+  },
+  {
+    "word": "Setting",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "设置"
+      }
+    ]
+  },
+  {
+    "word": "Shared",
+    "translations": [
+      {
+        "type": "v/adj",
+        "translation": "共享；分享"
+      }
+    ]
+  },
+  {
+    "word": "shared-memory data structure",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "共享内存数据结构"
+      }
+    ]
+  },
+  {
+    "word": "Short-circuit evaluation",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "短路求值"
+      }
+    ]
+  },
+  {
+    "word": "Sign in",
+    "translations": [
+      {
+        "type": "v",
+        "translation": "登录"
+      }
+    ]
+  },
+  {
+    "word": "Sign out",
+    "translations": [
+      {
+        "type": "v",
+        "translation": "注销"
+      }
+    ]
+  },
+  {
+    "word": "Signature",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "签名"
+      }
+    ]
+  },
+  {
+    "word": "Single Level of Abstraction Principle",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "单一抽象层次原则"
+      }
+    ]
+  },
+  {
+    "word": "Single responsibility principle",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "单一职责原则"
+      }
+    ]
+  },
+  {
+    "word": "Single Page Application",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "单页面应用"
+      }
+    ]
+  },
+  {
+    "word": "single point of failure",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "单一故障点"
+      }
+    ]
+  },
+  {
+    "word": "Singleton Pattern",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "单例模式"
+      }
+    ]
+  },
+  {
+    "word": "Site",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "站点"
+      }
+    ]
+  },
+  {
+    "word": "Site-to-Site",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "站点到站点"
+      }
+    ]
+  },
+  {
+    "word": "Skeleton-to-Thought",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "思维框架"
+      }
+    ]
+  },
+  {
+    "word": "skip list",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "跳跃表"
+      }
+    ]
+  },
+  {
+    "word": "SLA",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "服务水平协议、服务等级协议"
+      }
+    ]
+  },
+  {
+    "word": "Small",
+    "translations": [
+      {
+        "type": "adj",
+        "translation": "小型"
+      }
+    ]
+  },
+  {
+    "word": "smart endpoint",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "智能端点"
+      }
+    ]
+  },
+  {
+    "word": "snapshot",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "快照"
+      }
+    ]
+  },
+  {
+    "word": "SOA",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "面向服务的架构"
+      }
+    ]
+  },
+  {
+    "word": "SoT",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "思维框架"
+      }
+    ]
+  },
+  {
+    "word": "Software as a Service",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "软件即服务"
+      }
+    ]
+  },
+  {
+    "word": "source lines of code",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "源代码行数"
+      }
+    ]
+  },
+  {
+    "word": "Speculative Hierarchy",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "凭空想象的层次结构"
+      }
+    ]
+  },
+  {
+    "word": "Split Temporary Variable",
+    "translations": [
+      {
+        "type": "v",
+        "translation": "分解临时变量"
+      }
+    ]
+  },
+  {
+    "word": "sprint",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "冲刺（敏捷开发术语）"
+      }
+    ]
+  },
+  {
+    "word": "sprint backlog",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "冲刺积压工作"
+      }
+    ]
+  },
+  {
+    "word": "SQL Database",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "SQL 数据库"
+      }
+    ]
+  },
+  {
+    "word": "SSKD",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "少量你所知道的开发人员"
+      }
+    ]
+  },
+  {
+    "word": "SSO",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "单点登录"
+      }
+    ]
+  },
+  {
+    "word": "stage",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "阶段"
+      }
+    ]
+  },
+  {
+    "word": "Staging",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "过渡（环境）"
+      }
+    ]
+  },
+  {
+    "word": "state indeterminism",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "状态不确定性"
+      }
+    ]
+  },
+  {
+    "word": "State-based testing",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "基于状态的测试"
+      }
+    ]
+  },
+  {
+    "word": "State Pattern",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "状态模式"
+      }
+    ]
+  },
+  {
+    "word": "Stateless",
+    "translations": [
+      {
+        "type": "adj",
+        "translation": "无状态"
+      }
+    ]
+  },
+  {
+    "word": "Sticky Session",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "黏性会话"
+      }
+    ]
+  },
+  {
+    "word": "Stickyness",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "黏性；黏度"
+      }
+    ]
+  },
+  {
+    "word": "story",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "故事（敏捷开发术语）"
+      }
+    ]
+  },
+  {
+    "word": "Storage",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "存储"
+      }
+    ]
+  },
+  {
+    "word": "Storage Account",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "存储账户"
+      }
+    ]
+  },
+  {
+    "word": "Strangler Application Pattern",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "绞杀者模式"
+      }
+    ]
+  },
+  {
+    "word": "strategic development tools",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "战略设计工具，战略开发工具"
+      }
+    ]
+  },
+  {
+    "word": "Strategy Pattern",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "策略模式"
+      }
+    ]
+  },
+  {
+    "word": "Stream",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "流"
+      }
+    ]
+  },
+  {
+    "word": "Structural Design Patterns",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "结构性设计模式"
+      }
+    ]
+  },
+  {
+    "word": "structure",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "结构"
+      }
+    ]
+  },
+  {
+    "word": "Structured Systems Analysis and Design Methodology",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "结构化系统分析和设计方法"
+      }
+    ]
+  },
+  {
+    "word": "Subnet",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "子网"
+      }
+    ]
+  },
+  {
+    "word": "Subordinate",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "附属"
+      }
+    ]
+  },
+  {
+    "word": "Sub-region",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "子地域"
+      }
+    ]
+  },
+  {
+    "word": "Subdomain",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "子领域"
+      }
+    ]
+  },
+  {
+    "word": "Subscription",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "订阅"
+      }
+    ]
+  },
+  {
+    "word": "Substitute Algorithm",
+    "translations": [
+      {
+        "type": "v",
+        "translation": "替换算法"
+      }
+    ]
+  },
+  {
+    "word": "SW",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "Apache SkyWalking 的简写"
+      }
+    ]
+  },
+  {
+    "word": "symbol table",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "符号表"
+      }
+    ]
+  },
+  {
+    "word": "Synchronized Multimedia Integration Language",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "同步多媒体集成语言"
+      }
+    ]
+  },
+  {
+    "word": "syntactic sugar",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "语法糖"
+      }
+    ]
+  },
+  {
+    "word": "System Under Test",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "测试目标系统"
+      }
+    ]
+  },
+  {
+    "word": "Table",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "表"
+      }
+    ]
+  },
+  {
+    "word": "tactical development tools",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "战术实施工具，战术开发工具"
+      }
+    ]
+  },
+  {
+    "word": "TAP",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "基于任务的异步模式"
+      }
+    ]
+  },
+  {
+    "word": "targeted testing",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "目标测试"
+      }
+    ]
+  },
+  {
+    "word": "Task-based Asynchronous Pattern",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "基于任务的异步模式"
+      }
+    ]
+  },
+  {
+    "word": "TCP",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "传输控制协议"
+      }
+    ]
+  },
+  {
+    "word": "TDD",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "测试驱动开发"
+      }
+    ]
+  },
+  {
+    "word": "Tease Apart Inheritance",
+    "translations": [
+      {
+        "type": "v",
+        "translation": "梳理并分解继承体系"
+      }
+    ]
+  },
+  {
+    "word": "technical bankruptcy",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "技术破产"
+      }
+    ]
+  },
+  {
+    "word": "Technical Debt",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "技术债务"
+      }
+    ]
+  },
+  {
+    "word": "Template Method Pattern",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "模板方法模式"
+      }
+    ]
+  },
+  {
+    "word": "Tenant",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "租户"
+      }
+    ]
+  },
+  {
+    "word": "Terminus",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "端点"
+      }
+    ]
+  },
+  {
+    "word": "test doubles",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "测试替身"
+      }
+    ]
+  },
+  {
+    "word": "Test-Driven Development",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "测试驱动开发"
+      }
+    ]
+  },
+  {
+    "word": "test harness",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "测试用具"
+      }
+    ]
+  },
+  {
+    "word": "the normalization of deviance",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "异常正常化"
+      }
+    ]
+  },
+  {
+    "word": "Thin Client",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "瘦客户端"
+      }
+    ]
+  },
+  {
+    "word": "Thread",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "线程"
+      }
+    ]
+  },
+  {
+    "word": "Thread Environment Block",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "线程环境块"
+      }
+    ]
+  },
+  {
+    "word": "Thread Kernel Object",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "线程内核对象"
+      }
+    ]
+  },
+  {
+    "word": "Thread Pool",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "线程池"
+      }
+    ]
+  },
+  {
+    "word": "Thread Starvation",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "线程饥荒"
+      }
+    ]
+  },
+  {
+    "word": "Throttle",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "节流；限速"
+      }
+    ]
+  },
+  {
+    "word": "Timestamp",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "时间戳"
+      }
+    ]
+  },
+  {
+    "word": "Throughput",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "吞吐量"
+      }
+    ]
+  },
+  {
+    "word": "TNP",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "交通网络提供者"
+      }
+    ]
+  },
+  {
+    "word": "TOFU",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "首次使用时信任"
+      }
+    ]
+  },
+  {
+    "word": "Topic",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "主题"
+      }
+    ]
+  },
+  {
+    "word": "Topology",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "拓扑结构"
+      }
+    ]
+  },
+  {
+    "word": "Token",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "令牌"
+      }
+    ]
+  },
+  {
+    "word": "Top-level statements",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "顶级语句"
+      }
+    ]
+  },
+  {
+    "word": "ToT",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "思维树，一种通过将复杂问题分解为更易于解决的小问题，为 LLM 推理提供更结构化的提示框架"
+      }
+    ]
+  },
+  {
+    "word": "TPL",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "任务并行库"
+      }
+    ]
+  },
+  {
+    "word": "(Code) Tracing",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "（代码）追踪"
+      }
+    ]
+  },
+  {
+    "word": "Transaction",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "事务"
+      }
+    ]
+  },
+  {
+    "word": "Transaction Script",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "事务脚本"
+      }
+    ]
+  },
+  {
+    "word": "Transient Error",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "瞬时错误"
+      }
+    ]
+  },
+  {
+    "word": "Transparent Data Encryption",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "透明数据加密"
+      }
+    ]
+  },
+  {
+    "word": "Transportation Network Providers",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "交通网络提供者"
+      }
+    ]
+  },
+  {
+    "word": "Tree-of-Thought",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "思维树"
+      }
+    ]
+  },
+  {
+    "word": "Type Bloat",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "类型膨胀"
+      }
+    ]
+  },
+  {
+    "word": "UAT",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "用户验收测试"
+      }
+    ]
+  },
+  {
+    "word": "Ubiquitous Computing",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "普存计算"
+      }
+    ]
+  },
+  {
+    "word": "Ubiquitous Language",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "统一语言"
+      }
+    ]
+  },
+  {
+    "word": "UDDI",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "通用描述、发现与集成服务"
+      }
+    ]
+  },
+  {
+    "word": "UI",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "用户界面，包括视觉设计、交互设计和用户体验"
+      }
+    ]
+  },
+  {
+    "word": "Uncommitted",
+    "translations": [
+      {
+        "type": "adj",
+        "translation": "未提交（的）"
+      }
+    ]
+  },
+  {
+    "word": "Update Domain",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "更新域"
+      }
+    ]
+  },
+  {
+    "word": "unbox",
+    "translations": [
+      {
+        "type": "v",
+        "translation": "拆箱"
+      }
+    ]
+  },
+  {
+    "word": "under-post",
+    "translations": [
+      {
+        "type": "v",
+        "translation": "提交不足"
+      }
+    ]
+  },
+  {
+    "word": "undirected graph",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "无向图"
+      }
+    ]
+  },
+  {
+    "word": "Unexploited Encapsulation",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "未利用封装"
+      }
+    ]
+  },
+  {
+    "word": "Unfactored Hierarchy",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "未归并的层次结构"
+      }
+    ]
+  },
+  {
+    "word": "Unified Modeling Language",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "统一建模语言"
+      }
+    ]
+  },
+  {
+    "word": "Uniform Interface",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "统一接口"
+      }
+    ]
+  },
+  {
+    "word": "Uniform Resource Locator",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "统一资源定位符"
+      }
+    ]
+  },
+  {
+    "word": "unit of work",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "工作单元"
+      }
+    ]
+  },
+  {
+    "word": "Unit test",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "单元测试"
+      }
+    ]
+  },
+  {
+    "word": "unit test coverage",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "单元测试覆盖率"
+      }
+    ]
+  },
+  {
+    "word": "unit-testing harnesses",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "单元测试用例"
+      }
+    ]
+  },
+  {
+    "word": "unmanaged code",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "非托管代码"
+      }
+    ]
+  },
+  {
+    "word": "Unmanaged Pointers",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "非托管指针"
+      }
+    ]
+  },
+  {
+    "word": "Unnecessary Abstract",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "不必要的抽象"
+      }
+    ]
+  },
+  {
+    "word": "Unnecessary Hierarchy",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "不必要的层次结构"
+      }
+    ]
+  },
+  {
+    "word": "unnecessary overhead",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "不必要的开销"
+      }
+    ]
+  },
+  {
+    "word": "Unutilized Abstraction",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "未用的抽象"
+      }
+    ]
+  },
+  {
+    "word": "Usability Review",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "可用性评估"
+      }
+    ]
+  },
+  {
+    "word": "User Acceptance Test",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "接受度测试"
+      }
+    ]
+  },
+  {
+    "word": "User Analysis",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "用户分析"
+      }
+    ]
+  },
+  {
+    "word": "User Datagram Protocol",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "用户数据报协议"
+      }
+    ]
+  },
+  {
+    "word": "User Interface",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "用户界面，包括视觉设计、交互设计和用户体验"
+      }
+    ]
+  },
+  {
+    "word": "User Mode Stack",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "用户模式栈"
+      }
+    ]
+  },
+  {
+    "word": "Value Object",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "值对象"
+      }
+    ]
+  },
+  {
+    "word": "variant",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "变体"
+      }
+    ]
+  },
+  {
+    "word": "Variation Encapsulation Principle",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "变化封装原则"
+      }
+    ]
+  },
+  {
+    "word": "versionable interaction contract",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "可以进行版本控制的交互契约"
+      }
+    ]
+  },
+  {
+    "word": "Vertical Scale",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "垂直缩放"
+      }
+    ]
+  },
+  {
+    "word": "VES",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "虚拟执行系统"
+      }
+    ]
+  },
+  {
+    "word": "viscosity",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "粘滞性"
+      }
+    ]
+  },
+  {
+    "word": "VIP",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "虚拟 IP"
+      }
+    ]
+  },
+  {
+    "word": "VIP Swap",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "VIP 交换"
+      }
+    ]
+  },
+  {
+    "word": "Virtual Execution System",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "虚拟执行系统"
+      }
+    ]
+  },
+  {
+    "word": "Virtual Network",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "虚拟网络"
+      }
+    ]
+  },
+  {
+    "word": "Virtual Machine",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "虚拟机"
+      }
+    ]
+  },
+  {
+    "word": "Virtual Private Network",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "虚拟专用网络，在公用网络上建立专用网络，进行加密通讯，如网关通过对数据包的加密和数据包目标地址的转换实现远程访问。"
+      }
+    ]
+  },
+  {
+    "word": "Virtual Reality",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "虚拟现实"
+      }
+    ]
+  },
+  {
+    "word": "viscosity",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "粘稠性"
+      }
+    ]
+  },
+  {
+    "word": "Visitor Pattern",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "访问者模式"
+      }
+    ]
+  },
+  {
+    "word": "VLO",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "团体批量许可证；大量采购授权合约"
+      }
+    ]
+  },
+  {
+    "word": "VOL",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "团体批量许可证；大量采购授权合约"
+      }
+    ]
+  },
+  {
+    "word": "Volume Licensing for Organizations",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "团体批量许可证；大量采购授权合约"
+      }
+    ]
+  },
+  {
+    "word": "VPC",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "虚拟私有云"
+      }
+    ]
+  },
+  {
+    "word": "VPN",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "虚拟专用网络"
+      }
+    ]
+  },
+  {
+    "word": "WCF",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "Windows 通讯开发平台"
+      }
+    ]
+  },
+  {
+    "word": "Weak Generational Hypothesis",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "弱分代假设"
+      }
+    ]
+  },
+  {
+    "word": "Wearable Device",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "可穿戴设备"
+      }
+    ]
+  },
+  {
+    "word": "Web Role",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "网站角色"
+      }
+    ]
+  },
+  {
+    "word": "Web Scraping",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "网络爬虫"
+      }
+    ]
+  },
+  {
+    "word": "Web Service",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "网络服务"
+      }
+    ]
+  },
+  {
+    "word": "Web Service Definition Language",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "Web 服务定义语言"
+      }
+    ]
+  },
+  {
+    "word": "Web Sites",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "网站"
+      }
+    ]
+  },
+  {
+    "word": "Weighted Method per Class",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "类累计圈复杂度"
+      }
+    ]
+  },
+  {
+    "word": "WF",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "工作流"
+      }
+    ]
+  },
+  {
+    "word": "Wide Hierarchy",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "过宽的层次结构"
+      }
+    ]
+  },
+  {
+    "word": "Windows Comminication Foundation",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "分布式通信"
+      }
+    ]
+  },
+  {
+    "word": "Windows Internet Name Service",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "Windows Internet 命名服务"
+      }
+    ]
+  },
+  {
+    "word": "Windows Management Instrumentation",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "Windows 管理规范"
+      }
+    ]
+  },
+  {
+    "word": "Windows Presentation Foundation",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "富客户端表示"
+      }
+    ]
+  },
+  {
+    "word": "Windows Workflow",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "工作流"
+      }
+    ]
+  },
+  {
+    "word": "WINS",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "Windows Internet 命名服务"
+      }
+    ]
+  },
+  {
+    "word": "WINS Proxy",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "WINS 代理"
+      }
+    ]
+  },
+  {
+    "word": "WINS Resource",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "WINS 资源"
+      }
+    ]
+  },
+  {
+    "word": "wireless communication",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "无线通讯"
+      }
+    ]
+  },
+  {
+    "word": "WMI",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "Windows 管理规范"
+      }
+    ]
+  },
+  {
+    "word": "Worker Role",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "辅助角色"
+      }
+    ]
+  },
+  {
+    "word": "Workflow",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "工作流"
+      }
+    ]
+  },
+  {
+    "word": "workgroup",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "工作组"
+      }
+    ]
+  },
+  {
+    "word": "World Wide Web Consortium",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "万维网联盟"
+      }
+    ]
+  },
+  {
+    "word": "WPF",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "富客户端表示"
+      }
+    ]
+  },
+  {
+    "word": "writebehind",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "后写式"
+      }
+    ]
+  },
+  {
+    "word": "X509v3 certificate",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "X509 证书"
+      }
+    ]
+  },
+  {
+    "word": "XaaS",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "一切皆服务"
+      }
+    ]
+  },
+  {
+    "word": "XML",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "可扩展标记语言"
+      }
+    ]
+  },
+  {
+    "word": "XOR",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "异或"
+      }
+    ]
+  },
+  {
+    "word": "XUL",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "XML 用户界面语言"
+      }
+    ]
+  },
+  {
+    "word": "YAGNI",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "不需要原则，“你不会用到它”"
+      }
+    ]
+  },
+  {
+    "word": "Zero-downtime Upgrade",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "零停机升级"
+      }
+    ]
+  },
+  {
+    "word": "zip disk",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "压缩磁盘"
+      }
+    ]
+  },
+  {
+    "word": "zone",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "区域"
+      }
+    ]
+  },
+  {
+    "word": "zone list",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "区域列表"
+      }
+    ]
+  },
+  {
+    "word": "zone transfer",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "区域传送"
+      }
+    ]
+  }
+]

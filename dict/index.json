@@ -5,7 +5,7 @@
     "wordCount": 228,
     "size": 312000,
     "description": "小学词汇-来自人教版PEP版本小学课后单词表,有：全音标、例句",
-    "last-modify": "2026-02-09",
+    "last-modify": "2026-02-06",
     "tags": ["全部有音标","全部有例句","来自大纲/单词本"]
   },
   {
@@ -14,7 +14,7 @@
     "wordCount": 7508,
     "size": 4460000,
     "description": "初中词汇，此版本来自github整理，有：常用短语",
-    "last-modify": "2026-02-09",
+    "last-modify": "2026-01-20",
     "tags": ["来自github","有常用短语"]
   },
   {
@@ -23,7 +23,7 @@
     "wordCount": 6008,
     "size": 6910000,
     "description": "高中词汇，此版本来自github整理，，有：常用短语",
-    "last-modify": "2026-02-09",
+    "last-modify": "2026-01-20",
     "tags": ["来自github","有常用短语"]
   },
   {
@@ -50,25 +50,34 @@
     "wordCount": 7508,
     "size": 19920000,
     "description": "大学英语四级核心词汇，有常用短语，此版本来自github整理，有：部分音标、部分例句。例句与音标来自kaikki数据集",
-    "last-modify": "2026-02-09",
+    "last-modify": "2026-01-20",
     "tags": ["部分有音标", "部分有例句","来自github","有常用短语"]
   },
   {
     "name": "CET-6词汇",
     "filename": "cet6.json",
-    "wordCount": 5651,
-    "size": 4380000,
-    "description": "大学英语六级核心词汇",
-    "last-modify": "2026-02-09",
-    "tags": ["来自github"]
+    "wordCount": 5493,
+    "size": 4041000,
+    "description": "大学英语六级核心词汇,此版本来自我们收集的单词表，有：全部音标、全部例句，例句由GPT5生成",
+    "last-modify": "2026-02-10",
+    "tags": ["全部有例句","来自大纲/单词本","全部有音标"]
   },
   {
     "name": "CET-6词汇-音标例句",
+    "filename": "cet6.json",
+    "wordCount": 5493,
+    "size": 4041000,
+    "description": "此词库将会重定向到CET-6词汇，保留是为了方便老用户进行更新",
+    "last-modify": "2026-02-10",
+    "tags": []
+  },
+  {
+    "name": "CET-6词汇-音标例句-github",
     "filename": "cet6-plus.json",
     "wordCount": 5651,
     "size": 11380000,
-    "description": "大学英语六级核心词汇，包含音标与例句，音标还在补全中",
-    "last-modify": "2026-02-09",
+    "description": "大学英语六级核心词汇，有常用短语，此版本来自github整理，有：部分音标、部分例句。例句与音标来自kaikki数据集",
+    "last-modify": "2026-02-10",
     "tags": ["部分有音标", "部分有例句","来自github"]
   },
   {
@@ -103,17 +112,26 @@
     "filename": "sat.json",
     "wordCount": 8887,
     "size": 4270000,
-    "description": "SAT核心词汇",
+    "description": "SAT核心词汇，此版本来自github整理，有：常用短语",
     "last-modify": "2026-02-09",
-    "tags": ["来自github"]
+    "tags": ["来自github","有常用短语"]
   },
   {
     "name": "托福词汇",
     "filename": "tuofu.json",
     "wordCount": 13477,
     "size": 9160000,
-    "description": "托福词汇",
+    "description": "托福词汇，此版本来自github整理，有：常用短语",
     "last-modify": "2026-02-09",
-    "tags": ["来自github"]
+    "tags": ["来自github","有常用短语"]
+  },
+  {
+    "name": "计算机词汇表",
+    "filename": "cs.json",
+    "wordCount": 1027,
+    "size": 9160000,
+    "description": "收集的计算机术语表，此词库包含了计算机的专业术语。收集自github",
+    "last-modify": "2026-02-10",
+    "tags": ["来自github","专业术语"]
   }
 ]
