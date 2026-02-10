@@ -4,7 +4,7 @@
     "filename": "xiaoschool-pep.json",
     "wordCount": 228,
     "size": 312000,
-    "description": "小学词汇-音标例句",
+    "description": "小学词汇-来自人教版pep,音标全例句",
     "last-modify": "2026-02-09",
     "tags": ["全部有音标", "有例句"]
   },
@@ -40,7 +40,7 @@
     "filename": "cet4-plus.json",
     "wordCount": 7508,
     "size": 19920000,
-    "description": "大学英语四级核心词汇,包含音标与例句版本",
+    "description": "大学英语四级核心词汇,包含音标与例句版本，音标还在补全中",
     "last-modify": "2026-02-09",
     "tags": ["部分有音标", "有例句"]
   },
@@ -58,7 +58,7 @@
     "filename": "cet6-plus.json",
     "wordCount": 5651,
     "size": 11380000,
-    "description": "大学英语六级核心词汇，包含音标与例句",
+    "description": "大学英语六级核心词汇，包含音标与例句，音标还在补全中",
     "last-modify": "2026-02-09",
     "tags": ["部分有音标", "有例句"]
   },
@@ -76,7 +76,7 @@
     "filename": "kaoyan-plus.json",
     "wordCount": 9602,
     "size": 9140000,
-    "description": "考研词汇-加强音标与例句",
+    "description": "考研词汇-加强音标与例句，音标还在补全中",
     "last-modify": "2026-02-09",
     "tags": ["部分有音标", "有例句"]
   },
