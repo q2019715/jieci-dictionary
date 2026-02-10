@@ -65,9 +65,9 @@
   {
     "name": "考研词汇",
     "filename": "kaoyan.json",
-    "wordCount": 9602,
-    "size": 9140000,
-    "description": "考研词汇，我们整理了单词本，使用了gemini3flash生成了合适的例句,此版本只有英式音标",
+    "wordCount": 5493,
+    "size": 3830000,
+    "description": "考研词汇，我们整理了单词本，使用了gpt5生成了合适的例句,此版本只有英式音标",
     "last-modify": "2026-02-10",
     "tags": ["有例句","来自大纲/单词本","全部有音标"]
   },
