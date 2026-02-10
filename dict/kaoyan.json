@@ -16472,8 +16472,12 @@
     },
     "translations": [
       {
-        "type": "n/a",
-        "translation": "褐色(的),棕色(的)"
+        "type": "n",
+        "translation": "褐色,棕色"
+      },
+      {
+        "type": "v",
+        "translation": "褐色的,棕色的"
       }
     ],
     "sentence_examples": [
@@ -18706,8 +18710,12 @@
     },
     "translations": [
       {
-        "type": "v/n",
-        "translation": "捕获,俘虏;夺得,攻占"
+        "type": "n",
+        "translation": "捕获,被捕获,录制"
+      },
+      {
+        "type": "v",
+        "translation": "捕获,俘虏;夺得,攻占,录制"
       }
     ],
     "sentence_examples": [
@@ -18949,7 +18957,7 @@
     "translations": [
       {
         "type": "vt",
-        "translation": "／"
+        "translation": "爱抚，亲吻；轻触，轻拍"
       },
       {
         "type": "n",
@@ -19757,7 +19765,7 @@
     "translations": [
       {
         "type": "a",
-        "translation": "(of)小心的,谨慎的"
+        "translation": "小心的,谨慎的"
       }
     ],
     "sentence_examples": [
@@ -20076,8 +20084,12 @@
     },
     "translations": [
       {
-        "type": "n/a",
-        "translation": "摄氏温度计(的);百分度(的)"
+        "type": "n",
+        "translation": "摄氏温度,摄氏度"
+      },
+      {
+        "type": "adj",
+        "translation": "摄氏度的"
       }
     ],
     "sentence_examples": [
@@ -20758,8 +20770,8 @@
     },
     "translations": [
       {
-        "type": "n/v",
-        "translation": "(皮肤)变粗糙；发痛"
+        "type": "v",
+        "translation": "(皮肤)变粗糙；变粗糙；发痛;皲裂"
       },
       {
         "type": "n",
@@ -21046,8 +21058,12 @@
     },
     "translations": [
       {
-        "type": "v/n",
-        "translation": "追逐,追求"
+        "type": "v",
+        "translation": "追逐，追赶；匆忙赶往，急奔；追求，努力争取"
+      },
+      {
+        "type": "n",
+        "translation": "追赶，追逐；争取，努力获得"
       }
     ],
     "sentence_examples": [
@@ -21072,8 +21088,12 @@
     },
     "translations": [
       {
-        "type": "v/n",
-        "translation": "闲谈,聊天"
+        "type": "v",
+        "translation": "闲聊，聊天"
+      },
+      {
+        "type": "n",
+        "translation": "闲聊，聊天"
       }
     ],
     "sentence_examples": [
@@ -22592,12 +22612,12 @@
     },
     "translations": [
       {
-        "type": "v/n",
-        "translation": "碰撞"
+        "type": "n",
+        "translation": "冲突，交战；争论，争执；交锋，碰撞声"
       },
       {
-        "type": "n",
-        "translation": "碰撞声"
+        "type": "v",
+        "translation": "抵触；冲突，交战；争论，争执"
       }
     ],
     "sentence_examples": [

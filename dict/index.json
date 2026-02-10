@@ -87,7 +87,7 @@
     "size": 4270000,
     "description": "SAT核心词汇",
     "last-modify": "2026-02-09",
-    "tags": []
+    "tags": ["来自github"]
   },
   {
     "name": "托福词汇",
@@ -96,6 +96,6 @@
     "size": 9160000,
     "description": "托福词汇",
     "last-modify": "2026-02-09",
-    "tags": []
+    "tags": ["来自github"]
   }
 ]
