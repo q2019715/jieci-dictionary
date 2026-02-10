@@ -4,16 +4,16 @@
     "filename": "xiaoschool-pep.json",
     "wordCount": 228,
     "size": 312000,
-    "description": "小学词汇-来自人教版PEP版本小学课后单词表,有全音标全例句",
+    "description": "小学词汇-来自人教版PEP版本小学课后单词表,有：全音标、例句",
     "last-modify": "2026-02-09",
-    "tags": ["全部有音标", "有例句","来自大纲/单词本"]
+    "tags": ["全部有音标","全部有例句","来自大纲/单词本"]
   },
   {
     "name": "初中词汇",
     "filename": "chuzhong.json",
     "wordCount": 7508,
     "size": 4460000,
-    "description": "初中词汇，此版本来自github整理",
+    "description": "初中词汇，此版本来自github整理，有：常用短语",
     "last-modify": "2026-02-09",
     "tags": ["来自github","有常用短语"]
   },
@@ -22,27 +22,36 @@
     "filename": "gaozhong.json",
     "wordCount": 6008,
     "size": 6910000,
-    "description": "高中词汇，此版本来自github整理",
+    "description": "高中词汇，此版本来自github整理，，有：常用短语",
     "last-modify": "2026-02-09",
     "tags": ["来自github","有常用短语"]
   },
   {
     "name": "CET-4词汇",
     "filename": "cet4.json",
-    "wordCount": 7508,
-    "size": 9920000,
-    "description": "大学英语四级核心词汇，此版本来自github整理",
-    "last-modify": "2026-02-09",
-    "tags": ["来自github"]
+    "wordCount": 4451,
+    "size": 3281000,
+    "description": "大学英语四级核心词汇，此版本来自我们收集的词汇表，有：全音标、例句。例句由GPT5生成",
+    "last-modify": "2026-02-10",
+    "tags": ["全部有例句","来自大纲/单词本","全部有音标"]
+  },
+  {
+    "name": "CET-4词汇-音标例句",
+    "filename": "cet4.json",
+    "wordCount": 4451,
+    "size": 3281000,
+    "description": "此词库将会重定向到CET-4词汇，保留是为了方便老用户进行更新",
+    "last-modify": "2026-02-10",
+    "tags": []
   },
   {
     "name": "CET-4词汇-音标例句-github",
     "filename": "cet4-plus.json",
     "wordCount": 7508,
     "size": 19920000,
-    "description": "大学英语四级核心词汇，有常用短语，此版本来自github整理，有部分音标缺失，例句来自kaikki数据集",
+    "description": "大学英语四级核心词汇，有常用短语，此版本来自github整理，有：部分音标、部分例句。例句与音标来自kaikki数据集",
     "last-modify": "2026-02-09",
-    "tags": ["部分有音标", "有例句","来自github"]
+    "tags": ["部分有音标", "部分有例句","来自github","有常用短语"]
   },
   {
     "name": "CET-6词汇",
@@ -60,25 +69,16 @@
     "size": 11380000,
     "description": "大学英语六级核心词汇，包含音标与例句，音标还在补全中",
     "last-modify": "2026-02-09",
-    "tags": ["部分有音标", "有例句","来自github"]
+    "tags": ["部分有音标", "部分有例句","来自github"]
   },
   {
     "name": "考研词汇",
     "filename": "kaoyan.json",
     "wordCount": 5493,
     "size": 3830000,
-    "description": "考研词汇，我们整理了单词本，使用了gpt5生成了合适的例句,此版本只有英式音标",
+    "description": "考研词汇，我们整理了单词本，有：全音标、全例句。使用了gpt5生成了合适的例句",
     "last-modify": "2026-02-10",
-    "tags": ["有例句","来自大纲/单词本","全部有音标"]
-  },
-  {
-    "name": "考研词汇",
-    "filename": "kaoyan.json",
-    "wordCount": 5493,
-    "size": 3830000,
-    "description": "考研词汇，我们整理了单词本，使用了gpt5生成了合适的例句,此版本只有英式音标",
-    "last-modify": "2026-02-10",
-    "tags": ["有例句","来自大纲/单词本","全部有音标"]
+    "tags": ["全部有例句","来自大纲/单词本","全部有音标"]
   },
   {
     "name": "考研词汇-音标例句",
@@ -87,16 +87,16 @@
     "size": 3830000,
     "description": "此词库将会重定向到考研词库，保留是为了方便老用户进行更新",
     "last-modify": "2026-02-10",
-    "tags": ["有例句","来自大纲/单词本","全部有音标"]
+    "tags": []
   },
   {
     "name": "考研词汇-音标例句-github",
     "filename": "kaoyan-plus.json",
     "wordCount": 9602,
     "size": 21890000,
-    "description": "考研词汇-此版本来自github，单词数量多，有常用短语，但是有部分音标缺失。例句来自kaikki数据集",
+    "description": "考研词汇-此版本来自github，单词数量多，有：部分音标、部分例句。例句与音标数据来自kaikki数据集",
     "last-modify": "2026-02-09",
-    "tags": ["部分有音标", "有例句","来自github","有常用短语"]
+    "tags": ["部分有音标", "部分有例句","来自github","有常用短语"]
   },
   {
     "name": "SAT词汇",
