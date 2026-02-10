@@ -6,43 +6,43 @@
     "size": 312000,
     "description": "小学词汇-来自人教版PEP版本小学课后单词表,有全音标全例句",
     "last-modify": "2026-02-09",
-    "tags": ["全部有音标", "有例句"]
+    "tags": ["全部有音标", "有例句","来自大纲/单词本"]
   },
   {
     "name": "初中词汇",
     "filename": "chuzhong.json",
     "wordCount": 7508,
     "size": 4460000,
-    "description": "初中词汇",
+    "description": "初中词汇，此版本来自github整理",
     "last-modify": "2026-02-09",
-    "tags": []
+    "tags": ["来自github"]
   },
   {
     "name": "高中词汇",
     "filename": "gaozhong.json",
     "wordCount": 6008,
     "size": 6910000,
-    "description": "高中词汇",
+    "description": "高中词汇，此版本来自github整理",
     "last-modify": "2026-02-09",
-    "tags": []
+    "tags": ["来自github"]
   },
   {
     "name": "CET-4词汇",
     "filename": "cet4.json",
     "wordCount": 7508,
     "size": 9920000,
-    "description": "大学英语四级核心词汇",
+    "description": "大学英语四级核心词汇，此版本来自github整理",
     "last-modify": "2026-02-09",
-    "tags": []
+    "tags": ["来自github"]
   },
   {
     "name": "CET-4词汇-音标例句",
     "filename": "cet4-plus.json",
     "wordCount": 7508,
     "size": 19920000,
-    "description": "大学英语四级核心词汇,包含音标与例句版本，音标还在补全中",
+    "description": "大学英语四级核心词汇,包含音标与例句版本，音标还在补全中，此版本来自github整理",
     "last-modify": "2026-02-09",
-    "tags": ["部分有音标", "有例句"]
+    "tags": ["部分有音标", "有例句","来自github"]
   },
   {
     "name": "CET-6词汇",
@@ -51,7 +51,7 @@
     "size": 4380000,
     "description": "大学英语六级核心词汇",
     "last-modify": "2026-02-09",
-    "tags": []
+    "tags": ["来自github"]
   },
   {
     "name": "CET-6词汇-音标例句",
@@ -60,25 +60,25 @@
     "size": 11380000,
     "description": "大学英语六级核心词汇，包含音标与例句，音标还在补全中",
     "last-modify": "2026-02-09",
-    "tags": ["部分有音标", "有例句"]
+    "tags": ["部分有音标", "有例句","来自github"]
   },
   {
     "name": "考研词汇",
     "filename": "kaoyan.json",
     "wordCount": 9602,
     "size": 9140000,
-    "description": "考研词汇",
-    "last-modify": "2026-02-09",
-    "tags": []
+    "description": "考研词汇，我们整理了单词本，使用了gemini3flash生成了合适的例句,此版本只有英式音标",
+    "last-modify": "2026-02-10",
+    "tags": ["有例句","来自大纲/单词本","全部有音标"]
   },
   {
-    "name": "考研词汇-音标例句",
+    "name": "考研词汇-音标例句-github",
     "filename": "kaoyan-plus.json",
     "wordCount": 9602,
     "size": 9140000,
     "description": "考研词汇-加强音标与例句，音标还在补全中",
     "last-modify": "2026-02-09",
-    "tags": ["部分有音标", "有例句"]
+    "tags": ["部分有音标", "有例句","来自github"]
   },
   {
     "name": "SAT词汇",
