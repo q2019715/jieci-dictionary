@@ -367,8 +367,12 @@
         "zh": "gpt是一类能够处理并生成文本及其他模态内容的模型。"
       },
       {
-        "en": "The app uses GPT to power visual question answering.",
-        "zh": "该应用使用gpt实现视觉问答能力。"
+        "en": "GPT models are developed by OpenAI.",
+        "zh": "gpt模型由OpenAI开发。"
+      },
+      {
+        "en": "A key feature of GPT models is strong general-purpose text understanding and generation.",
+        "zh": "gpt模型的一个主要特色是通用文本理解与生成能力强。"
       }
     ]
   },
@@ -386,8 +390,12 @@
         "zh": "o系列是面向推理的模型家族，适用于复杂问题求解和多步分析。"
       },
       {
-        "en": "The team routed difficult tasks to the o series for better reasoning depth.",
-        "zh": "团队将高难度任务路由到o系列以获得更深入的推理。"
+        "en": "The o series is developed by OpenAI.",
+        "zh": "o系列由OpenAI开发。"
+      },
+      {
+        "en": "A key feature of the o series is stronger multi-step reasoning on complex tasks.",
+        "zh": "o系列的一个主要特色是在复杂任务上的多步推理能力更强。"
       }
     ]
   },
@@ -405,8 +413,12 @@
         "zh": "claude是一类用于编程、分析和企业助手场景的大语言模型。"
       },
       {
-        "en": "The organization used Claude for document Q&A automation.",
-        "zh": "该组织使用claude实现文档问答自动化。"
+        "en": "Claude models are developed by Anthropic.",
+        "zh": "claude模型由Anthropic开发。"
+      },
+      {
+        "en": "A key feature of Claude is strong long-context handling for enterprise assistant scenarios.",
+        "zh": "claude的一个主要特色是长上下文处理能力强，适合企业助手场景。"
       }
     ]
   },
@@ -424,8 +436,12 @@
         "zh": "gemini是一类面向多模态理解与高级推理任务的模型。"
       },
       {
-        "en": "The assistant switched to Gemini for long-context analysis.",
-        "zh": "该助手在长上下文分析任务中切换到gemini。"
+        "en": "Gemini models are developed by Google.",
+        "zh": "gemini模型由Google开发。"
+      },
+      {
+        "en": "A key feature of Gemini is multimodal understanding across text, image, and other inputs.",
+        "zh": "gemini的一个主要特色是多模态理解能力，可处理文本、图像等输入。"
       }
     ]
   },
@@ -443,8 +459,12 @@
         "zh": "llama是一个面向研究与生产场景的开源权重大语言模型家族。"
       },
       {
-        "en": "The company fine-tuned Llama for internal knowledge support.",
-        "zh": "公司对llama进行了微调，用于内部知识支持。"
+        "en": "Llama models are developed by Meta AI.",
+        "zh": "llama模型由Meta AI开发。"
+      },
+      {
+        "en": "A key feature of Llama is open-weight availability for research and private deployment.",
+        "zh": "llama的一个主要特色是开源权重可用，便于研究和私有化部署。"
       }
     ]
   },
@@ -462,8 +482,12 @@
         "zh": "mistral是一类面向企业级文本理解与生成的高能力语言模型。"
       },
       {
-        "en": "They tested Mistral as a fallback model for multilingual support.",
-        "zh": "他们将mistral作为多语言支持的备用模型进行测试。"
+        "en": "Mistral models are developed by Mistral AI.",
+        "zh": "mistral模型由Mistral AI开发。"
+      },
+      {
+        "en": "A key feature of Mistral models is a strong efficiency-performance balance for deployment.",
+        "zh": "mistral模型的一个主要特色是效率与性能平衡较好，适合部署。"
       }
     ]
   },
@@ -481,8 +505,12 @@
         "zh": "deepseek模型是面向数学、编程与分析任务的推理型模型家族。"
       },
       {
-        "en": "The benchmark showed DeepSeek models performed strongly on structured reasoning problems.",
-        "zh": "基准测试显示deepseek模型在结构化推理问题上表现突出。"
+        "en": "DeepSeek models are developed by DeepSeek.",
+        "zh": "deepseek模型由DeepSeek开发。"
+      },
+      {
+        "en": "A key feature of DeepSeek models is competitive reasoning and coding capability.",
+        "zh": "deepseek模型的一个主要特色是推理与编程能力表现突出。"
       }
     ]
   },
@@ -500,8 +528,12 @@
         "zh": "qwen是一个用于多语言文本生成、编程与指令遵循的大模型系列。"
       },
       {
-        "en": "The platform offered Qwen as a cost-effective deployment option.",
-        "zh": "该平台将qwen作为高性价比部署选项提供。"
+        "en": "Qwen models are developed by Alibaba Cloud.",
+        "zh": "qwen模型由阿里云开发。"
+      },
+      {
+        "en": "A key feature of Qwen is strong multilingual and Chinese-language performance.",
+        "zh": "qwen的一个主要特色是多语言尤其中文任务表现较强。"
       }
     ]
   },
@@ -519,8 +551,12 @@
         "zh": "phi是一类紧凑型语言模型，适合在受限硬件上进行高效推理与部署。"
       },
       {
-        "en": "Edge devices ran Phi models to provide offline language features.",
-        "zh": "边缘设备运行phi模型以提供离线语言能力。"
+        "en": "Phi models are developed by Microsoft.",
+        "zh": "phi模型由Microsoft开发。"
+      },
+      {
+        "en": "A key feature of Phi is compact size with good efficiency on constrained hardware.",
+        "zh": "phi的一个主要特色是模型紧凑，在受限硬件上效率较好。"
       }
     ]
   },
@@ -538,8 +574,12 @@
         "zh": "stable diffusion是一类用于生成视觉内容的文生图模型。"
       },
       {
-        "en": "Artists used Stable Diffusion to iterate concept designs quickly.",
-        "zh": "设计师使用stable diffusion快速迭代概念设计。"
+        "en": "Stable Diffusion was originally released by Stability AI and broadly adopted by the open-source community.",
+        "zh": "stable diffusion最初由Stability AI发布，并被开源社区广泛采用。"
+      },
+      {
+        "en": "A key feature of Stable Diffusion is flexible text-to-image generation with local deployment options.",
+        "zh": "stable diffusion的一个主要特色是文生图灵活，且支持本地部署。"
       }
     ]
   },
@@ -557,8 +597,12 @@
         "zh": "dall-e是一类根据自然语言描述生成图像的文生图模型。"
       },
       {
-        "en": "The marketing team generated campaign visuals with DALL-E.",
-        "zh": "市场团队使用dall-e生成了活动视觉素材。"
+        "en": "DALL-E models are developed by OpenAI.",
+        "zh": "dall-e模型由OpenAI开发。"
+      },
+      {
+        "en": "A key feature of DALL-E is high-quality image generation from natural language prompts.",
+        "zh": "dall-e的一个主要特色是根据自然语言提示生成高质量图像。"
       }
     ]
   },
@@ -576,8 +620,12 @@
         "zh": "Midjourney是一个广泛用于风格化创意作品的AI图像生成系统。"
       },
       {
-        "en": "The team used Midjourney to explore art direction before production.",
-        "zh": "团队在正式制作前使用Midjourney探索了美术方向。"
+        "en": "Midjourney is developed by Midjourney, Inc.",
+        "zh": "midjourney由Midjourney, Inc.开发。"
+      },
+      {
+        "en": "A key feature of Midjourney is strong stylized visual output for creative design work.",
+        "zh": "midjourney的一个主要特色是风格化视觉输出能力强，适合创意设计。"
       }
     ]
   },
@@ -595,8 +643,12 @@
         "zh": "Whisper是一种自动语音识别模型，可将语音音频转写为文本。"
       },
       {
-        "en": "We used Whisper to create subtitles for meeting recordings.",
-        "zh": "我们使用Whisper为会议录音生成字幕。"
+        "en": "Whisper is developed by OpenAI.",
+        "zh": "whisper由OpenAI开发。"
+      },
+      {
+        "en": "A key feature of Whisper is robust multilingual speech recognition and transcription.",
+        "zh": "whisper的一个主要特色是多语言语音识别与转写能力稳健。"
       }
     ]
   },
@@ -614,8 +666,12 @@
         "zh": "Sora是一种生成式视频模型，可根据文本提示生成短视频。"
       },
       {
-        "en": "The creative studio used Sora to prototype storyboards quickly.",
-        "zh": "创意工作室使用Sora快速制作了分镜原型。"
+        "en": "Sora is developed by OpenAI.",
+        "zh": "sora由OpenAI开发。"
+      },
+      {
+        "en": "A key feature of Sora is text-to-video generation with coherent scene dynamics.",
+        "zh": "sora的一个主要特色是文生视频能力，场景动态连贯性较好。"
       }
     ]
   },
