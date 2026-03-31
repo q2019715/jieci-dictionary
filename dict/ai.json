@@ -354,230 +354,211 @@
     ]
   },
   {
-    "word": "GPT-4o",
+    "word": "gpt",
     "translations": [
       {
         "type": "n",
-        "translation": "GPT-4o模型"
+        "translation": "gpt模型"
       }
     ],
     "sentence_examples": [
       {
-        "en": "GPT-4o is a multimodal model family that can process and generate text, images, and other modalities.",
-        "zh": "GPT-4o是一类多模态模型，能够处理并生成文本、图像等多种模态内容。"
+        "en": "GPT is a model family that can process and generate text and other modalities.",
+        "zh": "gpt是一类能够处理并生成文本及其他模态内容的模型。"
       },
       {
-        "en": "The app uses GPT-4o to power visual question answering.",
-        "zh": "该应用使用GPT-4o实现视觉问答能力。"
+        "en": "The app uses GPT to power visual question answering.",
+        "zh": "该应用使用gpt实现视觉问答能力。"
       }
     ]
   },
   {
-    "word": "GPT-4.1",
+    "word": "o series",
     "translations": [
       {
         "type": "n",
-        "translation": "GPT-4.1模型"
+        "translation": "o系列推理模型"
       }
     ],
     "sentence_examples": [
       {
-        "en": "GPT-4.1 is a model generation optimized for instruction following and software development tasks.",
-        "zh": "GPT-4.1是一代针对指令遵循和软件开发任务优化的模型。"
+        "en": "The o series is a reasoning-oriented model family designed for complex problem solving and multi-step analysis.",
+        "zh": "o系列是面向推理的模型家族，适用于复杂问题求解和多步分析。"
       },
       {
-        "en": "Engineers selected GPT-4.1 for code review and refactoring workflows.",
-        "zh": "工程师选择GPT-4.1用于代码审查与重构流程。"
+        "en": "The team routed difficult tasks to the o series for better reasoning depth.",
+        "zh": "团队将高难度任务路由到o系列以获得更深入的推理。"
       }
     ]
   },
   {
-    "word": "o3",
+    "word": "claude",
     "translations": [
       {
         "type": "n",
-        "translation": "o3推理模型"
+        "translation": "claude模型"
       }
     ],
     "sentence_examples": [
       {
-        "en": "o3 is a reasoning-oriented model designed for complex problem solving and multi-step analysis.",
-        "zh": "o3是面向推理的模型，适用于复杂问题求解和多步分析。"
+        "en": "Claude is a large language model family used for coding, analysis, and enterprise assistant scenarios.",
+        "zh": "claude是一类用于编程、分析和企业助手场景的大语言模型。"
       },
       {
-        "en": "The team routed difficult tasks to o3 for better reasoning depth.",
-        "zh": "团队将高难度任务路由到o3以获得更深入的推理。"
+        "en": "The organization used Claude for document Q&A automation.",
+        "zh": "该组织使用claude实现文档问答自动化。"
       }
     ]
   },
   {
-    "word": "Claude 3.7 Sonnet",
+    "word": "gemini",
     "translations": [
       {
         "type": "n",
-        "translation": "Claude 3.7 Sonnet模型"
+        "translation": "gemini模型"
       }
     ],
     "sentence_examples": [
       {
-        "en": "Claude 3.7 Sonnet is a large language model used for coding, analysis, and enterprise assistant scenarios.",
-        "zh": "Claude 3.7 Sonnet是一款用于编程、分析和企业助手场景的大语言模型。"
+        "en": "Gemini is a model family designed for multimodal understanding and advanced reasoning tasks.",
+        "zh": "gemini是一类面向多模态理解与高级推理任务的模型。"
       },
       {
-        "en": "The organization used Claude 3.7 Sonnet for document Q&A automation.",
-        "zh": "该组织使用Claude 3.7 Sonnet实现文档问答自动化。"
+        "en": "The assistant switched to Gemini for long-context analysis.",
+        "zh": "该助手在长上下文分析任务中切换到gemini。"
       }
     ]
   },
   {
-    "word": "Gemini 2.5",
+    "word": "llama",
     "translations": [
       {
         "type": "n",
-        "translation": "Gemini 2.5模型"
+        "translation": "llama模型"
       }
     ],
     "sentence_examples": [
       {
-        "en": "Gemini 2.5 is a model generation designed for multimodal understanding and advanced reasoning tasks.",
-        "zh": "Gemini 2.5是一代面向多模态理解与高级推理任务的模型。"
+        "en": "Llama is an open-weight large language model family for research and production use cases.",
+        "zh": "llama是一个面向研究与生产场景的开源权重大语言模型家族。"
       },
       {
-        "en": "The assistant switched to Gemini 2.5 for long-context analysis.",
-        "zh": "该助手在长上下文分析任务中切换到Gemini 2.5。"
+        "en": "The company fine-tuned Llama for internal knowledge support.",
+        "zh": "公司对llama进行了微调，用于内部知识支持。"
       }
     ]
   },
   {
-    "word": "Llama 3",
+    "word": "mistral",
     "translations": [
       {
         "type": "n",
-        "translation": "Llama 3模型"
+        "translation": "mistral模型"
       }
     ],
     "sentence_examples": [
       {
-        "en": "Llama 3 is an open-weight large language model family for research and production use cases.",
-        "zh": "Llama 3是一个面向研究与生产场景的开源权重大语言模型家族。"
+        "en": "Mistral is a high-capability language model family for enterprise-grade text understanding and generation.",
+        "zh": "mistral是一类面向企业级文本理解与生成的高能力语言模型。"
       },
       {
-        "en": "The company fine-tuned Llama 3 for internal knowledge support.",
-        "zh": "公司对Llama 3进行了微调，用于内部知识支持。"
+        "en": "They tested Mistral as a fallback model for multilingual support.",
+        "zh": "他们将mistral作为多语言支持的备用模型进行测试。"
       }
     ]
   },
   {
-    "word": "Mistral Large",
+    "word": "deepseek model",
     "translations": [
       {
         "type": "n",
-        "translation": "Mistral Large模型"
+        "translation": "deepseek模型"
       }
     ],
     "sentence_examples": [
       {
-        "en": "Mistral Large is a high-capability language model for enterprise-grade text understanding and generation.",
-        "zh": "Mistral Large是面向企业级文本理解与生成的高能力语言模型。"
+        "en": "DeepSeek models are reasoning-focused model families for math, coding, and analytical tasks.",
+        "zh": "deepseek模型是面向数学、编程与分析任务的推理型模型家族。"
       },
       {
-        "en": "They tested Mistral Large as a fallback model for multilingual support.",
-        "zh": "他们将Mistral Large作为多语言支持的备用模型进行测试。"
+        "en": "The benchmark showed DeepSeek models performed strongly on structured reasoning problems.",
+        "zh": "基准测试显示deepseek模型在结构化推理问题上表现突出。"
       }
     ]
   },
   {
-    "word": "DeepSeek-R1",
+    "word": "qwen",
     "translations": [
       {
         "type": "n",
-        "translation": "DeepSeek-R1模型"
+        "translation": "qwen模型"
       }
     ],
     "sentence_examples": [
       {
-        "en": "DeepSeek-R1 is a reasoning-focused model family for math, coding, and analytical tasks.",
-        "zh": "DeepSeek-R1是面向数学、编程与分析任务的推理型模型家族。"
+        "en": "Qwen is a large model series used for multilingual text generation, coding, and instruction following.",
+        "zh": "qwen是一个用于多语言文本生成、编程与指令遵循的大模型系列。"
       },
       {
-        "en": "The benchmark showed DeepSeek-R1 performed strongly on structured reasoning problems.",
-        "zh": "基准测试显示DeepSeek-R1在结构化推理问题上表现突出。"
+        "en": "The platform offered Qwen as a cost-effective deployment option.",
+        "zh": "该平台将qwen作为高性价比部署选项提供。"
       }
     ]
   },
   {
-    "word": "Qwen2.5",
+    "word": "phi",
     "translations": [
       {
         "type": "n",
-        "translation": "Qwen2.5模型"
+        "translation": "phi模型"
       }
     ],
     "sentence_examples": [
       {
-        "en": "Qwen2.5 is a large model series used for multilingual text generation, coding, and instruction following.",
-        "zh": "Qwen2.5是一个用于多语言文本生成、编程与指令遵循的大模型系列。"
+        "en": "Phi is a compact language model family designed for efficient reasoning and deployment on constrained hardware.",
+        "zh": "phi是一类紧凑型语言模型，适合在受限硬件上进行高效推理与部署。"
       },
       {
-        "en": "The platform offered Qwen2.5 as a cost-effective deployment option.",
-        "zh": "该平台将Qwen2.5作为高性价比部署选项提供。"
+        "en": "Edge devices ran Phi models to provide offline language features.",
+        "zh": "边缘设备运行phi模型以提供离线语言能力。"
       }
     ]
   },
   {
-    "word": "Phi-4",
+    "word": "stable diffusion",
     "translations": [
       {
         "type": "n",
-        "translation": "Phi-4模型"
+        "translation": "stable diffusion模型"
       }
     ],
     "sentence_examples": [
       {
-        "en": "Phi-4 is a compact language model designed for efficient reasoning and deployment on constrained hardware.",
-        "zh": "Phi-4是一款紧凑型语言模型，适合在受限硬件上进行高效推理与部署。"
+        "en": "Stable Diffusion is a text-to-image generation model family for producing visual content.",
+        "zh": "stable diffusion是一类用于生成视觉内容的文生图模型。"
       },
       {
-        "en": "Edge devices ran Phi-4 to provide offline language features.",
-        "zh": "边缘设备运行Phi-4以提供离线语言能力。"
+        "en": "Artists used Stable Diffusion to iterate concept designs quickly.",
+        "zh": "设计师使用stable diffusion快速迭代概念设计。"
       }
     ]
   },
   {
-    "word": "Stable Diffusion XL",
+    "word": "dall-e",
     "translations": [
       {
         "type": "n",
-        "translation": "Stable Diffusion XL模型"
+        "translation": "dall-e模型"
       }
     ],
     "sentence_examples": [
       {
-        "en": "Stable Diffusion XL is a text-to-image generation model for producing high-resolution visual content.",
-        "zh": "Stable Diffusion XL是用于生成高分辨率视觉内容的文生图模型。"
+        "en": "DALL-E is a text-to-image model family for generating images from natural language descriptions.",
+        "zh": "dall-e是一类根据自然语言描述生成图像的文生图模型。"
       },
       {
-        "en": "Artists used Stable Diffusion XL to iterate concept designs quickly.",
-        "zh": "设计师使用Stable Diffusion XL快速迭代概念设计。"
-      }
-    ]
-  },
-  {
-    "word": "DALL-E 3",
-    "translations": [
-      {
-        "type": "n",
-        "translation": "DALL-E 3模型"
-      }
-    ],
-    "sentence_examples": [
-      {
-        "en": "DALL-E 3 is a text-to-image model for generating images from natural language descriptions.",
-        "zh": "DALL-E 3是一款根据自然语言描述生成图像的文生图模型。"
-      },
-      {
-        "en": "The marketing team generated campaign visuals with DALL-E 3.",
-        "zh": "市场团队使用DALL-E 3生成了活动视觉素材。"
+        "en": "The marketing team generated campaign visuals with DALL-E.",
+        "zh": "市场团队使用dall-e生成了活动视觉素材。"
       }
     ]
   },
@@ -1452,6 +1433,234 @@
       {
         "en": "The serving stack used speculative decoding to improve throughput.",
         "zh": "服务栈使用推测解码提升了吞吐量。"
+      }
+    ]
+  },
+  {
+    "word": "Named Entity Recognition",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "命名实体识别"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "Named Entity Recognition is an NLP task that detects and classifies entities such as people, organizations, and locations.",
+        "zh": "命名实体识别是NLP任务之一，用于识别并分类人名、机构名和地名等实体。"
+      },
+      {
+        "en": "We used named entity recognition to extract company names from reports.",
+        "zh": "我们使用命名实体识别从报告中抽取公司名称。"
+      }
+    ]
+  },
+  {
+    "word": "Relation Extraction",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "关系抽取"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "Relation extraction identifies semantic relationships between entities in text.",
+        "zh": "关系抽取用于识别文本中实体之间的语义关系。"
+      },
+      {
+        "en": "The pipeline combines NER and relation extraction to build a knowledge graph.",
+        "zh": "该流程将命名实体识别与关系抽取结合，用于构建知识图谱。"
+      }
+    ]
+  },
+  {
+    "word": "Natural Language Inference",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "自然语言推理"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "Natural Language Inference determines whether a hypothesis is entailed, contradicted, or neutral given a premise.",
+        "zh": "自然语言推理用于判断在给定前提下，假设是蕴含、矛盾还是中立。"
+      },
+      {
+        "en": "We benchmarked the model on natural language inference for reasoning quality.",
+        "zh": "我们在自然语言推理任务上评测了模型的推理质量。"
+      }
+    ]
+  },
+  {
+    "word": "Semantic Parsing",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "语义解析"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "Semantic parsing converts natural language into structured meaning representations.",
+        "zh": "语义解析将自然语言转换为结构化语义表示。"
+      },
+      {
+        "en": "The assistant uses semantic parsing to map questions to SQL queries.",
+        "zh": "该助手使用语义解析将问题映射为SQL查询。"
+      }
+    ]
+  },
+  {
+    "word": "Dependency Parsing",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "依存句法分析"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "Dependency parsing analyzes grammatical relationships between words in a sentence.",
+        "zh": "依存句法分析用于分析句子中词与词之间的语法依存关系。"
+      },
+      {
+        "en": "Dependency parsing helps improve rule-based information extraction.",
+        "zh": "依存句法分析有助于提升基于规则的信息抽取效果。"
+      }
+    ]
+  },
+  {
+    "word": "Entity Linking",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "实体链接"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "Entity linking maps a mention in text to a canonical entity in a knowledge base.",
+        "zh": "实体链接将文本中的实体提及映射到知识库中的标准实体。"
+      },
+      {
+        "en": "The system uses entity linking to disambiguate similar person names.",
+        "zh": "系统通过实体链接消除相似人名的歧义。"
+      }
+    ]
+  },
+  {
+    "word": "Knowledge Graph Completion",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "知识图谱补全"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "Knowledge graph completion predicts missing entities or relations in an existing knowledge graph.",
+        "zh": "知识图谱补全用于预测已有知识图谱中缺失的实体或关系。"
+      },
+      {
+        "en": "We applied knowledge graph completion to infer unseen product relations.",
+        "zh": "我们应用知识图谱补全推断未观测到的产品关系。"
+      }
+    ]
+  },
+  {
+    "word": "Domain Adaptation",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "领域适配"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "Domain adaptation improves model performance when training and target data come from different domains.",
+        "zh": "领域适配用于在训练数据与目标数据分布不同的情况下提升模型表现。"
+      },
+      {
+        "en": "Domain adaptation reduced errors on medical text classification.",
+        "zh": "领域适配降低了医疗文本分类任务中的错误率。"
+      }
+    ]
+  },
+  {
+    "word": "Transfer Learning",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "迁移学习"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "Transfer learning reuses knowledge from a pretrained model to solve a new but related task.",
+        "zh": "迁移学习通过复用预训练模型的知识来解决新的相关任务。"
+      },
+      {
+        "en": "The team used transfer learning to speed up development on a small dataset.",
+        "zh": "团队使用迁移学习在小数据集上加速了开发。"
+      }
+    ]
+  },
+  {
+    "word": "Continual Learning",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "持续学习"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "Continual learning enables models to learn new tasks over time without forgetting previous knowledge.",
+        "zh": "持续学习使模型能够在不断学习新任务时尽量不遗忘已有知识。"
+      },
+      {
+        "en": "We monitored catastrophic forgetting during continual learning updates.",
+        "zh": "我们在持续学习更新中监控了灾难性遗忘问题。"
+      }
+    ]
+  },
+  {
+    "word": "One-Shot Learning",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "单样本学习"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "One-shot learning trains a model to generalize from only one labeled example per class.",
+        "zh": "单样本学习指模型仅凭每类一个标注样本进行泛化学习。"
+      },
+      {
+        "en": "One-shot learning is useful when labeled data is scarce.",
+        "zh": "在标注数据稀缺时，单样本学习非常有用。"
+      }
+    ]
+  },
+  {
+    "word": "Meta-Learning",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "元学习"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "Meta-learning is a paradigm where models learn how to learn efficiently across tasks.",
+        "zh": "元学习是一种让模型在多任务中学习“如何更高效学习”的范式。"
+      },
+      {
+        "en": "The research group explored meta-learning for rapid task adaptation.",
+        "zh": "研究团队探索了元学习以实现快速任务适配。"
       }
     ]
   }
