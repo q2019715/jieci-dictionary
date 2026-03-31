@@ -417,8 +417,8 @@
         "zh": "claude模型由Anthropic开发。"
       },
       {
-        "en": "A key feature of Claude is strong long-context handling for enterprise assistant scenarios.",
-        "zh": "claude的一个主要特色是长上下文处理能力强，适合企业助手场景。"
+        "en": "One of Claude's key strengths is its exceptional coding ability.",
+        "zh": "claude的一个主要特色是编码能力十分出色。"
       }
     ]
   },
@@ -1717,6 +1717,82 @@
       {
         "en": "The research group explored meta-learning for rapid task adaptation.",
         "zh": "研究团队探索了元学习以实现快速任务适配。"
+      }
+    ]
+  },
+  {
+    "word": "eval harness",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "评测框架"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "An eval harness is a reusable framework for running standardized model evaluations across tasks and datasets.",
+        "zh": "评测框架是一个可复用系统，用于在不同任务和数据集上执行标准化模型评估。"
+      },
+      {
+        "en": "The team built an eval harness to compare model versions before release.",
+        "zh": "团队构建了评测框架，用于在发布前比较不同模型版本。"
+      }
+    ]
+  },
+  {
+    "word": "safety classifier",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "安全分类器"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "A safety classifier is a model that detects harmful, policy-violating, or risky inputs and outputs.",
+        "zh": "安全分类器是一类用于检测有害、违规或高风险输入输出的模型。"
+      },
+      {
+        "en": "We used a safety classifier to block unsafe responses in real time.",
+        "zh": "我们使用安全分类器实时拦截不安全回复。"
+      }
+    ]
+  },
+  {
+    "word": "policy model",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "策略模型"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "A policy model applies safety and compliance rules to decide whether content should be allowed, transformed, or rejected.",
+        "zh": "策略模型用于执行安全与合规规则，判断内容应放行、改写还是拒绝。"
+      },
+      {
+        "en": "The assistant routes sensitive requests through a policy model before final response generation.",
+        "zh": "助手会在最终生成回复前，将敏感请求交由策略模型处理。"
+      }
+    ]
+  },
+  {
+    "word": "model jailbreak taxonomy",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "模型越狱分类体系"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "A model jailbreak taxonomy is a structured classification of jailbreak attack patterns and failure modes.",
+        "zh": "模型越狱分类体系是对越狱攻击模式和失效类型进行结构化归类的方法。"
+      },
+      {
+        "en": "The red team used a model jailbreak taxonomy to track coverage and prioritize mitigations.",
+        "zh": "红队使用模型越狱分类体系来跟踪覆盖率并确定优先缓解项。"
       }
     ]
   }
