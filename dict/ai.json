@@ -1,0 +1,1370 @@
+[
+  {
+    "word": "OpenAI",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "OpenAI公司"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "OpenAI is an AI research and product company known for developing large language and multimodal models.",
+        "zh": "OpenAI是一家人工智能研究与产品公司，以开发大语言和多模态模型而闻名。"
+      },
+      {
+        "en": "Our team used OpenAI APIs to build a customer support assistant.",
+        "zh": "我们的团队使用OpenAI的API构建了一个客服助手。"
+      }
+    ]
+  },
+  {
+    "word": "Anthropic",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "Anthropic公司"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "Anthropic is an AI company focused on building reliable and steerable language models.",
+        "zh": "Anthropic是一家专注于构建可靠且可控语言模型的人工智能公司。"
+      },
+      {
+        "en": "The enterprise pilot compared outputs from Anthropic and other model providers.",
+        "zh": "企业试点对比了Anthropic与其他模型提供商的输出效果。"
+      }
+    ]
+  },
+  {
+    "word": "Google DeepMind",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "谷歌DeepMind"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "Google DeepMind is Google's AI research organization that develops advanced foundation models and AI systems.",
+        "zh": "Google DeepMind是谷歌的人工智能研究机构，开发先进的基础模型与AI系统。"
+      },
+      {
+        "en": "The report cited Google DeepMind as a key contributor to modern AI research.",
+        "zh": "报告将Google DeepMind列为现代AI研究的重要贡献者。"
+      }
+    ]
+  },
+  {
+    "word": "Meta AI",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "Meta人工智能团队"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "Meta AI is the AI research division of Meta, known for open model releases such as Llama.",
+        "zh": "Meta AI是Meta的人工智能研究部门，以发布Llama等开源模型而知名。"
+      },
+      {
+        "en": "Developers selected a Meta AI model for local deployment.",
+        "zh": "开发者选择了Meta AI的模型进行本地部署。"
+      }
+    ]
+  },
+  {
+    "word": "Microsoft AI",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "微软人工智能业务"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "Microsoft AI refers to Microsoft's AI products, platforms, and research efforts across cloud and productivity tools.",
+        "zh": "Microsoft AI指微软在云平台与生产力工具中的人工智能产品、平台与研究工作。"
+      },
+      {
+        "en": "The company adopted Microsoft AI services to accelerate internal automation.",
+        "zh": "该公司采用了微软AI服务以加速内部自动化。"
+      }
+    ]
+  },
+  {
+    "word": "NVIDIA",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "英伟达"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "NVIDIA is a technology company whose GPUs and software stack are widely used for AI training and inference.",
+        "zh": "英伟达是一家科技公司，其GPU和软件栈被广泛用于AI训练与推理。"
+      },
+      {
+        "en": "The lab scaled model training with NVIDIA hardware clusters.",
+        "zh": "实验室使用英伟达硬件集群扩展了模型训练。"
+      }
+    ]
+  },
+  {
+    "word": "Cohere",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "Cohere公司"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "Cohere is an AI company providing language models and enterprise-focused AI services.",
+        "zh": "Cohere是一家提供语言模型与企业级AI服务的人工智能公司。"
+      },
+      {
+        "en": "The search team evaluated Cohere reranking models for relevance gains.",
+        "zh": "搜索团队评估了Cohere重排模型以提升相关性。"
+      }
+    ]
+  },
+  {
+    "word": "Mistral AI",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "Mistral AI公司"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "Mistral AI is a model company known for efficient and open-weight large language models.",
+        "zh": "Mistral AI是一家以高效开源权重大语言模型著称的模型公司。"
+      },
+      {
+        "en": "We benchmarked Mistral AI models for low-latency deployment.",
+        "zh": "我们对Mistral AI模型做了低延迟部署基准测试。"
+      }
+    ]
+  },
+  {
+    "word": "xAI",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "xAI公司"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "xAI is an AI company building large-scale language models and related AI products.",
+        "zh": "xAI是一家构建大规模语言模型及相关AI产品的公司。"
+      },
+      {
+        "en": "The analyst included xAI in the competitive landscape review.",
+        "zh": "分析师在竞争格局评估中纳入了xAI。"
+      }
+    ]
+  },
+  {
+    "word": "Stability AI",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "Stability AI公司"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "Stability AI is a company known for open image generation models and related creative AI tools.",
+        "zh": "Stability AI是一家以开放图像生成模型及创意AI工具知名的公司。"
+      },
+      {
+        "en": "The design team tested Stability AI models for concept art drafts.",
+        "zh": "设计团队测试了Stability AI模型来生成概念草图。"
+      }
+    ]
+  },
+  {
+    "word": "Baidu AI",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "百度AI"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "Baidu AI is Baidu's AI ecosystem including large models, cloud AI services, and industry applications.",
+        "zh": "百度AI是百度的人工智能生态，包括大模型、云AI服务与行业应用。"
+      },
+      {
+        "en": "The solution integrated Baidu AI capabilities for speech and language tasks.",
+        "zh": "该方案集成了百度AI在语音与语言任务上的能力。"
+      }
+    ]
+  },
+  {
+    "word": "Alibaba Cloud AI",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "阿里云AI"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "Alibaba Cloud AI refers to Alibaba Cloud's AI platform, models, and enterprise AI services.",
+        "zh": "阿里云AI指阿里云提供的AI平台、模型与企业AI服务。"
+      },
+      {
+        "en": "The startup deployed its assistant on Alibaba Cloud AI infrastructure.",
+        "zh": "该创业公司在阿里云AI基础设施上部署了助手。"
+      }
+    ]
+  },
+  {
+    "word": "Tencent Hunyuan",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "腾讯混元"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "Tencent Hunyuan is Tencent's large model family used across multiple AI products and services.",
+        "zh": "腾讯混元是腾讯的大模型家族，应用于多个AI产品与服务。"
+      },
+      {
+        "en": "The product team evaluated Tencent Hunyuan for Chinese language tasks.",
+        "zh": "产品团队评估了腾讯混元在中文任务中的表现。"
+      }
+    ]
+  },
+  {
+    "word": "HUAWEI Ascend",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "华为昇腾"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "HUAWEI Ascend is a hardware and software AI computing platform for training and inference workloads.",
+        "zh": "华为昇腾是用于训练与推理任务的软硬件AI计算平台。"
+      },
+      {
+        "en": "The institute optimized inference pipelines on HUAWEI Ascend accelerators.",
+        "zh": "该研究机构在华为昇腾加速器上优化了推理流水线。"
+      }
+    ]
+  },
+  {
+    "word": "GPT-4o",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "GPT-4o模型"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "GPT-4o is a multimodal model family that can process and generate text, images, and other modalities.",
+        "zh": "GPT-4o是一类多模态模型，能够处理并生成文本、图像等多种模态内容。"
+      },
+      {
+        "en": "The app uses GPT-4o to power visual question answering.",
+        "zh": "该应用使用GPT-4o实现视觉问答能力。"
+      }
+    ]
+  },
+  {
+    "word": "GPT-4.1",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "GPT-4.1模型"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "GPT-4.1 is a model generation optimized for instruction following and software development tasks.",
+        "zh": "GPT-4.1是一代针对指令遵循和软件开发任务优化的模型。"
+      },
+      {
+        "en": "Engineers selected GPT-4.1 for code review and refactoring workflows.",
+        "zh": "工程师选择GPT-4.1用于代码审查与重构流程。"
+      }
+    ]
+  },
+  {
+    "word": "o3",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "o3推理模型"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "o3 is a reasoning-oriented model designed for complex problem solving and multi-step analysis.",
+        "zh": "o3是面向推理的模型，适用于复杂问题求解和多步分析。"
+      },
+      {
+        "en": "The team routed difficult tasks to o3 for better reasoning depth.",
+        "zh": "团队将高难度任务路由到o3以获得更深入的推理。"
+      }
+    ]
+  },
+  {
+    "word": "Claude 3.7 Sonnet",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "Claude 3.7 Sonnet模型"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "Claude 3.7 Sonnet is a large language model used for coding, analysis, and enterprise assistant scenarios.",
+        "zh": "Claude 3.7 Sonnet是一款用于编程、分析和企业助手场景的大语言模型。"
+      },
+      {
+        "en": "The organization used Claude 3.7 Sonnet for document Q&A automation.",
+        "zh": "该组织使用Claude 3.7 Sonnet实现文档问答自动化。"
+      }
+    ]
+  },
+  {
+    "word": "Gemini 2.5",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "Gemini 2.5模型"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "Gemini 2.5 is a model generation designed for multimodal understanding and advanced reasoning tasks.",
+        "zh": "Gemini 2.5是一代面向多模态理解与高级推理任务的模型。"
+      },
+      {
+        "en": "The assistant switched to Gemini 2.5 for long-context analysis.",
+        "zh": "该助手在长上下文分析任务中切换到Gemini 2.5。"
+      }
+    ]
+  },
+  {
+    "word": "Llama 3",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "Llama 3模型"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "Llama 3 is an open-weight large language model family for research and production use cases.",
+        "zh": "Llama 3是一个面向研究与生产场景的开源权重大语言模型家族。"
+      },
+      {
+        "en": "The company fine-tuned Llama 3 for internal knowledge support.",
+        "zh": "公司对Llama 3进行了微调，用于内部知识支持。"
+      }
+    ]
+  },
+  {
+    "word": "Mistral Large",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "Mistral Large模型"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "Mistral Large is a high-capability language model for enterprise-grade text understanding and generation.",
+        "zh": "Mistral Large是面向企业级文本理解与生成的高能力语言模型。"
+      },
+      {
+        "en": "They tested Mistral Large as a fallback model for multilingual support.",
+        "zh": "他们将Mistral Large作为多语言支持的备用模型进行测试。"
+      }
+    ]
+  },
+  {
+    "word": "DeepSeek-R1",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "DeepSeek-R1模型"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "DeepSeek-R1 is a reasoning-focused model family for math, coding, and analytical tasks.",
+        "zh": "DeepSeek-R1是面向数学、编程与分析任务的推理型模型家族。"
+      },
+      {
+        "en": "The benchmark showed DeepSeek-R1 performed strongly on structured reasoning problems.",
+        "zh": "基准测试显示DeepSeek-R1在结构化推理问题上表现突出。"
+      }
+    ]
+  },
+  {
+    "word": "Qwen2.5",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "Qwen2.5模型"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "Qwen2.5 is a large model series used for multilingual text generation, coding, and instruction following.",
+        "zh": "Qwen2.5是一个用于多语言文本生成、编程与指令遵循的大模型系列。"
+      },
+      {
+        "en": "The platform offered Qwen2.5 as a cost-effective deployment option.",
+        "zh": "该平台将Qwen2.5作为高性价比部署选项提供。"
+      }
+    ]
+  },
+  {
+    "word": "Phi-4",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "Phi-4模型"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "Phi-4 is a compact language model designed for efficient reasoning and deployment on constrained hardware.",
+        "zh": "Phi-4是一款紧凑型语言模型，适合在受限硬件上进行高效推理与部署。"
+      },
+      {
+        "en": "Edge devices ran Phi-4 to provide offline language features.",
+        "zh": "边缘设备运行Phi-4以提供离线语言能力。"
+      }
+    ]
+  },
+  {
+    "word": "Stable Diffusion XL",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "Stable Diffusion XL模型"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "Stable Diffusion XL is a text-to-image generation model for producing high-resolution visual content.",
+        "zh": "Stable Diffusion XL是用于生成高分辨率视觉内容的文生图模型。"
+      },
+      {
+        "en": "Artists used Stable Diffusion XL to iterate concept designs quickly.",
+        "zh": "设计师使用Stable Diffusion XL快速迭代概念设计。"
+      }
+    ]
+  },
+  {
+    "word": "DALL-E 3",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "DALL-E 3模型"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "DALL-E 3 is a text-to-image model for generating images from natural language descriptions.",
+        "zh": "DALL-E 3是一款根据自然语言描述生成图像的文生图模型。"
+      },
+      {
+        "en": "The marketing team generated campaign visuals with DALL-E 3.",
+        "zh": "市场团队使用DALL-E 3生成了活动视觉素材。"
+      }
+    ]
+  },
+  {
+    "word": "Midjourney",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "Midjourney模型"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "Midjourney is an AI image generation system widely used for stylized creative artwork.",
+        "zh": "Midjourney是一个广泛用于风格化创意作品的AI图像生成系统。"
+      },
+      {
+        "en": "The team used Midjourney to explore art direction before production.",
+        "zh": "团队在正式制作前使用Midjourney探索了美术方向。"
+      }
+    ]
+  },
+  {
+    "word": "Whisper",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "Whisper语音识别模型"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "Whisper is an automatic speech recognition model that transcribes spoken audio into text.",
+        "zh": "Whisper是一种自动语音识别模型，可将语音音频转写为文本。"
+      },
+      {
+        "en": "We used Whisper to create subtitles for meeting recordings.",
+        "zh": "我们使用Whisper为会议录音生成字幕。"
+      }
+    ]
+  },
+  {
+    "word": "Sora",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "Sora视频生成模型"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "Sora is a generative video model that can create short videos from text prompts.",
+        "zh": "Sora是一种生成式视频模型，可根据文本提示生成短视频。"
+      },
+      {
+        "en": "The creative studio used Sora to prototype storyboards quickly.",
+        "zh": "创意工作室使用Sora快速制作了分镜原型。"
+      }
+    ]
+  },
+  {
+    "word": "Large Language Model",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "大语言模型"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "A Large Language Model is a neural network trained on massive text corpora to understand and generate human language.",
+        "zh": "大语言模型是一种在海量文本语料上训练的神经网络，用于理解和生成人类语言。"
+      },
+      {
+        "en": "The chatbot is powered by a Large Language Model.",
+        "zh": "这个聊天机器人由大语言模型驱动。"
+      }
+    ]
+  },
+  {
+    "word": "Multimodal Model",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "多模态模型"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "A multimodal model can process multiple data types such as text, images, audio, and video.",
+        "zh": "多模态模型能够处理文本、图像、音频、视频等多种数据类型。"
+      },
+      {
+        "en": "The app relies on a multimodal model for image-grounded conversation.",
+        "zh": "该应用依赖多模态模型实现基于图像的对话。"
+      }
+    ]
+  },
+  {
+    "word": "Foundation Model",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "基础模型"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "A foundation model is a broadly trained model that can be adapted to many downstream tasks.",
+        "zh": "基础模型是经过广泛训练、可适配多种下游任务的模型。"
+      },
+      {
+        "en": "The product team fine-tuned a foundation model for legal document analysis.",
+        "zh": "产品团队对基础模型进行了微调，用于法律文档分析。"
+      }
+    ]
+  },
+  {
+    "word": "Transformer",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "Transformer架构"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "Transformer is a neural network architecture based on attention mechanisms for sequence modeling.",
+        "zh": "Transformer是一种基于注意力机制的序列建模神经网络架构。"
+      },
+      {
+        "en": "Most modern language models are built on the Transformer architecture.",
+        "zh": "多数现代语言模型都建立在Transformer架构之上。"
+      }
+    ]
+  },
+  {
+    "word": "Attention Mechanism",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "注意力机制"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "An attention mechanism lets a model focus on the most relevant parts of the input when generating outputs.",
+        "zh": "注意力机制使模型在生成输出时关注输入中最相关的部分。"
+      },
+      {
+        "en": "Attention mechanisms improve long-range dependency modeling in text.",
+        "zh": "注意力机制提升了文本中的长距离依赖建模能力。"
+      }
+    ]
+  },
+  {
+    "word": "Token",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "词元"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "A token is the basic unit of text processed by a language model.",
+        "zh": "词元是语言模型处理文本的基本单位。"
+      },
+      {
+        "en": "Long prompts consume more tokens and usually cost more.",
+        "zh": "较长提示词会消耗更多词元，通常也会带来更高成本。"
+      }
+    ]
+  },
+  {
+    "word": "Tokenizer",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "分词器"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "A tokenizer converts raw text into tokens that can be used as model input.",
+        "zh": "分词器将原始文本转换为可供模型输入的词元。"
+      },
+      {
+        "en": "Different tokenizers can produce different token counts for the same sentence.",
+        "zh": "同一句话在不同分词器下可能得到不同的词元数量。"
+      }
+    ]
+  },
+  {
+    "word": "Context Window",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "上下文窗口"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "The context window is the maximum amount of tokens a model can consider in one interaction.",
+        "zh": "上下文窗口是模型在一次交互中可处理的最大词元数量。"
+      },
+      {
+        "en": "We chunked documents to fit within the model's context window.",
+        "zh": "我们将文档切分后再输入，以适配模型的上下文窗口。"
+      }
+    ]
+  },
+  {
+    "word": "Pretraining",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "预训练"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "Pretraining is the large-scale initial training phase where a model learns general language patterns.",
+        "zh": "预训练是模型学习通用语言模式的大规模初始训练阶段。"
+      },
+      {
+        "en": "Most model capabilities originate from pretraining data and objectives.",
+        "zh": "模型的大部分能力来源于预训练数据与目标函数。"
+      }
+    ]
+  },
+  {
+    "word": "Fine-tuning",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "微调"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "Fine-tuning adapts a pretrained model to specific tasks or domains using additional labeled data.",
+        "zh": "微调通过额外标注数据将预训练模型适配到特定任务或领域。"
+      },
+      {
+        "en": "The team performed fine-tuning to improve medical terminology accuracy.",
+        "zh": "团队通过微调提升了医疗术语的准确性。"
+      }
+    ]
+  },
+  {
+    "word": "Supervised Fine-Tuning",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "监督式微调"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "Supervised Fine-Tuning trains a model on prompt-response pairs curated by humans.",
+        "zh": "监督式微调是在人工整理的提示词-回复对上训练模型。"
+      },
+      {
+        "en": "We used supervised fine-tuning to align outputs with writing guidelines.",
+        "zh": "我们通过监督式微调让输出更符合写作规范。"
+      }
+    ]
+  },
+  {
+    "word": "Instruction Tuning",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "指令微调"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "Instruction tuning improves a model's ability to follow user instructions across diverse tasks.",
+        "zh": "指令微调提升模型在多样任务中遵循用户指令的能力。"
+      },
+      {
+        "en": "Instruction tuning made the assistant more concise and controllable.",
+        "zh": "指令微调让助手更简洁、也更可控。"
+      }
+    ]
+  },
+  {
+    "word": "RLHF",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "基于人类反馈的强化学习"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "RLHF is a method that uses human preference data to optimize model behavior via reinforcement learning.",
+        "zh": "RLHF是一种利用人类偏好数据并通过强化学习优化模型行为的方法。"
+      },
+      {
+        "en": "RLHF helped reduce unhelpful answers in the assistant.",
+        "zh": "RLHF帮助减少了助手中无帮助的回答。"
+      }
+    ]
+  },
+  {
+    "word": "DPO",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "直接偏好优化"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "DPO is a preference optimization method that aligns model outputs without explicit reward model training.",
+        "zh": "DPO是一种无需显式训练奖励模型即可对齐输出的偏好优化方法。"
+      },
+      {
+        "en": "The research team compared DPO and RLHF on helpfulness metrics.",
+        "zh": "研究团队在有用性指标上比较了DPO与RLHF。"
+      }
+    ]
+  },
+  {
+    "word": "Mixture of Experts",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "专家混合架构"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "Mixture of Experts is a model architecture that activates only selected expert sub-networks for each input.",
+        "zh": "专家混合架构是一种对每次输入仅激活部分专家子网络的模型架构。"
+      },
+      {
+        "en": "MoE models can improve efficiency by reducing active compute per token.",
+        "zh": "MoE模型可通过减少每个词元的活跃计算量来提升效率。"
+      }
+    ]
+  },
+  {
+    "word": "Embedding",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "向量嵌入"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "An embedding is a dense numeric vector representation that captures semantic meaning.",
+        "zh": "向量嵌入是一种能够表达语义信息的稠密数值向量表示。"
+      },
+      {
+        "en": "We indexed embeddings to enable semantic search in the knowledge base.",
+        "zh": "我们对嵌入向量建立索引，以支持知识库语义检索。"
+      }
+    ]
+  },
+  {
+    "word": "Vector Database",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "向量数据库"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "A vector database stores and retrieves embeddings efficiently for similarity search.",
+        "zh": "向量数据库用于高效存储和检索嵌入向量，以执行相似度搜索。"
+      },
+      {
+        "en": "The RAG pipeline uses a vector database to fetch relevant passages.",
+        "zh": "该RAG流水线使用向量数据库召回相关段落。"
+      }
+    ]
+  },
+  {
+    "word": "RAG",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "检索增强生成"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "RAG combines information retrieval with generation so the model can answer using external documents.",
+        "zh": "RAG将信息检索与生成结合，使模型可以基于外部文档回答问题。"
+      },
+      {
+        "en": "We adopted RAG to reduce factual errors in domain-specific Q&A.",
+        "zh": "我们采用RAG以减少垂直领域问答中的事实错误。"
+      }
+    ]
+  },
+  {
+    "word": "Prompt Engineering",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "提示工程"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "Prompt engineering is the practice of designing prompts to improve output quality and reliability.",
+        "zh": "提示工程是通过设计提示词来提升输出质量与稳定性的实践。"
+      },
+      {
+        "en": "Better prompt engineering reduced response variance across similar requests.",
+        "zh": "更好的提示工程降低了相似请求之间的回复波动。"
+      }
+    ]
+  },
+  {
+    "word": "System Prompt",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "系统提示词"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "A system prompt defines global behavior, constraints, and response style for the assistant.",
+        "zh": "系统提示词用于定义助手的全局行为、约束和回复风格。"
+      },
+      {
+        "en": "We hardened the system prompt to enforce compliance requirements.",
+        "zh": "我们加强了系统提示词以满足合规要求。"
+      }
+    ]
+  },
+  {
+    "word": "Few-shot Learning",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "小样本学习"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "Few-shot learning improves task performance by providing a small number of examples in the prompt.",
+        "zh": "小样本学习通过在提示词中提供少量示例来提升任务表现。"
+      },
+      {
+        "en": "Adding three few-shot examples fixed the output format issues.",
+        "zh": "加入三个小样本示例后，输出格式问题得到修复。"
+      }
+    ]
+  },
+  {
+    "word": "Zero-shot Learning",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "零样本学习"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "Zero-shot learning asks a model to complete a task without task-specific examples.",
+        "zh": "零样本学习是在不提供任务示例的情况下让模型完成任务。"
+      },
+      {
+        "en": "The classifier achieved decent zero-shot accuracy on unseen labels.",
+        "zh": "该分类器在未见标签上取得了不错的零样本准确率。"
+      }
+    ]
+  },
+  {
+    "word": "Hallucination",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "模型幻觉"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "Hallucination refers to confidently generated but factually incorrect or unsupported model output.",
+        "zh": "模型幻觉指模型自信生成但事实错误或缺乏依据的输出。"
+      },
+      {
+        "en": "Grounded retrieval can reduce hallucination in factual responses.",
+        "zh": "基于检索的事实支撑可降低事实类回复中的模型幻觉。"
+      }
+    ]
+  },
+  {
+    "word": "Grounding",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "事实锚定"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "Grounding is the process of constraining model outputs to verified sources or observed inputs.",
+        "zh": "事实锚定是将模型输出约束在已验证来源或观测输入上的过程。"
+      },
+      {
+        "en": "The assistant provides citations to improve grounding and trust.",
+        "zh": "该助手通过提供引用来增强事实锚定与可信度。"
+      }
+    ]
+  },
+  {
+    "word": "Guardrails",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "安全护栏"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "Guardrails are safety and policy controls that constrain model behavior and outputs.",
+        "zh": "安全护栏是用于约束模型行为与输出的安全和策略控制机制。"
+      },
+      {
+        "en": "We added guardrails to block sensitive data leakage.",
+        "zh": "我们增加了安全护栏以阻止敏感数据泄露。"
+      }
+    ]
+  },
+  {
+    "word": "Alignment",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "模型对齐"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "Alignment is the effort to make model behavior consistent with human values, intentions, and policies.",
+        "zh": "模型对齐是使模型行为与人类价值、意图和政策一致的工作。"
+      },
+      {
+        "en": "The team improved alignment through policy tuning and safety evaluations.",
+        "zh": "团队通过策略调优与安全评估提升了模型对齐效果。"
+      }
+    ]
+  },
+  {
+    "word": "Model Evaluation",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "模型评估"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "Model evaluation measures quality, safety, and robustness using benchmarks and real-world test sets.",
+        "zh": "模型评估通过基准与真实测试集衡量质量、安全性与鲁棒性。"
+      },
+      {
+        "en": "Continuous model evaluation detected regressions after each release.",
+        "zh": "持续模型评估在每次发布后都能发现性能回归。"
+      }
+    ]
+  },
+  {
+    "word": "Benchmark",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "基准测试"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "A benchmark is a standardized test used to compare model performance across tasks.",
+        "zh": "基准测试是用于比较模型在不同任务上表现的标准化测试。"
+      },
+      {
+        "en": "The benchmark includes coding, math, and multilingual understanding tasks.",
+        "zh": "该基准包含编程、数学和多语言理解任务。"
+      }
+    ]
+  },
+  {
+    "word": "Inference",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "模型推理"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "Inference is the stage where a trained model generates outputs for new inputs.",
+        "zh": "模型推理是已训练模型对新输入生成输出的阶段。"
+      },
+      {
+        "en": "GPU optimization reduced inference time for interactive requests.",
+        "zh": "GPU优化降低了交互请求的推理耗时。"
+      }
+    ]
+  },
+  {
+    "word": "Latency",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "延迟"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "Latency is the time delay between sending a request and receiving the model response.",
+        "zh": "延迟是从发送请求到接收模型回复之间的时间差。"
+      },
+      {
+        "en": "Streaming responses can improve perceived latency for users.",
+        "zh": "流式回复可以改善用户感知延迟。"
+      }
+    ]
+  },
+  {
+    "word": "Throughput",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "吞吐量"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "Throughput is the amount of work, such as tokens or requests, processed per unit time.",
+        "zh": "吞吐量是单位时间内处理的工作量，如词元数或请求数。"
+      },
+      {
+        "en": "Batching increased throughput in the offline inference job.",
+        "zh": "批处理提升了离线推理任务的吞吐量。"
+      }
+    ]
+  },
+  {
+    "word": "Quantization",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "量化"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "Quantization compresses model weights to lower precision formats to reduce memory and compute cost.",
+        "zh": "量化通过将模型权重压缩为低精度格式来降低内存和计算成本。"
+      },
+      {
+        "en": "The team used 4-bit quantization for edge deployment.",
+        "zh": "团队在边缘部署中使用了4位量化。"
+      }
+    ]
+  },
+  {
+    "word": "Distillation",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "知识蒸馏"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "Distillation trains a smaller student model to mimic a larger teacher model.",
+        "zh": "知识蒸馏通过让小型学生模型模仿大型教师模型来进行训练。"
+      },
+      {
+        "en": "Distillation preserved quality while cutting inference costs.",
+        "zh": "知识蒸馏在保持质量的同时降低了推理成本。"
+      }
+    ]
+  },
+  {
+    "word": "LoRA",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "低秩适配"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "LoRA is a parameter-efficient tuning method that updates low-rank matrices instead of all model weights.",
+        "zh": "LoRA是一种参数高效微调方法，通过更新低秩矩阵而非全部权重来适配模型。"
+      },
+      {
+        "en": "We used LoRA to customize the base model with limited GPU memory.",
+        "zh": "我们使用LoRA在有限GPU显存下定制了基础模型。"
+      }
+    ]
+  },
+  {
+    "word": "PEFT",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "参数高效微调"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "PEFT is a family of methods that adapts large models by training only a small subset of parameters.",
+        "zh": "参数高效微调是一类仅训练少量参数来适配大模型的方法。"
+      },
+      {
+        "en": "PEFT reduced both training time and deployment complexity.",
+        "zh": "参数高效微调同时降低了训练时间与部署复杂度。"
+      }
+    ]
+  },
+  {
+    "word": "AI Agent",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "AI智能体"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "An AI agent is a system that can plan, reason, and act by calling tools to complete goals.",
+        "zh": "AI智能体是一种能够通过调用工具进行规划、推理并执行任务以完成目标的系统。"
+      },
+      {
+        "en": "The AI agent scheduled meetings and drafted follow-up emails automatically.",
+        "zh": "该AI智能体自动安排会议并起草后续邮件。"
+      }
+    ]
+  },
+  {
+    "word": "Tool Calling",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "工具调用"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "Tool calling allows a model to invoke external APIs or functions during a conversation.",
+        "zh": "工具调用允许模型在对话过程中调用外部API或函数。"
+      },
+      {
+        "en": "Tool calling enabled the assistant to query weather and calendar data.",
+        "zh": "工具调用使助手能够查询天气和日历数据。"
+      }
+    ]
+  },
+  {
+    "word": "Function Calling",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "函数调用"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "Function calling is a structured interface where models return machine-readable arguments for predefined functions.",
+        "zh": "函数调用是一种结构化接口，模型可返回可机读参数以调用预定义函数。"
+      },
+      {
+        "en": "We used function calling to ensure deterministic API invocations.",
+        "zh": "我们使用函数调用来确保API调用具备确定性。"
+      }
+    ]
+  },
+  {
+    "word": "Jailbreak",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "越狱提示攻击"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "A jailbreak is an adversarial prompt technique that attempts to bypass model safety constraints.",
+        "zh": "越狱提示攻击是一种试图绕过模型安全约束的对抗性提示技术。"
+      },
+      {
+        "en": "The red team tested jailbreak resistance before launch.",
+        "zh": "红队在上线前测试了模型对越狱攻击的抵抗能力。"
+      }
+    ]
+  },
+  {
+    "word": "Red Teaming",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "红队测试"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "Red teaming is a stress-testing process where experts probe models for safety, security, and misuse risks.",
+        "zh": "红队测试是由专家对模型进行压力测试，以发现安全、可靠性与滥用风险的过程。"
+      },
+      {
+        "en": "Regular red teaming uncovered prompt injection vulnerabilities.",
+        "zh": "定期红队测试发现了提示注入漏洞。"
+      }
+    ]
+  },
+  {
+    "word": "Prompt Injection",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "提示注入"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "Prompt injection is an attack where untrusted input manipulates model instructions and behavior.",
+        "zh": "提示注入是一种通过不可信输入篡改模型指令与行为的攻击方式。"
+      },
+      {
+        "en": "Sanitizing retrieved text can reduce prompt injection risk in RAG systems.",
+        "zh": "在RAG系统中清洗检索文本可降低提示注入风险。"
+      }
+    ]
+  },
+  {
+    "word": "KV Cache",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "键值缓存"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "KV cache stores intermediate attention states to speed up autoregressive generation.",
+        "zh": "键值缓存会保存中间注意力状态，以加速自回归生成。"
+      },
+      {
+        "en": "Enabling KV cache significantly reduced decoding latency.",
+        "zh": "启用键值缓存后，解码延迟显著下降。"
+      }
+    ]
+  },
+  {
+    "word": "Speculative Decoding",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "推测解码"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "Speculative decoding accelerates generation by drafting tokens with a small model and verifying them with a larger model.",
+        "zh": "推测解码通过小模型先起草词元、再由大模型验证来加速生成。"
+      },
+      {
+        "en": "The serving stack used speculative decoding to improve throughput.",
+        "zh": "服务栈使用推测解码提升了吞吐量。"
+      }
+    ]
+  }
+]
