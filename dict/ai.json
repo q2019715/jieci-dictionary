@@ -171,6 +171,94 @@
     ]
   },
   {
+    "word": "deepseek",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "DeepSeek公司"
+      },
+      {
+        "type": "n",
+        "translation": "深度求索"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "DeepSeek is an AI company known for releasing large language models with strong reasoning and coding capabilities.",
+        "zh": "DeepSeek是一家人工智能公司，以发布具备较强推理与编程能力的大语言模型而受到关注。"
+      },
+      {
+        "en": "Our evaluation included DeepSeek models for math and software tasks.",
+        "zh": "我们的评测纳入了DeepSeek模型，用于数学与软件任务。"
+      }
+    ]
+  },
+  {
+    "word": "google",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "谷歌"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "Google is a technology company with major AI products, research teams, and cloud AI services.",
+        "zh": "Google是一家科技公司，拥有重要的AI产品、研究团队和云端AI服务。"
+      },
+      {
+        "en": "The team compared Google models and APIs with other providers.",
+        "zh": "团队将Google的模型与API和其他提供商进行了对比。"
+      }
+    ]
+  },
+  {
+    "word": "aws",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "亚马逊云科技"
+      },
+      {
+        "type": "n",
+        "translation": "Amazon Web Services"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "AWS is Amazon's cloud platform that provides AI infrastructure, model hosting, and managed AI services.",
+        "zh": "AWS是亚马逊的云平台，提供AI基础设施、模型托管和托管式AI服务。"
+      },
+      {
+        "en": "We deployed the inference service on AWS for scalability.",
+        "zh": "我们将推理服务部署在AWS上以获得更好的可扩展性。"
+      }
+    ]
+  },
+  {
+    "word": "azure",
+    "translations": [
+      {
+        "type": "n",
+        "translation": "微软Azure"
+      },
+      {
+        "type": "n",
+        "translation": "Azure云平台"
+      }
+    ],
+    "sentence_examples": [
+      {
+        "en": "Azure is Microsoft's cloud platform with enterprise AI services, model deployment tools, and data infrastructure.",
+        "zh": "Azure是微软的云平台，提供企业级AI服务、模型部署工具和数据基础设施。"
+      },
+      {
+        "en": "The enterprise integrated Azure AI services into its document workflow.",
+        "zh": "该企业将Azure AI服务集成到了文档工作流中。"
+      }
+    ]
+  },
+  {
     "word": "Stability AI",
     "translations": [
       {
