@@ -8,7 +8,9 @@ variables:
 
 sync_s3:
   stage: sync
-  image: public.ecr.aws/aws-cli/aws-cli:latest
+  image:
+    name: public.ecr.aws/aws-cli/aws-cli:latest
+    entrypoint: [""]
   tags: [docker]   # 需要 Docker executor 的 runner 标签
   rules:
     - if: '$CI_PIPELINE_SOURCE == "push" && $CI_COMMIT_BRANCH == "main"'
