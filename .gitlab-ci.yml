@@ -5,6 +5,10 @@ stages:
 variables:
   S3_BUCKET: "jieci-dict"
   S3_ENDPOINT: "https://cn-sy1.rains3.com"
+  AWS_RETRY_MODE: "standard"
+  AWS_MAX_ATTEMPTS: "10"
+  AWS_REQUEST_CHECKSUM_CALCULATION: "when_required"
+  AWS_RESPONSE_CHECKSUM_VALIDATION: "when_required"
 
 sync_s3:
   stage: sync
@@ -20,7 +24,21 @@ sync_s3:
     - test -n "$AWS_SECRET_ACCESS_KEY"
     - aws configure set default.s3.addressing_style path
     - aws s3 ls "s3://$S3_BUCKET" --endpoint-url "$S3_ENDPOINT"
-    - aws s3 sync "$CI_PROJECT_DIR/" "s3://$S3_BUCKET/" --endpoint-url "$S3_ENDPOINT" --delete --exclude ".git/*" --exclude ".gitlab-ci.yml" --exclude ".idea/*" --exclude "README.md"
+    - |
+      i=1
+      while [ "$i" -le 3 ]; do
+        if aws s3 sync "$CI_PROJECT_DIR/" "s3://$S3_BUCKET/" --endpoint-url "$S3_ENDPOINT" --delete --exclude ".git/*" --exclude ".gitlab-ci.yml" --exclude ".idea/*" --exclude "README.md"; then
+          break
+        fi
+        if [ "$i" -eq 3 ]; then
+          echo "aws s3 sync failed after $i attempts"
+          exit 1
+        fi
+        wait_sec=$((i * 10))
+        echo "aws s3 sync attempt $i failed, retry in ${wait_sec}s..."
+        sleep "$wait_sec"
+        i=$((i + 1))
+      done
 
 deploy_prod:
   stage: deploy
