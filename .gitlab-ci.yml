@@ -23,11 +23,48 @@ sync_s3:
     - test -n "$AWS_ACCESS_KEY_ID"
     - test -n "$AWS_SECRET_ACCESS_KEY"
     - aws configure set default.s3.addressing_style path
+    - WORKDIR="/tmp/publish-src"
+    - rm -rf "$WORKDIR"
+    - cp -a "$CI_PROJECT_DIR/." "$WORKDIR/"
+    - PY_BIN="$(command -v python3 || command -v python)"
+    - test -n "$PY_BIN"
+    - |
+      "$PY_BIN" - << 'PY'
+      import json
+      from pathlib import Path
+
+      root = Path("/tmp/publish-src")
+      index_path = root / "dict" / "index.json"
+      data = json.loads(index_path.read_text(encoding="utf-8"))
+
+      filtered = []
+      removed_files = set()
+      for item in data:
+        tags = item.get("tags") or []
+        if "来自github" in tags:
+          filename = item.get("filename")
+          if filename:
+            removed_files.add(filename)
+          continue
+        filtered.append(item)
+
+      for filename in removed_files:
+        target = root / "dict" / filename
+        if target.exists():
+          target.unlink()
+
+      index_path.write_text(
+        json.dumps(filtered, ensure_ascii=False, indent=2) + "\n",
+        encoding="utf-8",
+      )
+      print(f"filtered index entries: {len(data)} -> {len(filtered)}")
+      print(f"removed dict files: {sorted(removed_files)}")
+      PY
     - aws s3 ls "s3://$S3_BUCKET" --endpoint-url "$S3_ENDPOINT"
     - |
       i=1
       while [ "$i" -le 3 ]; do
-        if aws s3 sync "$CI_PROJECT_DIR/" "s3://$S3_BUCKET/" --endpoint-url "$S3_ENDPOINT" --delete --exclude ".git/*" --exclude ".gitlab-ci.yml" --exclude ".idea/*" --exclude "README.md"; then
+        if aws s3 sync "$WORKDIR/" "s3://$S3_BUCKET/" --endpoint-url "$S3_ENDPOINT" --delete --exclude ".git/*" --exclude ".gitlab-ci.yml" --exclude ".idea/*" --exclude "README.md"; then
           break
         fi
         if [ "$i" -eq 3 ]; then
