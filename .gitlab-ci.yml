@@ -1,9 +1,29 @@
-stages: [deploy]
+stages:
+  - sync
+  - deploy
+
+variables:
+  S3_BUCKET: "jieci-dict"
+  S3_ENDPOINT: "https://cn-sy1.rains3.com"
+
+sync_s3:
+  stage: sync
+  image: amazon/aws-cli:2
+  tags: [docker]   # 需要 Docker executor 的 runner 标签
+  rules:
+    - if: '$CI_PIPELINE_SOURCE == "push" && $CI_COMMIT_BRANCH == "main"'
+  script:
+    - set -eu
+    - test -n "$AWS_ACCESS_KEY_ID"
+    - test -n "$AWS_SECRET_ACCESS_KEY"
+    - aws s3 ls "s3://$S3_BUCKET" --endpoint-url "$S3_ENDPOINT"
+    - aws s3 sync "$CI_PROJECT_DIR/" "s3://$S3_BUCKET/" --endpoint-url "$S3_ENDPOINT" --delete --exclude ".git/*" --exclude ".gitlab-ci.yml" --exclude ".idea/*" --exclude "README.md"
 
 deploy_prod:
   stage: deploy
   tags: [web]   # 没有 tag 就删掉这一行
   resource_group: prod_deploy
+  needs: ["sync_s3"]
   rules:
     - if: '$CI_PIPELINE_SOURCE == "push" && $CI_COMMIT_BRANCH == "main"'
   script:
