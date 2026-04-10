@@ -4,7 +4,7 @@ stages:
 
 variables:
   S3_BUCKET: "jieci-dict"
-  S3_ENDPOINT: "https://cn-sy1.rains3.com"
+  S3_ENDPOINT: "https://s3.cn-south-1.qiniucs.com"
   AWS_RETRY_MODE: "standard"
   AWS_MAX_ATTEMPTS: "10"
   AWS_REQUEST_CHECKSUM_CALCULATION: "when_required"
