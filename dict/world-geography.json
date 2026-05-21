@@ -1,6 +1,10 @@
 [
   {
     "word": "Afghanistan",
+    "phonetics": {
+      "uk": "/æfˈɡænəˌstæn/",
+      "us": "/æfˈɡænəˌstæn/"
+    },
     "translations": [
       {
         "type": "n",
@@ -26,6 +30,10 @@
   },
   {
     "word": "Albania",
+    "phonetics": {
+      "uk": "/æɫˈbeɪniə/",
+      "us": "/æɫˈbeɪniə/"
+    },
     "translations": [
       {
         "type": "n",
@@ -51,6 +59,10 @@
   },
   {
     "word": "Algeria",
+    "phonetics": {
+      "uk": "/æɫˈdʒɪɹiə/",
+      "us": "/æɫˈdʒɪɹiə/"
+    },
     "translations": [
       {
         "type": "n",
@@ -76,6 +88,10 @@
   },
   {
     "word": "Andorra",
+    "phonetics": {
+      "uk": "/ænˈdɔɹə/",
+      "us": "/ænˈdɔɹə/"
+    },
     "translations": [
       {
         "type": "n",
@@ -101,6 +117,10 @@
   },
   {
     "word": "Angola",
+    "phonetics": {
+      "uk": "/æŋˈɡoʊɫə/",
+      "us": "/æŋˈɡoʊɫə/"
+    },
     "translations": [
       {
         "type": "n",
@@ -126,6 +146,10 @@
   },
   {
     "word": "Antigua & Barbuda",
+    "phonetics": {
+      "uk": "/ænˌtiːɡə ænd bɑːˈbjuːdə/",
+      "us": "/ænˌtiːɡə ænd bɑːrˈbjuːdə/"
+    },
     "translations": [
       {
         "type": "n",
@@ -151,6 +175,10 @@
   },
   {
     "word": "Argentina",
+    "phonetics": {
+      "uk": "/ˌɑɹdʒənˈtinə/",
+      "us": "/ˌɑɹdʒənˈtinə/"
+    },
     "translations": [
       {
         "type": "n",
@@ -176,6 +204,10 @@
   },
   {
     "word": "Armenia",
+    "phonetics": {
+      "uk": "/ɑɹˈminiə/",
+      "us": "/ɑɹˈminiə/"
+    },
     "translations": [
       {
         "type": "n",
@@ -201,6 +233,10 @@
   },
   {
     "word": "Australia",
+    "phonetics": {
+      "uk": "/ɔˈstɹeɪɫjə/",
+      "us": "/ɔˈstɹeɪɫjə/"
+    },
     "translations": [
       {
         "type": "n",
@@ -226,6 +262,10 @@
   },
   {
     "word": "Austria",
+    "phonetics": {
+      "uk": "/ˈɔstɹiə/",
+      "us": "/ˈɔstɹiə/"
+    },
     "translations": [
       {
         "type": "n",
@@ -251,6 +291,10 @@
   },
   {
     "word": "Azerbaijan",
+    "phonetics": {
+      "uk": "/ˌæzɝbaɪˈdʒɑn/",
+      "us": "/ˌæzɝbaɪˈdʒɑn/"
+    },
     "translations": [
       {
         "type": "n",
@@ -276,6 +320,10 @@
   },
   {
     "word": "Bahamas",
+    "phonetics": {
+      "uk": "/bəˈhɑməz/",
+      "us": "/bəˈhɑməz/"
+    },
     "translations": [
       {
         "type": "n",
@@ -301,6 +349,10 @@
   },
   {
     "word": "Bahrain",
+    "phonetics": {
+      "uk": "/baɪˈɹeɪn/",
+      "us": "/baɪˈɹeɪn/"
+    },
     "translations": [
       {
         "type": "n",
@@ -326,6 +378,10 @@
   },
   {
     "word": "Bangladesh",
+    "phonetics": {
+      "uk": "/ˈbæŋɫəˌdɛʃ/",
+      "us": "/ˈbæŋɫəˌdɛʃ/"
+    },
     "translations": [
       {
         "type": "n",
@@ -351,6 +407,10 @@
   },
   {
     "word": "Barbados",
+    "phonetics": {
+      "uk": "/bɑɹˈbeɪdoʊs/",
+      "us": "/bɑɹˈbeɪdoʊs/"
+    },
     "translations": [
       {
         "type": "n",
@@ -376,6 +436,10 @@
   },
   {
     "word": "Belarus",
+    "phonetics": {
+      "uk": "/bɛˈɫɑɹəs/",
+      "us": "/bɛˈɫɑɹəs/"
+    },
     "translations": [
       {
         "type": "n",
@@ -401,6 +465,10 @@
   },
   {
     "word": "Belgium",
+    "phonetics": {
+      "uk": "/ˈbɛɫdʒəm/",
+      "us": "/ˈbɛɫdʒəm/"
+    },
     "translations": [
       {
         "type": "n",
@@ -426,6 +494,10 @@
   },
   {
     "word": "Belize",
+    "phonetics": {
+      "uk": "/bɛˈɫiz/",
+      "us": "/bɛˈɫiz/"
+    },
     "translations": [
       {
         "type": "n",
@@ -451,6 +523,10 @@
   },
   {
     "word": "Benin",
+    "phonetics": {
+      "uk": "/ˈbinɪn/",
+      "us": "/ˈbinɪn/"
+    },
     "translations": [
       {
         "type": "n",
@@ -476,6 +552,10 @@
   },
   {
     "word": "Bhutan",
+    "phonetics": {
+      "uk": "/ˌbuˈtæn/",
+      "us": "/ˌbuˈtæn/"
+    },
     "translations": [
       {
         "type": "n",
@@ -501,6 +581,10 @@
   },
   {
     "word": "Bolivia",
+    "phonetics": {
+      "uk": "/bəˈɫɪviə/",
+      "us": "/bəˈɫɪviə/"
+    },
     "translations": [
       {
         "type": "n",
@@ -530,6 +614,10 @@
   },
   {
     "word": "Bosnia & Herzegovina",
+    "phonetics": {
+      "uk": "/ˌbɒzniə ænd ˌhɜːtsəɡəˈviːnə/",
+      "us": "/ˌbɑːzniə ænd ˌhɜːrtsəɡəˈviːnə/"
+    },
     "translations": [
       {
         "type": "n",
@@ -555,6 +643,10 @@
   },
   {
     "word": "Botswana",
+    "phonetics": {
+      "uk": "/bɑtˈswɑnə/",
+      "us": "/bɑtˈswɑnə/"
+    },
     "translations": [
       {
         "type": "n",
@@ -580,6 +672,10 @@
   },
   {
     "word": "Brazil",
+    "phonetics": {
+      "uk": "/bɹɐzˈɪl/",
+      "us": "/bɹəˈzɪɫ/"
+    },
     "translations": [
       {
         "type": "n",
@@ -605,6 +701,10 @@
   },
   {
     "word": "Brunei",
+    "phonetics": {
+      "uk": "/bɹuˈnaɪ/",
+      "us": "/bɹuˈnaɪ/"
+    },
     "translations": [
       {
         "type": "n",
@@ -634,6 +734,10 @@
   },
   {
     "word": "Bulgaria",
+    "phonetics": {
+      "uk": "/bəɫˈɡɛɹiə/",
+      "us": "/bəɫˈɡɛɹiə/"
+    },
     "translations": [
       {
         "type": "n",
@@ -659,6 +763,10 @@
   },
   {
     "word": "Burkina Faso",
+    "phonetics": {
+      "uk": "/bɝˈkinə ˈfɑsoʊ/",
+      "us": "/bɝˈkinə ˈfɑsoʊ/"
+    },
     "translations": [
       {
         "type": "n",
@@ -684,6 +792,10 @@
   },
   {
     "word": "Burundi",
+    "phonetics": {
+      "uk": "/bɝˈəndi/",
+      "us": "/bɝˈəndi/"
+    },
     "translations": [
       {
         "type": "n",
@@ -709,6 +821,10 @@
   },
   {
     "word": "Cape Verde",
+    "phonetics": {
+      "uk": "/ˈkeɪp ˈvɝdi/",
+      "us": "/ˈkeɪp ˈvɝdi/"
+    },
     "translations": [
       {
         "type": "n",
@@ -738,6 +854,10 @@
   },
   {
     "word": "Cambodia",
+    "phonetics": {
+      "uk": "/ˌkæmˈboʊdiə/",
+      "us": "/ˌkæmˈboʊdiə/"
+    },
     "translations": [
       {
         "type": "n",
@@ -763,6 +883,10 @@
   },
   {
     "word": "Cameroon",
+    "phonetics": {
+      "uk": "/ˈkæmɝˌun/",
+      "us": "/ˈkæmɝˌun/"
+    },
     "translations": [
       {
         "type": "n",
@@ -788,6 +912,10 @@
   },
   {
     "word": "Canada",
+    "phonetics": {
+      "uk": "/ˈkænədə/",
+      "us": "/ˈkænədə/"
+    },
     "translations": [
       {
         "type": "n",
@@ -813,6 +941,10 @@
   },
   {
     "word": "Central African Republic",
+    "phonetics": {
+      "uk": "/ˈsɛntɹəɫ ˈæfɹəkən ɹiˈpəbɫək/",
+      "us": "/ˈsɛntɹəɫ ˈæfɹəkən ɹiˈpəbɫək/"
+    },
     "translations": [
       {
         "type": "n",
@@ -838,6 +970,10 @@
   },
   {
     "word": "Chad",
+    "phonetics": {
+      "uk": "/tʃˈæd/",
+      "us": "/ˈtʃæd/"
+    },
     "translations": [
       {
         "type": "n",
@@ -863,6 +999,10 @@
   },
   {
     "word": "Chile",
+    "phonetics": {
+      "uk": "/tʃˈɪli/",
+      "us": "/ˈtʃɪɫi/"
+    },
     "translations": [
       {
         "type": "n",
@@ -888,6 +1028,10 @@
   },
   {
     "word": "China",
+    "phonetics": {
+      "uk": "/tʃˈaɪnɐ/",
+      "us": "/ˈtʃaɪnə/"
+    },
     "translations": [
       {
         "type": "n",
@@ -913,6 +1057,10 @@
   },
   {
     "word": "Colombia",
+    "phonetics": {
+      "uk": "/kəˈɫəmbiə/",
+      "us": "/kəˈɫəmbiə/"
+    },
     "translations": [
       {
         "type": "n",
@@ -938,6 +1086,10 @@
   },
   {
     "word": "Comoros",
+    "phonetics": {
+      "uk": "/kɔˈmɔˌɹoʊs/",
+      "us": "/kɔˈmɔˌɹoʊs/"
+    },
     "translations": [
       {
         "type": "n",
@@ -963,6 +1115,10 @@
   },
   {
     "word": "Republic of the Congo",
+    "phonetics": {
+      "uk": "/ɹiˈpəbɫək ˈəv ˈðə ˈkɑŋɡoʊ/",
+      "us": "/ɹiˈpəbɫək ˈəv ˈðə ˈkɑŋɡoʊ/"
+    },
     "translations": [
       {
         "type": "n",
@@ -992,6 +1148,10 @@
   },
   {
     "word": "Democratic Republic of the Congo",
+    "phonetics": {
+      "uk": "/ˌdɛməˈkɹætɪk ɹiˈpəbɫək ˈəv ˈðə ˈkɑŋɡoʊ/",
+      "us": "/ˌdɛməˈkɹætɪk ɹiˈpəbɫək ˈəv ˈðə ˈkɑŋɡoʊ/"
+    },
     "translations": [
       {
         "type": "n",
@@ -1025,6 +1185,10 @@
   },
   {
     "word": "Costa Rica",
+    "phonetics": {
+      "uk": "/ˈkɔstɑ ˈɹikə/",
+      "us": "/ˈkɔstɑ ˈɹikə/"
+    },
     "translations": [
       {
         "type": "n",
@@ -1050,6 +1214,10 @@
   },
   {
     "word": "Cote d'Ivoire",
+    "phonetics": {
+      "uk": "/ˌkəʊt dɪˈvwɑː/",
+      "us": "/ˌkoʊt dɪˈvwɑːr/"
+    },
     "translations": [
       {
         "type": "n",
@@ -1083,6 +1251,10 @@
   },
   {
     "word": "Croatia",
+    "phonetics": {
+      "uk": "/kɹoʊˈeɪʃə/",
+      "us": "/kɹoʊˈeɪʃə/"
+    },
     "translations": [
       {
         "type": "n",
@@ -1108,6 +1280,10 @@
   },
   {
     "word": "Cuba",
+    "phonetics": {
+      "uk": "/ˈkjubə/",
+      "us": "/ˈkjubə/"
+    },
     "translations": [
       {
         "type": "n",
@@ -1133,6 +1309,10 @@
   },
   {
     "word": "Cyprus",
+    "phonetics": {
+      "uk": "/ˈsaɪpɹəs/",
+      "us": "/ˈsaɪpɹəs/"
+    },
     "translations": [
       {
         "type": "n",
@@ -1158,6 +1338,10 @@
   },
   {
     "word": "Czech Republic",
+    "phonetics": {
+      "uk": "/ˈtʃɛk ɹiˈpəbɫək/",
+      "us": "/ˈtʃɛk ɹiˈpəbɫək/"
+    },
     "translations": [
       {
         "type": "n",
@@ -1187,6 +1371,10 @@
   },
   {
     "word": "Denmark",
+    "phonetics": {
+      "uk": "/ˈdɛnˌmɑɹk/",
+      "us": "/ˈdɛnˌmɑɹk/"
+    },
     "translations": [
       {
         "type": "n",
@@ -1212,6 +1400,10 @@
   },
   {
     "word": "Djibouti",
+    "phonetics": {
+      "uk": "/dʒɪˈbuˌti/",
+      "us": "/dʒɪˈbuˌti/"
+    },
     "translations": [
       {
         "type": "n",
@@ -1237,6 +1429,10 @@
   },
   {
     "word": "Dominica",
+    "phonetics": {
+      "uk": "/dəˈmɪnɪkə/",
+      "us": "/dəˈmɪnɪkə/"
+    },
     "translations": [
       {
         "type": "n",
@@ -1262,6 +1458,10 @@
   },
   {
     "word": "Dominican Republic",
+    "phonetics": {
+      "uk": "/dəˈmɪnəkən ɹiˈpəbɫək/",
+      "us": "/dəˈmɪnəkən ɹiˈpəbɫək/"
+    },
     "translations": [
       {
         "type": "n",
@@ -1287,6 +1487,10 @@
   },
   {
     "word": "Ecuador",
+    "phonetics": {
+      "uk": "/ˈɛkwəˌdɔɹ/",
+      "us": "/ˈɛkwəˌdɔɹ/"
+    },
     "translations": [
       {
         "type": "n",
@@ -1312,6 +1516,10 @@
   },
   {
     "word": "Egypt",
+    "phonetics": {
+      "uk": "/ˈidʒəpt/",
+      "us": "/ˈidʒəpt/"
+    },
     "translations": [
       {
         "type": "n",
@@ -1337,6 +1545,10 @@
   },
   {
     "word": "El Salvador",
+    "phonetics": {
+      "uk": "/ˈɛɫ ˈsæɫvəˌdɔɹ/",
+      "us": "/ˈɛɫ ˈsæɫvəˌdɔɹ/"
+    },
     "translations": [
       {
         "type": "n",
@@ -1362,6 +1574,10 @@
   },
   {
     "word": "Equatorial Guinea",
+    "phonetics": {
+      "uk": "/ɪkwɐtˈɔːɹɪəl ɡˈɪni/",
+      "us": "/ˌikwəˈtɔɹiəɫ ˈɡɪni/"
+    },
     "translations": [
       {
         "type": "n",
@@ -1387,6 +1603,10 @@
   },
   {
     "word": "Eritrea",
+    "phonetics": {
+      "uk": "/ˌɛɹɪˈtɹeɪə/",
+      "us": "/ˌɛɹɪˈtɹeɪə/"
+    },
     "translations": [
       {
         "type": "n",
@@ -1412,6 +1632,10 @@
   },
   {
     "word": "Estonia",
+    "phonetics": {
+      "uk": "/ɛˈstoʊniə/",
+      "us": "/ɛˈstoʊniə/"
+    },
     "translations": [
       {
         "type": "n",
@@ -1437,6 +1661,10 @@
   },
   {
     "word": "Eswatini",
+    "phonetics": {
+      "uk": "/ˌɛswɑːˈtiːni/",
+      "us": "/ˌɛswɑːˈtiːni/"
+    },
     "translations": [
       {
         "type": "n",
@@ -1462,6 +1690,10 @@
   },
   {
     "word": "Ethiopia",
+    "phonetics": {
+      "uk": "/ˌiθiˈoʊpiə/",
+      "us": "/ˌiθiˈoʊpiə/"
+    },
     "translations": [
       {
         "type": "n",
@@ -1487,6 +1719,10 @@
   },
   {
     "word": "Fiji",
+    "phonetics": {
+      "uk": "/ˈfidʒi/",
+      "us": "/ˈfidʒi/"
+    },
     "translations": [
       {
         "type": "n",
@@ -1512,6 +1748,10 @@
   },
   {
     "word": "Finland",
+    "phonetics": {
+      "uk": "/ˈfɪnˌɫænd/",
+      "us": "/ˈfɪnˌɫænd/"
+    },
     "translations": [
       {
         "type": "n",
@@ -1537,6 +1777,10 @@
   },
   {
     "word": "France",
+    "phonetics": {
+      "uk": "/ˈfɹæns/",
+      "us": "/ˈfɹæns/"
+    },
     "translations": [
       {
         "type": "n",
@@ -1562,6 +1806,10 @@
   },
   {
     "word": "Gabon",
+    "phonetics": {
+      "uk": "/ɡəˈbɑn/",
+      "us": "/ɡəˈbɑn/"
+    },
     "translations": [
       {
         "type": "n",
@@ -1587,6 +1835,10 @@
   },
   {
     "word": "Gambia",
+    "phonetics": {
+      "uk": "/ˈɡæmbiə/",
+      "us": "/ˈɡæmbiə/"
+    },
     "translations": [
       {
         "type": "n",
@@ -1612,6 +1864,10 @@
   },
   {
     "word": "Georgia",
+    "phonetics": {
+      "uk": "/ˈdʒɔɹdʒə/",
+      "us": "/ˈdʒɔɹdʒə/"
+    },
     "translations": [
       {
         "type": "n",
@@ -1637,6 +1893,10 @@
   },
   {
     "word": "Germany",
+    "phonetics": {
+      "uk": "/ˈdʒɝməni/",
+      "us": "/ˈdʒɝməni/"
+    },
     "translations": [
       {
         "type": "n",
@@ -1662,6 +1922,10 @@
   },
   {
     "word": "Ghana",
+    "phonetics": {
+      "uk": "/ˈɡænə/",
+      "us": "/ˈɡænə/"
+    },
     "translations": [
       {
         "type": "n",
@@ -1687,6 +1951,10 @@
   },
   {
     "word": "Greece",
+    "phonetics": {
+      "uk": "/ˈɡɹis/",
+      "us": "/ˈɡɹis/"
+    },
     "translations": [
       {
         "type": "n",
@@ -1712,6 +1980,10 @@
   },
   {
     "word": "Grenada",
+    "phonetics": {
+      "uk": "/ɡɹɪˈnɑdə/",
+      "us": "/ɡɹɪˈnɑdə/"
+    },
     "translations": [
       {
         "type": "n",
@@ -1737,6 +2009,10 @@
   },
   {
     "word": "Guatemala",
+    "phonetics": {
+      "uk": "/ˌɡwɑtəˈmɑɫə/",
+      "us": "/ˌɡwɑtəˈmɑɫə/"
+    },
     "translations": [
       {
         "type": "n",
@@ -1762,6 +2038,10 @@
   },
   {
     "word": "Guinea",
+    "phonetics": {
+      "uk": "/ɡˈɪni/",
+      "us": "/ˈɡɪni/"
+    },
     "translations": [
       {
         "type": "n",
@@ -1787,6 +2067,10 @@
   },
   {
     "word": "Guinea-Bissau",
+    "phonetics": {
+      "uk": "/ˌɡɪni bɪˈsaʊ/",
+      "us": "/ˌɡɪni bɪˈsaʊ/"
+    },
     "translations": [
       {
         "type": "n",
@@ -1812,6 +2096,10 @@
   },
   {
     "word": "Guyana",
+    "phonetics": {
+      "uk": "/ˌɡaɪˈɑnə/",
+      "us": "/ˌɡaɪˈɑnə/"
+    },
     "translations": [
       {
         "type": "n",
@@ -1837,6 +2125,10 @@
   },
   {
     "word": "Haiti",
+    "phonetics": {
+      "uk": "/ˈheɪti/",
+      "us": "/ˈheɪti/"
+    },
     "translations": [
       {
         "type": "n",
@@ -1862,6 +2154,10 @@
   },
   {
     "word": "Honduras",
+    "phonetics": {
+      "uk": "/hɑnˈdʊɹəs/",
+      "us": "/hɑnˈdʊɹəs/"
+    },
     "translations": [
       {
         "type": "n",
@@ -1887,6 +2183,10 @@
   },
   {
     "word": "Hungary",
+    "phonetics": {
+      "uk": "/ˈhəŋɡɝi/",
+      "us": "/ˈhəŋɡɝi/"
+    },
     "translations": [
       {
         "type": "n",
@@ -1912,6 +2212,10 @@
   },
   {
     "word": "Iceland",
+    "phonetics": {
+      "uk": "/ˈaɪsɫənd/",
+      "us": "/ˈaɪsɫənd/"
+    },
     "translations": [
       {
         "type": "n",
@@ -1937,6 +2241,10 @@
   },
   {
     "word": "India",
+    "phonetics": {
+      "uk": "/ˈɪndiə/",
+      "us": "/ˈɪndiə/"
+    },
     "translations": [
       {
         "type": "n",
@@ -1962,6 +2270,10 @@
   },
   {
     "word": "Indonesia",
+    "phonetics": {
+      "uk": "/ˌɪndoʊˈniʒə/",
+      "us": "/ˌɪndoʊˈniʒə/"
+    },
     "translations": [
       {
         "type": "n",
@@ -1987,6 +2299,10 @@
   },
   {
     "word": "Iran",
+    "phonetics": {
+      "uk": "/ˌaɪˈɹæn/",
+      "us": "/ˌaɪˈɹæn/"
+    },
     "translations": [
       {
         "type": "n",
@@ -2016,6 +2332,10 @@
   },
   {
     "word": "Iraq",
+    "phonetics": {
+      "uk": "/ˌaɪˈɹɑk/",
+      "us": "/ˌaɪˈɹɑk/"
+    },
     "translations": [
       {
         "type": "n",
@@ -2041,6 +2361,10 @@
   },
   {
     "word": "Ireland",
+    "phonetics": {
+      "uk": "/ˈaɪɝɫənd/",
+      "us": "/ˈaɪɝɫənd/"
+    },
     "translations": [
       {
         "type": "n",
@@ -2066,6 +2390,10 @@
   },
   {
     "word": "Israel",
+    "phonetics": {
+      "uk": "/ˈɪzɹeɪɫ/",
+      "us": "/ˈɪzɹeɪɫ/"
+    },
     "translations": [
       {
         "type": "n",
@@ -2091,6 +2419,10 @@
   },
   {
     "word": "Italy",
+    "phonetics": {
+      "uk": "/ˈɪtəɫi/",
+      "us": "/ˈɪtəɫi/"
+    },
     "translations": [
       {
         "type": "n",
@@ -2116,6 +2448,10 @@
   },
   {
     "word": "Jamaica",
+    "phonetics": {
+      "uk": "/dʒəˈmeɪkə/",
+      "us": "/dʒəˈmeɪkə/"
+    },
     "translations": [
       {
         "type": "n",
@@ -2141,6 +2477,10 @@
   },
   {
     "word": "Japan",
+    "phonetics": {
+      "uk": "/dʒəpˈæn/",
+      "us": "/dʒəˈpæn/"
+    },
     "translations": [
       {
         "type": "n",
@@ -2166,6 +2506,10 @@
   },
   {
     "word": "Jordan",
+    "phonetics": {
+      "uk": "/ˈdʒɔɹdən/",
+      "us": "/ˈdʒɔɹdən/"
+    },
     "translations": [
       {
         "type": "n",
@@ -2191,6 +2535,10 @@
   },
   {
     "word": "Kazakhstan",
+    "phonetics": {
+      "uk": "/ˌkæzəkˈstɑːn/",
+      "us": "/ˌkɑːzəkˈstæn/"
+    },
     "translations": [
       {
         "type": "n",
@@ -2216,6 +2564,10 @@
   },
   {
     "word": "Kenya",
+    "phonetics": {
+      "uk": "/ˈkɛnjə/",
+      "us": "/ˈkɛnjə/"
+    },
     "translations": [
       {
         "type": "n",
@@ -2241,6 +2593,10 @@
   },
   {
     "word": "Kiribati",
+    "phonetics": {
+      "uk": "/ˌkɪˈɹɪˈbɑti/",
+      "us": "/ˌkɪˈɹɪˈbɑti/"
+    },
     "translations": [
       {
         "type": "n",
@@ -2266,6 +2622,10 @@
   },
   {
     "word": "North Korea",
+    "phonetics": {
+      "uk": "/ˌnɔːθ kəˈrɪə/",
+      "us": "/ˌnɔːrθ kəˈriːə/"
+    },
     "translations": [
       {
         "type": "n",
@@ -2295,6 +2655,10 @@
   },
   {
     "word": "South Korea",
+    "phonetics": {
+      "uk": "/ˌsaʊθ kəˈrɪə/",
+      "us": "/ˌsaʊθ kəˈriːə/"
+    },
     "translations": [
       {
         "type": "n",
@@ -2328,6 +2692,10 @@
   },
   {
     "word": "Kuwait",
+    "phonetics": {
+      "uk": "/kuˈweɪt/",
+      "us": "/kuˈweɪt/"
+    },
     "translations": [
       {
         "type": "n",
@@ -2353,6 +2721,10 @@
   },
   {
     "word": "Kyrgyzstan",
+    "phonetics": {
+      "uk": "/ˌkɜːɡɪˈstɑːn/",
+      "us": "/ˌkɜːrɡɪˈstæn/"
+    },
     "translations": [
       {
         "type": "n",
@@ -2378,6 +2750,10 @@
   },
   {
     "word": "Laos",
+    "phonetics": {
+      "uk": "/ˈɫaʊs/",
+      "us": "/ˈɫaʊs/"
+    },
     "translations": [
       {
         "type": "n",
@@ -2407,6 +2783,10 @@
   },
   {
     "word": "Latvia",
+    "phonetics": {
+      "uk": "/ˈɫætviə/",
+      "us": "/ˈɫætviə/"
+    },
     "translations": [
       {
         "type": "n",
@@ -2432,6 +2812,10 @@
   },
   {
     "word": "Lebanon",
+    "phonetics": {
+      "uk": "/ˈɫɛbənən/",
+      "us": "/ˈɫɛbənən/"
+    },
     "translations": [
       {
         "type": "n",
@@ -2457,6 +2841,10 @@
   },
   {
     "word": "Lesotho",
+    "phonetics": {
+      "uk": "/ɫɛˈsoʊθoʊ/",
+      "us": "/ɫɛˈsoʊθoʊ/"
+    },
     "translations": [
       {
         "type": "n",
@@ -2482,6 +2870,10 @@
   },
   {
     "word": "Liberia",
+    "phonetics": {
+      "uk": "/ˌɫaɪˈbɪˌɹiə/",
+      "us": "/ˌɫaɪˈbɪˌɹiə/"
+    },
     "translations": [
       {
         "type": "n",
@@ -2507,6 +2899,10 @@
   },
   {
     "word": "Libya",
+    "phonetics": {
+      "uk": "/ˈɫɪˌbiə/",
+      "us": "/ˈɫɪˌbiə/"
+    },
     "translations": [
       {
         "type": "n",
@@ -2532,6 +2928,10 @@
   },
   {
     "word": "Liechtenstein",
+    "phonetics": {
+      "uk": "/ˈɫɪktənˌstaɪn/",
+      "us": "/ˈɫɪktənˌstaɪn/"
+    },
     "translations": [
       {
         "type": "n",
@@ -2557,6 +2957,10 @@
   },
   {
     "word": "Lithuania",
+    "phonetics": {
+      "uk": "/ˌɫɪθəˈweɪniə/",
+      "us": "/ˌɫɪθəˈweɪniə/"
+    },
     "translations": [
       {
         "type": "n",
@@ -2582,6 +2986,10 @@
   },
   {
     "word": "Luxembourg",
+    "phonetics": {
+      "uk": "/ˈɫəksəmˈbɝɡ/",
+      "us": "/ˈɫəksəmˈbɝɡ/"
+    },
     "translations": [
       {
         "type": "n",
@@ -2607,6 +3015,10 @@
   },
   {
     "word": "Madagascar",
+    "phonetics": {
+      "uk": "/ˌmædəˈɡæskɝ/",
+      "us": "/ˌmædəˈɡæskɝ/"
+    },
     "translations": [
       {
         "type": "n",
@@ -2632,6 +3044,10 @@
   },
   {
     "word": "Malawi",
+    "phonetics": {
+      "uk": "/məˈɫɑwi/",
+      "us": "/məˈɫɑwi/"
+    },
     "translations": [
       {
         "type": "n",
@@ -2657,6 +3073,10 @@
   },
   {
     "word": "Malaysia",
+    "phonetics": {
+      "uk": "/məˈɫeɪʒə/",
+      "us": "/məˈɫeɪʒə/"
+    },
     "translations": [
       {
         "type": "n",
@@ -2682,6 +3102,10 @@
   },
   {
     "word": "Maldives",
+    "phonetics": {
+      "uk": "/ˈmɔɫˌdaɪvz/",
+      "us": "/ˈmɔɫˌdaɪvz/"
+    },
     "translations": [
       {
         "type": "n",
@@ -2707,6 +3131,10 @@
   },
   {
     "word": "Mali",
+    "phonetics": {
+      "uk": "/ˈmɑɫi/",
+      "us": "/ˈmɑɫi/"
+    },
     "translations": [
       {
         "type": "n",
@@ -2732,6 +3160,10 @@
   },
   {
     "word": "Malta",
+    "phonetics": {
+      "uk": "/ˈmɔɫtə/",
+      "us": "/ˈmɔɫtə/"
+    },
     "translations": [
       {
         "type": "n",
@@ -2757,6 +3189,10 @@
   },
   {
     "word": "Marshall Islands",
+    "phonetics": {
+      "uk": "/ˈmɑɹʃəɫ ˈaɪɫəndz/",
+      "us": "/ˈmɑɹʃəɫ ˈaɪɫəndz/"
+    },
     "translations": [
       {
         "type": "n",
@@ -2782,6 +3218,10 @@
   },
   {
     "word": "Mauritania",
+    "phonetics": {
+      "uk": "/ˌmɔɹɪˈteɪniə/",
+      "us": "/ˌmɔɹɪˈteɪniə/"
+    },
     "translations": [
       {
         "type": "n",
@@ -2807,6 +3247,10 @@
   },
   {
     "word": "Mauritius",
+    "phonetics": {
+      "uk": "/mɔˈɹɪtiəs/",
+      "us": "/mɔˈɹɪtiəs/"
+    },
     "translations": [
       {
         "type": "n",
@@ -2832,6 +3276,10 @@
   },
   {
     "word": "Mexico",
+    "phonetics": {
+      "uk": "/ˈmɛksəˌkoʊ/",
+      "us": "/ˈmɛksəˌkoʊ/"
+    },
     "translations": [
       {
         "type": "n",
@@ -2857,6 +3305,10 @@
   },
   {
     "word": "Micronesia",
+    "phonetics": {
+      "uk": "/ˌmaɪkɹoʊˈniʒə/",
+      "us": "/ˌmaɪkɹoʊˈniʒə/"
+    },
     "translations": [
       {
         "type": "n",
@@ -2886,6 +3338,10 @@
   },
   {
     "word": "Moldova",
+    "phonetics": {
+      "uk": "/ˌmoʊɫˈdoʊvə/",
+      "us": "/ˌmoʊɫˈdoʊvə/"
+    },
     "translations": [
       {
         "type": "n",
@@ -2915,6 +3371,10 @@
   },
   {
     "word": "Monaco",
+    "phonetics": {
+      "uk": "/ˈmɑnəˌkoʊ/",
+      "us": "/ˈmɑnəˌkoʊ/"
+    },
     "translations": [
       {
         "type": "n",
@@ -2940,6 +3400,10 @@
   },
   {
     "word": "Mongolia",
+    "phonetics": {
+      "uk": "/mɑŋˈɡoʊɫiə/",
+      "us": "/mɑŋˈɡoʊɫiə/"
+    },
     "translations": [
       {
         "type": "n",
@@ -2965,6 +3429,10 @@
   },
   {
     "word": "Montenegro",
+    "phonetics": {
+      "uk": "/ˌmɑntəˈneɪɡɹoʊ/",
+      "us": "/ˌmɑntəˈneɪɡɹoʊ/"
+    },
     "translations": [
       {
         "type": "n",
@@ -2990,6 +3458,10 @@
   },
   {
     "word": "North Macedonia",
+    "phonetics": {
+      "uk": "/ˈnɔɹθ ˌmækəˈdoʊniə/",
+      "us": "/ˈnɔɹθ ˌmækəˈdoʊniə/"
+    },
     "translations": [
       {
         "type": "n",
@@ -3015,6 +3487,10 @@
   },
   {
     "word": "Morocco",
+    "phonetics": {
+      "uk": "/məɹˈɒkəʊ/",
+      "us": "/mɝˈɑkoʊ/"
+    },
     "translations": [
       {
         "type": "n",
@@ -3040,6 +3516,10 @@
   },
   {
     "word": "Mozambique",
+    "phonetics": {
+      "uk": "/ˌmoʊzæmˈbik/",
+      "us": "/ˌmoʊzæmˈbik/"
+    },
     "translations": [
       {
         "type": "n",
@@ -3065,6 +3545,10 @@
   },
   {
     "word": "Myanmar (Burma)",
+    "phonetics": {
+      "uk": "/ˈmjɑnˈmɑɹ ˈbɝmə/",
+      "us": "/ˈmjɑnˈmɑɹ ˈbɝmə/"
+    },
     "translations": [
       {
         "type": "n",
@@ -3094,6 +3578,10 @@
   },
   {
     "word": "Namibia",
+    "phonetics": {
+      "uk": "/nəˈmɪbiə/",
+      "us": "/nəˈmɪbiə/"
+    },
     "translations": [
       {
         "type": "n",
@@ -3119,6 +3607,10 @@
   },
   {
     "word": "Nauru",
+    "phonetics": {
+      "uk": "/nɑːˈuːruː/",
+      "us": "/nɑːˈuːruː/"
+    },
     "translations": [
       {
         "type": "n",
@@ -3144,6 +3636,10 @@
   },
   {
     "word": "Nepal",
+    "phonetics": {
+      "uk": "/nəˈpɔɫ/",
+      "us": "/nəˈpɔɫ/"
+    },
     "translations": [
       {
         "type": "n",
@@ -3169,6 +3665,10 @@
   },
   {
     "word": "Netherlands",
+    "phonetics": {
+      "uk": "/ˈnɛðɝɫəndz/",
+      "us": "/ˈnɛðɝɫəndz/"
+    },
     "translations": [
       {
         "type": "n",
@@ -3194,6 +3694,10 @@
   },
   {
     "word": "New Zealand",
+    "phonetics": {
+      "uk": "/ˌnjuː ˈziːlənd/",
+      "us": "/ˌnuː ˈziːlənd/"
+    },
     "translations": [
       {
         "type": "n",
@@ -3219,6 +3723,10 @@
   },
   {
     "word": "Nicaragua",
+    "phonetics": {
+      "uk": "/ˌnɪkɝˈɑɡwə/",
+      "us": "/ˌnɪkɝˈɑɡwə/"
+    },
     "translations": [
       {
         "type": "n",
@@ -3244,6 +3752,10 @@
   },
   {
     "word": "Niger",
+    "phonetics": {
+      "uk": "/ˈnaɪdʒɝ/",
+      "us": "/ˈnaɪdʒɝ/"
+    },
     "translations": [
       {
         "type": "n",
@@ -3269,6 +3781,10 @@
   },
   {
     "word": "Nigeria",
+    "phonetics": {
+      "uk": "/naɪˈdʒɪɹiə/",
+      "us": "/naɪˈdʒɪɹiə/"
+    },
     "translations": [
       {
         "type": "n",
@@ -3294,6 +3810,10 @@
   },
   {
     "word": "Norway",
+    "phonetics": {
+      "uk": "/ˈnɔɹˌweɪ/",
+      "us": "/ˈnɔɹˌweɪ/"
+    },
     "translations": [
       {
         "type": "n",
@@ -3319,6 +3839,10 @@
   },
   {
     "word": "Oman",
+    "phonetics": {
+      "uk": "/oʊˈmɑn/",
+      "us": "/oʊˈmɑn/"
+    },
     "translations": [
       {
         "type": "n",
@@ -3344,6 +3868,10 @@
   },
   {
     "word": "Pakistan",
+    "phonetics": {
+      "uk": "/ˈpækɪˌstæn/",
+      "us": "/ˈpækɪˌstæn/"
+    },
     "translations": [
       {
         "type": "n",
@@ -3369,6 +3897,10 @@
   },
   {
     "word": "Palau",
+    "phonetics": {
+      "uk": "/ˈpæɫaʊ/",
+      "us": "/ˈpæɫaʊ/"
+    },
     "translations": [
       {
         "type": "n",
@@ -3394,6 +3926,10 @@
   },
   {
     "word": "Panama",
+    "phonetics": {
+      "uk": "/pˈænəmˌɑː/",
+      "us": "/ˈpænəˌmɑ/"
+    },
     "translations": [
       {
         "type": "n",
@@ -3419,6 +3955,10 @@
   },
   {
     "word": "Papua New Guinea",
+    "phonetics": {
+      "uk": "/ˌpæpjuə njuː ˈɡɪni/",
+      "us": "/ˌpæpjuə nuː ˈɡɪni/"
+    },
     "translations": [
       {
         "type": "n",
@@ -3444,6 +3984,10 @@
   },
   {
     "word": "Paraguay",
+    "phonetics": {
+      "uk": "/ˈpɛɹəˌɡweɪ/",
+      "us": "/ˈpɛɹəˌɡweɪ/"
+    },
     "translations": [
       {
         "type": "n",
@@ -3469,6 +4013,10 @@
   },
   {
     "word": "Peru",
+    "phonetics": {
+      "uk": "/pɝˈu/",
+      "us": "/pɝˈu/"
+    },
     "translations": [
       {
         "type": "n",
@@ -3494,6 +4042,10 @@
   },
   {
     "word": "Philippines",
+    "phonetics": {
+      "uk": "/ˈfɪɫəˌpinz/",
+      "us": "/ˈfɪɫəˌpinz/"
+    },
     "translations": [
       {
         "type": "n",
@@ -3519,6 +4071,10 @@
   },
   {
     "word": "Poland",
+    "phonetics": {
+      "uk": "/ˈpoʊɫənd/",
+      "us": "/ˈpoʊɫənd/"
+    },
     "translations": [
       {
         "type": "n",
@@ -3544,6 +4100,10 @@
   },
   {
     "word": "Portugal",
+    "phonetics": {
+      "uk": "/ˈpɔɹtʃəɡəɫ/",
+      "us": "/ˈpɔɹtʃəɡəɫ/"
+    },
     "translations": [
       {
         "type": "n",
@@ -3569,6 +4129,10 @@
   },
   {
     "word": "Qatar",
+    "phonetics": {
+      "uk": "/ˌkəˈtɑɹ/",
+      "us": "/ˌkəˈtɑɹ/"
+    },
     "translations": [
       {
         "type": "n",
@@ -3594,6 +4158,10 @@
   },
   {
     "word": "Romania",
+    "phonetics": {
+      "uk": "/ɹoʊˈmeɪniə/",
+      "us": "/ɹoʊˈmeɪniə/"
+    },
     "translations": [
       {
         "type": "n",
@@ -3619,6 +4187,10 @@
   },
   {
     "word": "Russia",
+    "phonetics": {
+      "uk": "/ˈɹəʃə/",
+      "us": "/ˈɹəʃə/"
+    },
     "translations": [
       {
         "type": "n",
@@ -3648,6 +4220,10 @@
   },
   {
     "word": "Rwanda",
+    "phonetics": {
+      "uk": "/ˌɹuˈɑndə/",
+      "us": "/ˌɹuˈɑndə/"
+    },
     "translations": [
       {
         "type": "n",
@@ -3673,6 +4249,10 @@
   },
   {
     "word": "St. Kitts & Nevis",
+    "phonetics": {
+      "uk": "/ˈseɪnt ˈkɪts ˈænd ˈnɛvɪs/",
+      "us": "/ˈseɪnt ˈkɪts ˈænd ˈnɛvɪs/"
+    },
     "translations": [
       {
         "type": "n",
@@ -3698,6 +4278,10 @@
   },
   {
     "word": "St. Lucia",
+    "phonetics": {
+      "uk": "/ˈseɪnt ˈɫuʃə/",
+      "us": "/ˈseɪnt ˈɫuʃə/"
+    },
     "translations": [
       {
         "type": "n",
@@ -3723,6 +4307,10 @@
   },
   {
     "word": "St. Vincent & Grenadines",
+    "phonetics": {
+      "uk": "/seɪnt ˈvɪnsənt ænd ˌɡrɛnəˈdiːnz/",
+      "us": "/seɪnt ˈvɪnsənt ænd ˌɡrɛnəˈdiːnz/"
+    },
     "translations": [
       {
         "type": "n",
@@ -3748,6 +4336,10 @@
   },
   {
     "word": "Samoa",
+    "phonetics": {
+      "uk": "/səˈmoʊə/",
+      "us": "/səˈmoʊə/"
+    },
     "translations": [
       {
         "type": "n",
@@ -3773,6 +4365,10 @@
   },
   {
     "word": "San Marino",
+    "phonetics": {
+      "uk": "/ˈsæn mɝˈinoʊ/",
+      "us": "/ˈsæn mɝˈinoʊ/"
+    },
     "translations": [
       {
         "type": "n",
@@ -3798,6 +4394,10 @@
   },
   {
     "word": "São Tomé & Príncipe",
+    "phonetics": {
+      "uk": "/ˌsaʊ təˈmeɪ ænd ˈprɪnsɪpə/",
+      "us": "/ˌsaʊ təˈmeɪ ænd ˈprɪnsɪpə/"
+    },
     "translations": [
       {
         "type": "n",
@@ -3823,6 +4423,10 @@
   },
   {
     "word": "Saudi Arabia",
+    "phonetics": {
+      "uk": "/ˌsaʊdi əˈreɪbiə/",
+      "us": "/ˌsaʊdi əˈreɪbiə/"
+    },
     "translations": [
       {
         "type": "n",
@@ -3848,6 +4452,10 @@
   },
   {
     "word": "Senegal",
+    "phonetics": {
+      "uk": "/ˌsɛnəˈɡɔɫ/",
+      "us": "/ˌsɛnəˈɡɔɫ/"
+    },
     "translations": [
       {
         "type": "n",
@@ -3873,6 +4481,10 @@
   },
   {
     "word": "Serbia",
+    "phonetics": {
+      "uk": "/ˈsɝbiə/",
+      "us": "/ˈsɝbiə/"
+    },
     "translations": [
       {
         "type": "n",
@@ -3898,6 +4510,10 @@
   },
   {
     "word": "Seychelles",
+    "phonetics": {
+      "uk": "/ˈseɪʃɛɫz/",
+      "us": "/ˈseɪʃɛɫz/"
+    },
     "translations": [
       {
         "type": "n",
@@ -3923,6 +4539,10 @@
   },
   {
     "word": "Sierra Leone",
+    "phonetics": {
+      "uk": "/siːˈeəɹɐ liːˈəʊn/",
+      "us": "/siˈɛɹə ɫiˈoʊn/"
+    },
     "translations": [
       {
         "type": "n",
@@ -3948,6 +4568,10 @@
   },
   {
     "word": "Singapore",
+    "phonetics": {
+      "uk": "/ˈsɪŋəˌpɔɹ/",
+      "us": "/ˈsɪŋəˌpɔɹ/"
+    },
     "translations": [
       {
         "type": "n",
@@ -3973,6 +4597,10 @@
   },
   {
     "word": "Slovakia",
+    "phonetics": {
+      "uk": "/ˌsɫoʊˈvɑˌkiə/",
+      "us": "/ˌsɫoʊˈvɑˌkiə/"
+    },
     "translations": [
       {
         "type": "n",
@@ -3998,6 +4626,10 @@
   },
   {
     "word": "Slovenia",
+    "phonetics": {
+      "uk": "/ˌsɫoʊˈviniə/",
+      "us": "/ˌsɫoʊˈviniə/"
+    },
     "translations": [
       {
         "type": "n",
@@ -4023,6 +4655,10 @@
   },
   {
     "word": "Solomon Islands",
+    "phonetics": {
+      "uk": "/ˈsɑɫəmən ˈaɪɫəndz/",
+      "us": "/ˈsɑɫəmən ˈaɪɫəndz/"
+    },
     "translations": [
       {
         "type": "n",
@@ -4048,6 +4684,10 @@
   },
   {
     "word": "Somalia",
+    "phonetics": {
+      "uk": "/səˈmɑɫiə/",
+      "us": "/səˈmɑɫiə/"
+    },
     "translations": [
       {
         "type": "n",
@@ -4073,6 +4713,10 @@
   },
   {
     "word": "South Africa",
+    "phonetics": {
+      "uk": "/ˌsaʊθ ˈæfrɪkə/",
+      "us": "/ˌsaʊθ ˈæfrɪkə/"
+    },
     "translations": [
       {
         "type": "n",
@@ -4098,6 +4742,10 @@
   },
   {
     "word": "South Sudan",
+    "phonetics": {
+      "uk": "/ˌsaʊθ suːˈdɑːn/",
+      "us": "/ˌsaʊθ suːˈdɑːn/"
+    },
     "translations": [
       {
         "type": "n",
@@ -4123,6 +4771,10 @@
   },
   {
     "word": "Spain",
+    "phonetics": {
+      "uk": "/ˈspeɪn/",
+      "us": "/ˈspeɪn/"
+    },
     "translations": [
       {
         "type": "n",
@@ -4148,6 +4800,10 @@
   },
   {
     "word": "Sri Lanka",
+    "phonetics": {
+      "uk": "/ˌsriː ˈlæŋkə/",
+      "us": "/ˌsriː ˈlɑːŋkə/"
+    },
     "translations": [
       {
         "type": "n",
@@ -4173,6 +4829,10 @@
   },
   {
     "word": "Sudan",
+    "phonetics": {
+      "uk": "/suˈdæn/",
+      "us": "/suˈdæn/"
+    },
     "translations": [
       {
         "type": "n",
@@ -4198,6 +4858,10 @@
   },
   {
     "word": "Suriname",
+    "phonetics": {
+      "uk": "/ˈsɝɪnɑm/",
+      "us": "/ˈsɝɪnɑm/"
+    },
     "translations": [
       {
         "type": "n",
@@ -4223,6 +4887,10 @@
   },
   {
     "word": "Sweden",
+    "phonetics": {
+      "uk": "/ˈswidən/",
+      "us": "/ˈswidən/"
+    },
     "translations": [
       {
         "type": "n",
@@ -4248,6 +4916,10 @@
   },
   {
     "word": "Switzerland",
+    "phonetics": {
+      "uk": "/ˈswɪtsɝɫənd/",
+      "us": "/ˈswɪtsɝɫənd/"
+    },
     "translations": [
       {
         "type": "n",
@@ -4273,6 +4945,10 @@
   },
   {
     "word": "Syria",
+    "phonetics": {
+      "uk": "/ˈsɪɹiə/",
+      "us": "/ˈsɪɹiə/"
+    },
     "translations": [
       {
         "type": "n",
@@ -4302,6 +4978,10 @@
   },
   {
     "word": "Tajikistan",
+    "phonetics": {
+      "uk": "/tɑːˌdʒiːkɪˈstɑːn/",
+      "us": "/tɑːˌdʒiːkɪˈstæn/"
+    },
     "translations": [
       {
         "type": "n",
@@ -4327,6 +5007,10 @@
   },
   {
     "word": "Tanzania",
+    "phonetics": {
+      "uk": "/ˌtænˈzeɪnjə/",
+      "us": "/ˌtænˈzeɪnjə/"
+    },
     "translations": [
       {
         "type": "n",
@@ -4356,6 +5040,10 @@
   },
   {
     "word": "Thailand",
+    "phonetics": {
+      "uk": "/ˈtaɪˌɫænd/",
+      "us": "/ˈtaɪˌɫænd/"
+    },
     "translations": [
       {
         "type": "n",
@@ -4381,6 +5069,10 @@
   },
   {
     "word": "Timor-Leste",
+    "phonetics": {
+      "uk": "/ˌtiːmɔː ˈlɛsteɪ/",
+      "us": "/ˌtiːmɔːr ˈlɛsteɪ/"
+    },
     "translations": [
       {
         "type": "n",
@@ -4406,6 +5098,10 @@
   },
   {
     "word": "Togo",
+    "phonetics": {
+      "uk": "/ˈtoʊɡoʊ/",
+      "us": "/ˈtoʊɡoʊ/"
+    },
     "translations": [
       {
         "type": "n",
@@ -4431,6 +5127,10 @@
   },
   {
     "word": "Tonga",
+    "phonetics": {
+      "uk": "/tˈɒŋɡɐ/",
+      "us": "/ˈtɑnɡə/"
+    },
     "translations": [
       {
         "type": "n",
@@ -4456,6 +5156,10 @@
   },
   {
     "word": "Trinidad & Tobago",
+    "phonetics": {
+      "uk": "/ˈtɹɪnɪˌdæd ˈænd təˈbeɪɡoʊ/",
+      "us": "/ˈtɹɪnɪˌdæd ˈænd təˈbeɪɡoʊ/"
+    },
     "translations": [
       {
         "type": "n",
@@ -4481,6 +5185,10 @@
   },
   {
     "word": "Tunisia",
+    "phonetics": {
+      "uk": "/ˌtuˈniʒə/",
+      "us": "/ˌtuˈniʒə/"
+    },
     "translations": [
       {
         "type": "n",
@@ -4506,6 +5214,10 @@
   },
   {
     "word": "Turkey",
+    "phonetics": {
+      "uk": "/tˈɜːki/",
+      "us": "/ˈtɝki/"
+    },
     "translations": [
       {
         "type": "n",
@@ -4535,6 +5247,10 @@
   },
   {
     "word": "Turkmenistan",
+    "phonetics": {
+      "uk": "/ˌtɜːkmɛnɪˈstɑːn/",
+      "us": "/ˌtɜːrkmɛnɪˈstæn/"
+    },
     "translations": [
       {
         "type": "n",
@@ -4560,6 +5276,10 @@
   },
   {
     "word": "Tuvalu",
+    "phonetics": {
+      "uk": "/ˈtuvɑˌɫu/",
+      "us": "/ˈtuvɑˌɫu/"
+    },
     "translations": [
       {
         "type": "n",
@@ -4585,6 +5305,10 @@
   },
   {
     "word": "Uganda",
+    "phonetics": {
+      "uk": "/ˌjuˈɡɑndɑ/",
+      "us": "/ˌjuˈɡɑndɑ/"
+    },
     "translations": [
       {
         "type": "n",
@@ -4610,6 +5334,10 @@
   },
   {
     "word": "Ukraine",
+    "phonetics": {
+      "uk": "/juˈkɹeɪn/",
+      "us": "/juˈkɹeɪn/"
+    },
     "translations": [
       {
         "type": "n",
@@ -4635,6 +5363,10 @@
   },
   {
     "word": "United Arab Emirates",
+    "phonetics": {
+      "uk": "/juːˌnaɪtɪd ˌærəb ˈemɪrəts/",
+      "us": "/juːˌnaɪtɪd ˌærəb ˈemərəts/"
+    },
     "translations": [
       {
         "type": "n",
@@ -4664,6 +5396,10 @@
   },
   {
     "word": "United Kingdom",
+    "phonetics": {
+      "uk": "/juːˌnaɪtɪd ˈkɪŋdəm/",
+      "us": "/juːˌnaɪtɪd ˈkɪŋdəm/"
+    },
     "translations": [
       {
         "type": "n",
@@ -4701,6 +5437,10 @@
   },
   {
     "word": "United States",
+    "phonetics": {
+      "uk": "/juːˌnaɪtɪd ˈsteɪts/",
+      "us": "/juːˌnaɪtɪd ˈsteɪts/"
+    },
     "translations": [
       {
         "type": "n",
@@ -4734,6 +5474,10 @@
   },
   {
     "word": "Uruguay",
+    "phonetics": {
+      "uk": "/ˈjɝəˌɡwaɪ/",
+      "us": "/ˈjɝəˌɡwaɪ/"
+    },
     "translations": [
       {
         "type": "n",
@@ -4759,6 +5503,10 @@
   },
   {
     "word": "Uzbekistan",
+    "phonetics": {
+      "uk": "/ʊzˌbekɪˈstɑːn/",
+      "us": "/ʊzˌbekɪˈstæn/"
+    },
     "translations": [
       {
         "type": "n",
@@ -4784,6 +5532,10 @@
   },
   {
     "word": "Vanuatu",
+    "phonetics": {
+      "uk": "/vænuˈɑtu/",
+      "us": "/vænuˈɑtu/"
+    },
     "translations": [
       {
         "type": "n",
@@ -4809,6 +5561,10 @@
   },
   {
     "word": "Venezuela",
+    "phonetics": {
+      "uk": "/ˌvɛnɪzˈweɪɫə/",
+      "us": "/ˌvɛnɪzˈweɪɫə/"
+    },
     "translations": [
       {
         "type": "n",
@@ -4838,6 +5594,10 @@
   },
   {
     "word": "Vietnam",
+    "phonetics": {
+      "uk": "/viˌɛtˈnɑm/",
+      "us": "/viˌɛtˈnɑm/"
+    },
     "translations": [
       {
         "type": "n",
@@ -4867,6 +5627,10 @@
   },
   {
     "word": "Yemen",
+    "phonetics": {
+      "uk": "/ˈjɛmən/",
+      "us": "/ˈjɛmən/"
+    },
     "translations": [
       {
         "type": "n",
@@ -4892,6 +5656,10 @@
   },
   {
     "word": "Zambia",
+    "phonetics": {
+      "uk": "/ˈzæmbiə/",
+      "us": "/ˈzæmbiə/"
+    },
     "translations": [
       {
         "type": "n",
@@ -4917,6 +5685,10 @@
   },
   {
     "word": "Zimbabwe",
+    "phonetics": {
+      "uk": "/zɪmˈbɑbweɪ/",
+      "us": "/zɪmˈbɑbweɪ/"
+    },
     "translations": [
       {
         "type": "n",
@@ -4942,6 +5714,10 @@
   },
   {
     "word": "Vatican City",
+    "phonetics": {
+      "uk": "/ˈvætɪkən ˈsɪti/",
+      "us": "/ˈvætɪkən ˈsɪti/"
+    },
     "translations": [
       {
         "type": "n",
@@ -4975,6 +5751,10 @@
   },
   {
     "word": "Palestine",
+    "phonetics": {
+      "uk": "/ˈpæɫəˌstaɪn/",
+      "us": "/ˈpæɫəˌstaɪn/"
+    },
     "translations": [
       {
         "type": "n",
@@ -5004,6 +5784,10 @@
   },
   {
     "word": "New York City",
+    "phonetics": {
+      "uk": "/ˌnjuː ˈjɔːk ˈsɪti/",
+      "us": "/ˌnuː ˈjɔːrk ˈsɪti/"
+    },
     "translations": [
       {
         "type": "n",
@@ -5033,6 +5817,10 @@
   },
   {
     "word": "Los Angeles",
+    "phonetics": {
+      "uk": "/lɒs ˈændʒəliːz/",
+      "us": "/lɔːs ˈændʒələs/"
+    },
     "translations": [
       {
         "type": "n",
@@ -5058,6 +5846,10 @@
   },
   {
     "word": "Chicago",
+    "phonetics": {
+      "uk": "/ʃɪˈkɑˌɡoʊ/",
+      "us": "/ʃɪˈkɑˌɡoʊ/"
+    },
     "translations": [
       {
         "type": "n",
@@ -5077,6 +5869,10 @@
   },
   {
     "word": "San Francisco",
+    "phonetics": {
+      "uk": "/ˌsæn frənˈsɪskəʊ/",
+      "us": "/ˌsæn frənˈsɪskoʊ/"
+    },
     "translations": [
       {
         "type": "n",
@@ -5102,6 +5898,10 @@
   },
   {
     "word": "Washington, D.C.",
+    "phonetics": {
+      "uk": "/ˈwɑʃɪŋtən ˈdi ˈsi/",
+      "us": "/ˈwɑʃɪŋtən ˈdi ˈsi/"
+    },
     "translations": [
       {
         "type": "n",
@@ -5131,6 +5931,10 @@
   },
   {
     "word": "Boston",
+    "phonetics": {
+      "uk": "/ˈbɑstən/",
+      "us": "/ˈbɑstən/"
+    },
     "translations": [
       {
         "type": "n",
@@ -5150,6 +5954,10 @@
   },
   {
     "word": "Seattle",
+    "phonetics": {
+      "uk": "/siˈætəɫ/",
+      "us": "/siˈætəɫ/"
+    },
     "translations": [
       {
         "type": "n",
@@ -5169,6 +5977,10 @@
   },
   {
     "word": "Miami",
+    "phonetics": {
+      "uk": "/maɪˈæmi/",
+      "us": "/maɪˈæmi/"
+    },
     "translations": [
       {
         "type": "n",
@@ -5188,6 +6000,10 @@
   },
   {
     "word": "Houston",
+    "phonetics": {
+      "uk": "/ˈhjustən/",
+      "us": "/ˈhjustən/"
+    },
     "translations": [
       {
         "type": "n",
@@ -5207,6 +6023,10 @@
   },
   {
     "word": "Dallas",
+    "phonetics": {
+      "uk": "/ˈdæɫəs/",
+      "us": "/ˈdæɫəs/"
+    },
     "translations": [
       {
         "type": "n",
@@ -5226,6 +6046,10 @@
   },
   {
     "word": "Atlanta",
+    "phonetics": {
+      "uk": "/ætˈɫæntə/",
+      "us": "/ætˈɫæntə/"
+    },
     "translations": [
       {
         "type": "n",
@@ -5245,6 +6069,10 @@
   },
   {
     "word": "Philadelphia",
+    "phonetics": {
+      "uk": "/ˌfɪɫəˈdɛɫfiə/",
+      "us": "/ˌfɪɫəˈdɛɫfiə/"
+    },
     "translations": [
       {
         "type": "n",
@@ -5264,6 +6092,10 @@
   },
   {
     "word": "Phoenix",
+    "phonetics": {
+      "uk": "/fˈiːnɪks/",
+      "us": "/ˈfinɪks/"
+    },
     "translations": [
       {
         "type": "n",
@@ -5283,6 +6115,10 @@
   },
   {
     "word": "San Diego",
+    "phonetics": {
+      "uk": "/ˌsæn diˈeɪɡəʊ/",
+      "us": "/ˌsæn diˈeɪɡoʊ/"
+    },
     "translations": [
       {
         "type": "n",
@@ -5302,6 +6138,10 @@
   },
   {
     "word": "Las Vegas",
+    "phonetics": {
+      "uk": "/læs ˈveɪɡəs/",
+      "us": "/lɑːs ˈveɪɡəs/"
+    },
     "translations": [
       {
         "type": "n",
@@ -5327,6 +6167,10 @@
   },
   {
     "word": "Denver",
+    "phonetics": {
+      "uk": "/ˈdɛnvɝ/",
+      "us": "/ˈdɛnvɝ/"
+    },
     "translations": [
       {
         "type": "n",
@@ -5346,6 +6190,10 @@
   },
   {
     "word": "Detroit",
+    "phonetics": {
+      "uk": "/ˈdiˌtɹɔɪt/",
+      "us": "/ˈdiˌtɹɔɪt/"
+    },
     "translations": [
       {
         "type": "n",
@@ -5365,6 +6213,10 @@
   },
   {
     "word": "Austin",
+    "phonetics": {
+      "uk": "/ˈɔstən/",
+      "us": "/ˈɔstən/"
+    },
     "translations": [
       {
         "type": "n",
@@ -5384,6 +6236,10 @@
   },
   {
     "word": "Toronto",
+    "phonetics": {
+      "uk": "/tɝˈɑntoʊ/",
+      "us": "/tɝˈɑntoʊ/"
+    },
     "translations": [
       {
         "type": "n",
@@ -5403,6 +6259,10 @@
   },
   {
     "word": "Montreal",
+    "phonetics": {
+      "uk": "/ˌməntɹiˈɔɫ/",
+      "us": "/ˌməntɹiˈɔɫ/"
+    },
     "translations": [
       {
         "type": "n",
@@ -5422,6 +6282,10 @@
   },
   {
     "word": "Vancouver",
+    "phonetics": {
+      "uk": "/vænˈkuvɝ/",
+      "us": "/vænˈkuvɝ/"
+    },
     "translations": [
       {
         "type": "n",
@@ -5441,6 +6305,10 @@
   },
   {
     "word": "Ottawa",
+    "phonetics": {
+      "uk": "/ˈɑtəˌwɑ/",
+      "us": "/ˈɑtəˌwɑ/"
+    },
     "translations": [
       {
         "type": "n",
@@ -5460,6 +6328,10 @@
   },
   {
     "word": "Calgary",
+    "phonetics": {
+      "uk": "/ˈkæɫɡɝi/",
+      "us": "/ˈkæɫɡɝi/"
+    },
     "translations": [
       {
         "type": "n",
@@ -5479,6 +6351,10 @@
   },
   {
     "word": "Quebec City",
+    "phonetics": {
+      "uk": "/kwəˈbɛk ˈsɪti/",
+      "us": "/kwəˈbɛk ˈsɪti/"
+    },
     "translations": [
       {
         "type": "n",
@@ -5498,6 +6374,10 @@
   },
   {
     "word": "Mexico City",
+    "phonetics": {
+      "uk": "/ˈmeksɪkəʊ ˈsɪti/",
+      "us": "/ˈmeksɪkoʊ ˈsɪti/"
+    },
     "translations": [
       {
         "type": "n",
@@ -5517,6 +6397,10 @@
   },
   {
     "word": "Guadalajara",
+    "phonetics": {
+      "uk": "/ˌɡwɑˌdəɫəˈhɑɹə/",
+      "us": "/ˌɡwɑˌdəɫəˈhɑɹə/"
+    },
     "translations": [
       {
         "type": "n",
@@ -5536,6 +6420,10 @@
   },
   {
     "word": "Monterrey",
+    "phonetics": {
+      "uk": "/ˌmɑnɝˈeɪ/",
+      "us": "/ˌmɑnɝˈeɪ/"
+    },
     "translations": [
       {
         "type": "n",
@@ -5555,6 +6443,10 @@
   },
   {
     "word": "Cancun",
+    "phonetics": {
+      "uk": "/ˈkæŋkən/",
+      "us": "/ˈkæŋkən/"
+    },
     "translations": [
       {
         "type": "n",
@@ -5574,6 +6466,10 @@
   },
   {
     "word": "Havana",
+    "phonetics": {
+      "uk": "/həˈvænə/",
+      "us": "/həˈvænə/"
+    },
     "translations": [
       {
         "type": "n",
@@ -5593,6 +6489,10 @@
   },
   {
     "word": "Santo Domingo",
+    "phonetics": {
+      "uk": "/ˈsæntoʊ dəˈmɪŋɡoʊ/",
+      "us": "/ˈsæntoʊ dəˈmɪŋɡoʊ/"
+    },
     "translations": [
       {
         "type": "n",
@@ -5612,6 +6512,10 @@
   },
   {
     "word": "Kingston",
+    "phonetics": {
+      "uk": "/ˈkɪŋstən/",
+      "us": "/ˈkɪŋstən/"
+    },
     "translations": [
       {
         "type": "n",
@@ -5631,6 +6535,10 @@
   },
   {
     "word": "Guatemala City",
+    "phonetics": {
+      "uk": "/ˌɡwɑtəˈmɑɫə ˈsɪti/",
+      "us": "/ˌɡwɑtəˈmɑɫə ˈsɪti/"
+    },
     "translations": [
       {
         "type": "n",
@@ -5650,6 +6558,10 @@
   },
   {
     "word": "San Salvador",
+    "phonetics": {
+      "uk": "/ˈsæn ˈsæɫvəˌdɔɹ/",
+      "us": "/ˈsæn ˈsæɫvəˌdɔɹ/"
+    },
     "translations": [
       {
         "type": "n",
@@ -5669,6 +6581,10 @@
   },
   {
     "word": "San Jose, Costa Rica",
+    "phonetics": {
+      "uk": "/ˈsæn ˌhoʊˈzeɪ ˈkɔstɑ ˈɹikə/",
+      "us": "/ˈsæn ˌhoʊˈzeɪ ˈkɔstɑ ˈɹikə/"
+    },
     "translations": [
       {
         "type": "n",
@@ -5688,6 +6604,10 @@
   },
   {
     "word": "Panama City",
+    "phonetics": {
+      "uk": "/pˈænəmˌɑː sˈɪti/",
+      "us": "/ˈpænəˌmɑ ˈsɪti/"
+    },
     "translations": [
       {
         "type": "n",
@@ -5707,6 +6627,10 @@
   },
   {
     "word": "Buenos Aires",
+    "phonetics": {
+      "uk": "/ˌbweɪnəs ˈaɪəriːz/",
+      "us": "/ˌbweɪnəs ˈɛəriːz/"
+    },
     "translations": [
       {
         "type": "n",
@@ -5726,6 +6650,10 @@
   },
   {
     "word": "Sao Paulo",
+    "phonetics": {
+      "uk": "/ˈsaʊ ˈpɔˌɫoʊ/",
+      "us": "/ˈsaʊ ˈpɔˌɫoʊ/"
+    },
     "translations": [
       {
         "type": "n",
@@ -5745,6 +6673,10 @@
   },
   {
     "word": "Rio de Janeiro",
+    "phonetics": {
+      "uk": "/ˌriːəʊ də ʒəˈnɛərəʊ/",
+      "us": "/ˌriːoʊ də ʒəˈnɛroʊ/"
+    },
     "translations": [
       {
         "type": "n",
@@ -5770,6 +6702,10 @@
   },
   {
     "word": "Brasilia",
+    "phonetics": {
+      "uk": "/bɹəˈsɪɫjə/",
+      "us": "/bɹəˈsɪɫjə/"
+    },
     "translations": [
       {
         "type": "n",
@@ -5789,6 +6725,10 @@
   },
   {
     "word": "Lima",
+    "phonetics": {
+      "uk": "/ˈɫaɪmə/",
+      "us": "/ˈɫaɪmə/"
+    },
     "translations": [
       {
         "type": "n",
@@ -5808,6 +6748,10 @@
   },
   {
     "word": "Bogota",
+    "phonetics": {
+      "uk": "/ˌboʊɡəˈtɑ/",
+      "us": "/ˌboʊɡəˈtɑ/"
+    },
     "translations": [
       {
         "type": "n",
@@ -5827,6 +6771,10 @@
   },
   {
     "word": "Santiago",
+    "phonetics": {
+      "uk": "/ˌsæntiˈɑɡoʊ/",
+      "us": "/ˌsæntiˈɑɡoʊ/"
+    },
     "translations": [
       {
         "type": "n",
@@ -5846,6 +6794,10 @@
   },
   {
     "word": "Caracas",
+    "phonetics": {
+      "uk": "/kɝˈɑkəs/",
+      "us": "/kɝˈɑkəs/"
+    },
     "translations": [
       {
         "type": "n",
@@ -5865,6 +6817,10 @@
   },
   {
     "word": "Quito",
+    "phonetics": {
+      "uk": "/ˈkiˌtoʊ/",
+      "us": "/ˈkiˌtoʊ/"
+    },
     "translations": [
       {
         "type": "n",
@@ -5884,6 +6840,10 @@
   },
   {
     "word": "Guayaquil",
+    "phonetics": {
+      "uk": "/ˌɡwaɪəˈkiːl/",
+      "us": "/ˌɡwaɪəˈkiːl/"
+    },
     "translations": [
       {
         "type": "n",
@@ -5903,6 +6863,10 @@
   },
   {
     "word": "La Paz",
+    "phonetics": {
+      "uk": "/ˈɫɑ ˈpɑz/",
+      "us": "/ˈɫɑ ˈpɑz/"
+    },
     "translations": [
       {
         "type": "n",
@@ -5922,6 +6886,10 @@
   },
   {
     "word": "Montevideo",
+    "phonetics": {
+      "uk": "/ˌmɑntəˈvɪdiˌoʊ/",
+      "us": "/ˌmɑntəˈvɪdiˌoʊ/"
+    },
     "translations": [
       {
         "type": "n",
@@ -5941,6 +6909,10 @@
   },
   {
     "word": "Asuncion",
+    "phonetics": {
+      "uk": "/əˈsənʃən/",
+      "us": "/əˈsənʃən/"
+    },
     "translations": [
       {
         "type": "n",
@@ -5960,6 +6932,10 @@
   },
   {
     "word": "Medellin",
+    "phonetics": {
+      "uk": "/mɪˈdɛɫɪn/",
+      "us": "/mɪˈdɛɫɪn/"
+    },
     "translations": [
       {
         "type": "n",
@@ -5979,6 +6955,10 @@
   },
   {
     "word": "Cali",
+    "phonetics": {
+      "uk": "/ˈkæɫi/",
+      "us": "/ˈkæɫi/"
+    },
     "translations": [
       {
         "type": "n",
@@ -5998,6 +6978,10 @@
   },
   {
     "word": "Salvador",
+    "phonetics": {
+      "uk": "/ˈsæɫvəˌdɔɹ/",
+      "us": "/ˈsæɫvəˌdɔɹ/"
+    },
     "translations": [
       {
         "type": "n",
@@ -6017,6 +7001,10 @@
   },
   {
     "word": "Recife",
+    "phonetics": {
+      "uk": "/rɛˈsiːfə/",
+      "us": "/rɛˈsiːfə/"
+    },
     "translations": [
       {
         "type": "n",
@@ -6036,6 +7024,10 @@
   },
   {
     "word": "Porto Alegre",
+    "phonetics": {
+      "uk": "/ˈpɔɹtoʊ ɑˈɫɛɡɹi/",
+      "us": "/ˈpɔɹtoʊ ɑˈɫɛɡɹi/"
+    },
     "translations": [
       {
         "type": "n",
@@ -6055,6 +7047,10 @@
   },
   {
     "word": "Curitiba",
+    "phonetics": {
+      "uk": "/ˌkjʊɪˈtibə/",
+      "us": "/ˌkjʊɪˈtibə/"
+    },
     "translations": [
       {
         "type": "n",
@@ -6074,6 +7070,10 @@
   },
   {
     "word": "Manaus",
+    "phonetics": {
+      "uk": "/məˈnaʊs/",
+      "us": "/məˈnaʊs/"
+    },
     "translations": [
       {
         "type": "n",
@@ -6093,6 +7093,10 @@
   },
   {
     "word": "London",
+    "phonetics": {
+      "uk": "/ˈɫəndən/",
+      "us": "/ˈɫəndən/"
+    },
     "translations": [
       {
         "type": "n",
@@ -6112,6 +7116,10 @@
   },
   {
     "word": "Paris",
+    "phonetics": {
+      "uk": "/ˈpæɹɪs/",
+      "us": "/ˈpæɹɪs/"
+    },
     "translations": [
       {
         "type": "n",
@@ -6131,6 +7139,10 @@
   },
   {
     "word": "Berlin",
+    "phonetics": {
+      "uk": "/bɜːlˈɪn/",
+      "us": "/bɝˈɫɪn/"
+    },
     "translations": [
       {
         "type": "n",
@@ -6150,6 +7162,10 @@
   },
   {
     "word": "Madrid",
+    "phonetics": {
+      "uk": "/məˈdɹɪd/",
+      "us": "/məˈdɹɪd/"
+    },
     "translations": [
       {
         "type": "n",
@@ -6169,6 +7185,10 @@
   },
   {
     "word": "Barcelona",
+    "phonetics": {
+      "uk": "/ˌbɑɹsɪˈɫoʊnə/",
+      "us": "/ˌbɑɹsɪˈɫoʊnə/"
+    },
     "translations": [
       {
         "type": "n",
@@ -6188,6 +7208,10 @@
   },
   {
     "word": "Rome",
+    "phonetics": {
+      "uk": "/ˈɹoʊm/",
+      "us": "/ˈɹoʊm/"
+    },
     "translations": [
       {
         "type": "n",
@@ -6207,6 +7231,10 @@
   },
   {
     "word": "Milan",
+    "phonetics": {
+      "uk": "/ˈmaɪˌɫæn/",
+      "us": "/ˈmaɪˌɫæn/"
+    },
     "translations": [
       {
         "type": "n",
@@ -6226,6 +7254,10 @@
   },
   {
     "word": "Venice",
+    "phonetics": {
+      "uk": "/ˈvɛnəs/",
+      "us": "/ˈvɛnəs/"
+    },
     "translations": [
       {
         "type": "n",
@@ -6245,6 +7277,10 @@
   },
   {
     "word": "Amsterdam",
+    "phonetics": {
+      "uk": "/ˈæmstɝˌdæm/",
+      "us": "/ˈæmstɝˌdæm/"
+    },
     "translations": [
       {
         "type": "n",
@@ -6264,6 +7300,10 @@
   },
   {
     "word": "Rotterdam",
+    "phonetics": {
+      "uk": "/ˈɹɑtɝˌdæm/",
+      "us": "/ˈɹɑtɝˌdæm/"
+    },
     "translations": [
       {
         "type": "n",
@@ -6283,6 +7323,10 @@
   },
   {
     "word": "Brussels",
+    "phonetics": {
+      "uk": "/ˈbɹəsəɫz/",
+      "us": "/ˈbɹəsəɫz/"
+    },
     "translations": [
       {
         "type": "n",
@@ -6302,6 +7346,10 @@
   },
   {
     "word": "Vienna",
+    "phonetics": {
+      "uk": "/viˈɛnə/",
+      "us": "/viˈɛnə/"
+    },
     "translations": [
       {
         "type": "n",
@@ -6321,6 +7369,10 @@
   },
   {
     "word": "Prague",
+    "phonetics": {
+      "uk": "/ˈpɹɑɡ/",
+      "us": "/ˈpɹɑɡ/"
+    },
     "translations": [
       {
         "type": "n",
@@ -6340,6 +7392,10 @@
   },
   {
     "word": "Warsaw",
+    "phonetics": {
+      "uk": "/ˈwɔɹˌsɔ/",
+      "us": "/ˈwɔɹˌsɔ/"
+    },
     "translations": [
       {
         "type": "n",
@@ -6359,6 +7415,10 @@
   },
   {
     "word": "Krakow",
+    "phonetics": {
+      "uk": "/ˈkɹækaʊ/",
+      "us": "/ˈkɹækaʊ/"
+    },
     "translations": [
       {
         "type": "n",
@@ -6378,6 +7438,10 @@
   },
   {
     "word": "Budapest",
+    "phonetics": {
+      "uk": "/ˈbudəˌpɛst/",
+      "us": "/ˈbudəˌpɛst/"
+    },
     "translations": [
       {
         "type": "n",
@@ -6397,6 +7461,10 @@
   },
   {
     "word": "Bucharest",
+    "phonetics": {
+      "uk": "/ˈbjukɝˌɛst/",
+      "us": "/ˈbjukɝˌɛst/"
+    },
     "translations": [
       {
         "type": "n",
@@ -6416,6 +7484,10 @@
   },
   {
     "word": "Sofia",
+    "phonetics": {
+      "uk": "/soʊˈfiə/",
+      "us": "/soʊˈfiə/"
+    },
     "translations": [
       {
         "type": "n",
@@ -6435,6 +7507,10 @@
   },
   {
     "word": "Athens",
+    "phonetics": {
+      "uk": "/ˈæθənz/",
+      "us": "/ˈæθənz/"
+    },
     "translations": [
       {
         "type": "n",
@@ -6454,6 +7530,10 @@
   },
   {
     "word": "Lisbon",
+    "phonetics": {
+      "uk": "/ˈɫɪzbən/",
+      "us": "/ˈɫɪzbən/"
+    },
     "translations": [
       {
         "type": "n",
@@ -6473,6 +7553,10 @@
   },
   {
     "word": "Porto",
+    "phonetics": {
+      "uk": "/ˈpɔɹtoʊ/",
+      "us": "/ˈpɔɹtoʊ/"
+    },
     "translations": [
       {
         "type": "n",
@@ -6492,6 +7576,10 @@
   },
   {
     "word": "Dublin",
+    "phonetics": {
+      "uk": "/ˈdəbɫɪn/",
+      "us": "/ˈdəbɫɪn/"
+    },
     "translations": [
       {
         "type": "n",
@@ -6511,6 +7599,10 @@
   },
   {
     "word": "Edinburgh",
+    "phonetics": {
+      "uk": "/ˈɛdənbɝoʊ/",
+      "us": "/ˈɛdənbɝoʊ/"
+    },
     "translations": [
       {
         "type": "n",
@@ -6530,6 +7622,10 @@
   },
   {
     "word": "Manchester",
+    "phonetics": {
+      "uk": "/ˈmænˌtʃɛstɝ/",
+      "us": "/ˈmænˌtʃɛstɝ/"
+    },
     "translations": [
       {
         "type": "n",
@@ -6549,6 +7645,10 @@
   },
   {
     "word": "Copenhagen",
+    "phonetics": {
+      "uk": "/ˈkoʊpənˌhɑɡən/",
+      "us": "/ˈkoʊpənˌhɑɡən/"
+    },
     "translations": [
       {
         "type": "n",
@@ -6568,6 +7668,10 @@
   },
   {
     "word": "Stockholm",
+    "phonetics": {
+      "uk": "/ˈstɑkˌhoʊɫm/",
+      "us": "/ˈstɑkˌhoʊɫm/"
+    },
     "translations": [
       {
         "type": "n",
@@ -6587,6 +7691,10 @@
   },
   {
     "word": "Oslo",
+    "phonetics": {
+      "uk": "/ˈɑzɫoʊ/",
+      "us": "/ˈɑzɫoʊ/"
+    },
     "translations": [
       {
         "type": "n",
@@ -6606,6 +7714,10 @@
   },
   {
     "word": "Helsinki",
+    "phonetics": {
+      "uk": "/ˈhɛɫsɪŋki/",
+      "us": "/ˈhɛɫsɪŋki/"
+    },
     "translations": [
       {
         "type": "n",
@@ -6625,6 +7737,10 @@
   },
   {
     "word": "Tallinn",
+    "phonetics": {
+      "uk": "/ˈtælɪn/",
+      "us": "/ˈtælɪn/"
+    },
     "translations": [
       {
         "type": "n",
@@ -6644,6 +7760,10 @@
   },
   {
     "word": "Riga",
+    "phonetics": {
+      "uk": "/ˈɹiɡə/",
+      "us": "/ˈɹiɡə/"
+    },
     "translations": [
       {
         "type": "n",
@@ -6663,6 +7783,10 @@
   },
   {
     "word": "Vilnius",
+    "phonetics": {
+      "uk": "/ˈvɪɫniəs/",
+      "us": "/ˈvɪɫniəs/"
+    },
     "translations": [
       {
         "type": "n",
@@ -6682,6 +7806,10 @@
   },
   {
     "word": "Zurich",
+    "phonetics": {
+      "uk": "/ˈzʊɹɪk/",
+      "us": "/ˈzʊɹɪk/"
+    },
     "translations": [
       {
         "type": "n",
@@ -6701,6 +7829,10 @@
   },
   {
     "word": "Geneva",
+    "phonetics": {
+      "uk": "/dʒənˈiːvɐ/",
+      "us": "/dʒəˈnivə/"
+    },
     "translations": [
       {
         "type": "n",
@@ -6720,6 +7852,10 @@
   },
   {
     "word": "Munich",
+    "phonetics": {
+      "uk": "/ˈmjunɪk/",
+      "us": "/ˈmjunɪk/"
+    },
     "translations": [
       {
         "type": "n",
@@ -6739,6 +7875,10 @@
   },
   {
     "word": "Frankfurt",
+    "phonetics": {
+      "uk": "/fɹˈæŋkfɜːt/",
+      "us": "/ˈfɹæŋkfɝt/"
+    },
     "translations": [
       {
         "type": "n",
@@ -6758,6 +7898,10 @@
   },
   {
     "word": "Hamburg",
+    "phonetics": {
+      "uk": "/hˈæmbɜːɡ/",
+      "us": "/ˈhæmbɝɡ/"
+    },
     "translations": [
       {
         "type": "n",
@@ -6777,6 +7921,10 @@
   },
   {
     "word": "Lyon",
+    "phonetics": {
+      "uk": "/ˈɫaɪən/",
+      "us": "/ˈɫaɪən/"
+    },
     "translations": [
       {
         "type": "n",
@@ -6796,6 +7944,10 @@
   },
   {
     "word": "Marseille",
+    "phonetics": {
+      "uk": "/mɑɹˈsaɪɫ/",
+      "us": "/mɑɹˈsaɪɫ/"
+    },
     "translations": [
       {
         "type": "n",
@@ -6815,6 +7967,10 @@
   },
   {
     "word": "Nice",
+    "phonetics": {
+      "uk": "/ˈnaɪs/",
+      "us": "/ˈnaɪs/"
+    },
     "translations": [
       {
         "type": "n",
@@ -6834,6 +7990,10 @@
   },
   {
     "word": "Naples",
+    "phonetics": {
+      "uk": "/ˈneɪpəɫz/",
+      "us": "/ˈneɪpəɫz/"
+    },
     "translations": [
       {
         "type": "n",
@@ -6853,6 +8013,10 @@
   },
   {
     "word": "Turin",
+    "phonetics": {
+      "uk": "/ˈtjʊɹɪn/",
+      "us": "/ˈtjʊɹɪn/"
+    },
     "translations": [
       {
         "type": "n",
@@ -6872,6 +8036,10 @@
   },
   {
     "word": "Florence",
+    "phonetics": {
+      "uk": "/ˈfɫɔɹəns/",
+      "us": "/ˈfɫɔɹəns/"
+    },
     "translations": [
       {
         "type": "n",
@@ -6891,6 +8059,10 @@
   },
   {
     "word": "Belgrade",
+    "phonetics": {
+      "uk": "/ˈbɛɫˌɡɹɑd/",
+      "us": "/ˈbɛɫˌɡɹɑd/"
+    },
     "translations": [
       {
         "type": "n",
@@ -6910,6 +8082,10 @@
   },
   {
     "word": "Zagreb",
+    "phonetics": {
+      "uk": "/ˈzɑˌɡɹɛb/",
+      "us": "/ˈzɑˌɡɹɛb/"
+    },
     "translations": [
       {
         "type": "n",
@@ -6929,6 +8105,10 @@
   },
   {
     "word": "Sarajevo",
+    "phonetics": {
+      "uk": "/ˌsɑɹəˈjeɪvoʊ/",
+      "us": "/ˌsɑɹəˈjeɪvoʊ/"
+    },
     "translations": [
       {
         "type": "n",
@@ -6948,6 +8128,10 @@
   },
   {
     "word": "Reykjavik",
+    "phonetics": {
+      "uk": "/ˈɹeɪkəvɪk/",
+      "us": "/ˈɹeɪkəvɪk/"
+    },
     "translations": [
       {
         "type": "n",
@@ -6967,6 +8151,10 @@
   },
   {
     "word": "Kyiv",
+    "phonetics": {
+      "uk": "/ˈkiːjɪv/",
+      "us": "/ˈkiːjɪv/"
+    },
     "translations": [
       {
         "type": "n",
@@ -6986,6 +8174,10 @@
   },
   {
     "word": "Lviv",
+    "phonetics": {
+      "uk": "/ləˈviːv/",
+      "us": "/ləˈviːv/"
+    },
     "translations": [
       {
         "type": "n",
@@ -7005,6 +8197,10 @@
   },
   {
     "word": "Moscow",
+    "phonetics": {
+      "uk": "/ˈmɑˌskoʊ/",
+      "us": "/ˈmɑˌskoʊ/"
+    },
     "translations": [
       {
         "type": "n",
@@ -7024,6 +8220,10 @@
   },
   {
     "word": "Saint Petersburg",
+    "phonetics": {
+      "uk": "/ˈseɪnt ˈpitɝzbɝɡ/",
+      "us": "/ˈseɪnt ˈpitɝzbɝɡ/"
+    },
     "translations": [
       {
         "type": "n",
@@ -7043,6 +8243,10 @@
   },
   {
     "word": "Istanbul",
+    "phonetics": {
+      "uk": "/ˌɪstɑnˈbuɫ/",
+      "us": "/ˌɪstɑnˈbuɫ/"
+    },
     "translations": [
       {
         "type": "n",
@@ -7062,6 +8266,10 @@
   },
   {
     "word": "Ankara",
+    "phonetics": {
+      "uk": "/ˈæŋkɝə/",
+      "us": "/ˈæŋkɝə/"
+    },
     "translations": [
       {
         "type": "n",
@@ -7081,6 +8289,10 @@
   },
   {
     "word": "Izmir",
+    "phonetics": {
+      "uk": "/ˈɪzmɪə/",
+      "us": "/ɪzˈmɪr/"
+    },
     "translations": [
       {
         "type": "n",
@@ -7100,6 +8312,10 @@
   },
   {
     "word": "Beijing",
+    "phonetics": {
+      "uk": "/ˌbeɪˈʒɪŋ/",
+      "us": "/ˌbeɪˈʒɪŋ/"
+    },
     "translations": [
       {
         "type": "n",
@@ -7119,6 +8335,10 @@
   },
   {
     "word": "Shanghai",
+    "phonetics": {
+      "uk": "/ʃæŋhˈaɪ/",
+      "us": "/ˈʃæŋˈhaɪ/"
+    },
     "translations": [
       {
         "type": "n",
@@ -7138,6 +8358,10 @@
   },
   {
     "word": "Guangzhou",
+    "phonetics": {
+      "uk": "/ˈɡwæŋˌzu/",
+      "us": "/ˈɡwæŋˌzu/"
+    },
     "translations": [
       {
         "type": "n",
@@ -7157,6 +8381,10 @@
   },
   {
     "word": "Shenzhen",
+    "phonetics": {
+      "uk": "/ˈʃɛnˌʒɛn/",
+      "us": "/ˈʃɛnˌʒɛn/"
+    },
     "translations": [
       {
         "type": "n",
@@ -7176,6 +8404,10 @@
   },
   {
     "word": "Hong Kong",
+    "phonetics": {
+      "uk": "/ˌhɒŋ ˈkɒŋ/",
+      "us": "/ˌhɔːŋ ˈkɔːŋ/"
+    },
     "translations": [
       {
         "type": "n",
@@ -7201,6 +8433,10 @@
   },
   {
     "word": "Macau",
+    "phonetics": {
+      "uk": "/məˈkaʊ/",
+      "us": "/məˈkaʊ/"
+    },
     "translations": [
       {
         "type": "n",
@@ -7220,6 +8456,10 @@
   },
   {
     "word": "Tokyo",
+    "phonetics": {
+      "uk": "/ˈtoʊkiˌoʊ/",
+      "us": "/ˈtoʊkiˌoʊ/"
+    },
     "translations": [
       {
         "type": "n",
@@ -7239,6 +8479,10 @@
   },
   {
     "word": "Osaka",
+    "phonetics": {
+      "uk": "/oʊˈsɑkə/",
+      "us": "/oʊˈsɑkə/"
+    },
     "translations": [
       {
         "type": "n",
@@ -7258,6 +8502,10 @@
   },
   {
     "word": "Kyoto",
+    "phonetics": {
+      "uk": "/ˈkjoʊtoʊ/",
+      "us": "/ˈkjoʊtoʊ/"
+    },
     "translations": [
       {
         "type": "n",
@@ -7277,6 +8525,10 @@
   },
   {
     "word": "Yokohama",
+    "phonetics": {
+      "uk": "/ˌjoʊkəˈhɑmə/",
+      "us": "/ˌjoʊkəˈhɑmə/"
+    },
     "translations": [
       {
         "type": "n",
@@ -7296,6 +8548,10 @@
   },
   {
     "word": "Nagoya",
+    "phonetics": {
+      "uk": "/nəˈɡɔɪə/",
+      "us": "/nəˈɡɔɪə/"
+    },
     "translations": [
       {
         "type": "n",
@@ -7315,6 +8571,10 @@
   },
   {
     "word": "Seoul",
+    "phonetics": {
+      "uk": "/ˈsoʊɫ/",
+      "us": "/ˈsoʊɫ/"
+    },
     "translations": [
       {
         "type": "n",
@@ -7334,6 +8594,10 @@
   },
   {
     "word": "Busan",
+    "phonetics": {
+      "uk": "/ˈbuːsɑːn/",
+      "us": "/ˈbuːsɑːn/"
+    },
     "translations": [
       {
         "type": "n",
@@ -7353,6 +8617,10 @@
   },
   {
     "word": "Pyongyang",
+    "phonetics": {
+      "uk": "/ˈpjɔŋˈjæŋ/",
+      "us": "/ˈpjɔŋˈjæŋ/"
+    },
     "translations": [
       {
         "type": "n",
@@ -7372,6 +8640,10 @@
   },
   {
     "word": "Bangkok",
+    "phonetics": {
+      "uk": "/ˈbæŋkɑk/",
+      "us": "/ˈbæŋkɑk/"
+    },
     "translations": [
       {
         "type": "n",
@@ -7391,6 +8663,10 @@
   },
   {
     "word": "Chiang Mai",
+    "phonetics": {
+      "uk": "/ˈtʃæŋ ˈmaɪ/",
+      "us": "/ˈtʃæŋ ˈmaɪ/"
+    },
     "translations": [
       {
         "type": "n",
@@ -7410,6 +8686,10 @@
   },
   {
     "word": "Hanoi",
+    "phonetics": {
+      "uk": "/ˈhænɔɪ/",
+      "us": "/ˈhænɔɪ/"
+    },
     "translations": [
       {
         "type": "n",
@@ -7429,6 +8709,10 @@
   },
   {
     "word": "Ho Chi Minh City",
+    "phonetics": {
+      "uk": "/ˌhəʊ tʃiː ˈmɪn ˈsɪti/",
+      "us": "/ˌhoʊ tʃiː ˈmɪn ˈsɪti/"
+    },
     "translations": [
       {
         "type": "n",
@@ -7454,6 +8738,10 @@
   },
   {
     "word": "Da Nang",
+    "phonetics": {
+      "uk": "/ˈdɑ ˈnæŋ/",
+      "us": "/ˈdɑ ˈnæŋ/"
+    },
     "translations": [
       {
         "type": "n",
@@ -7473,6 +8761,10 @@
   },
   {
     "word": "Phnom Penh",
+    "phonetics": {
+      "uk": "/ˈfnɑm ˈpɛn/",
+      "us": "/ˈfnɑm ˈpɛn/"
+    },
     "translations": [
       {
         "type": "n",
@@ -7492,6 +8784,10 @@
   },
   {
     "word": "Siem Reap",
+    "phonetics": {
+      "uk": "/ˈsim ˈɹip/",
+      "us": "/ˈsim ˈɹip/"
+    },
     "translations": [
       {
         "type": "n",
@@ -7511,6 +8807,10 @@
   },
   {
     "word": "Vientiane",
+    "phonetics": {
+      "uk": "/viˌɛntiˈɑːn/",
+      "us": "/viˌɛntiˈɑːn/"
+    },
     "translations": [
       {
         "type": "n",
@@ -7530,6 +8830,10 @@
   },
   {
     "word": "Yangon",
+    "phonetics": {
+      "uk": "/jæŋˈɡɒn/",
+      "us": "/jæŋˈɡɑːn/"
+    },
     "translations": [
       {
         "type": "n",
@@ -7549,6 +8853,10 @@
   },
   {
     "word": "Mandalay",
+    "phonetics": {
+      "uk": "/ˈmændəˌɫeɪ/",
+      "us": "/ˈmændəˌɫeɪ/"
+    },
     "translations": [
       {
         "type": "n",
@@ -7568,6 +8876,10 @@
   },
   {
     "word": "Naypyidaw",
+    "phonetics": {
+      "uk": "/ˌneɪpiːˈdɔː/",
+      "us": "/ˌneɪpiːˈdɔː/"
+    },
     "translations": [
       {
         "type": "n",
@@ -7587,6 +8899,10 @@
   },
   {
     "word": "Kuala Lumpur",
+    "phonetics": {
+      "uk": "/ˌkwɑːlə ˈlʊmpʊə/",
+      "us": "/ˌkwɑːlə ˈlʊmpʊr/"
+    },
     "translations": [
       {
         "type": "n",
@@ -7612,6 +8928,10 @@
   },
   {
     "word": "George Town",
+    "phonetics": {
+      "uk": "/ˈdʒɔɹdʒ ˈtaʊn/",
+      "us": "/ˈdʒɔɹdʒ ˈtaʊn/"
+    },
     "translations": [
       {
         "type": "n",
@@ -7631,6 +8951,10 @@
   },
   {
     "word": "Jakarta",
+    "phonetics": {
+      "uk": "/dʒəˈkɑɹtə/",
+      "us": "/dʒəˈkɑɹtə/"
+    },
     "translations": [
       {
         "type": "n",
@@ -7650,6 +8974,10 @@
   },
   {
     "word": "Surabaya",
+    "phonetics": {
+      "uk": "/ˌsʊrəˈbaɪə/",
+      "us": "/ˌsʊrəˈbaɪə/"
+    },
     "translations": [
       {
         "type": "n",
@@ -7669,6 +8997,10 @@
   },
   {
     "word": "Bandung",
+    "phonetics": {
+      "uk": "/ˈbɑːndʊŋ/",
+      "us": "/ˈbɑːndʊŋ/"
+    },
     "translations": [
       {
         "type": "n",
@@ -7688,6 +9020,10 @@
   },
   {
     "word": "Denpasar",
+    "phonetics": {
+      "uk": "/dɛnˈpɑːsɑː/",
+      "us": "/dɛnˈpɑːsɑːr/"
+    },
     "translations": [
       {
         "type": "n",
@@ -7707,6 +9043,10 @@
   },
   {
     "word": "Manila",
+    "phonetics": {
+      "uk": "/məˈnɪɫə/",
+      "us": "/məˈnɪɫə/"
+    },
     "translations": [
       {
         "type": "n",
@@ -7726,6 +9066,10 @@
   },
   {
     "word": "Cebu City",
+    "phonetics": {
+      "uk": "/siˈbu ˈsɪti/",
+      "us": "/siˈbu ˈsɪti/"
+    },
     "translations": [
       {
         "type": "n",
@@ -7745,6 +9089,10 @@
   },
   {
     "word": "Davao City",
+    "phonetics": {
+      "uk": "/ˈdeɪvoʊ ˈsɪti/",
+      "us": "/ˈdeɪvoʊ ˈsɪti/"
+    },
     "translations": [
       {
         "type": "n",
@@ -7764,6 +9112,10 @@
   },
   {
     "word": "Taipei",
+    "phonetics": {
+      "uk": "/ˈtaɪˌpeɪ/",
+      "us": "/ˈtaɪˌpeɪ/"
+    },
     "translations": [
       {
         "type": "n",
@@ -7783,6 +9135,10 @@
   },
   {
     "word": "Kaohsiung",
+    "phonetics": {
+      "uk": "/ˌkeɪˈoʊsiəŋ/",
+      "us": "/ˌkeɪˈoʊsiəŋ/"
+    },
     "translations": [
       {
         "type": "n",
@@ -7802,6 +9158,10 @@
   },
   {
     "word": "Ulaanbaatar",
+    "phonetics": {
+      "uk": "/ˌjuˈɫɑnbəˈtɑɹ/",
+      "us": "/ˌjuˈɫɑnbəˈtɑɹ/"
+    },
     "translations": [
       {
         "type": "n",
@@ -7821,6 +9181,10 @@
   },
   {
     "word": "New Delhi",
+    "phonetics": {
+      "uk": "/ˌnjuː ˈdeli/",
+      "us": "/ˌnuː ˈdeli/"
+    },
     "translations": [
       {
         "type": "n",
@@ -7840,6 +9204,10 @@
   },
   {
     "word": "Mumbai",
+    "phonetics": {
+      "uk": "/ˌmʊmˈbaɪ/",
+      "us": "/ˌmʊmˈbaɪ/"
+    },
     "translations": [
       {
         "type": "n",
@@ -7859,6 +9227,10 @@
   },
   {
     "word": "Delhi",
+    "phonetics": {
+      "uk": "/ˈdɛɫi/",
+      "us": "/ˈdɛɫi/"
+    },
     "translations": [
       {
         "type": "n",
@@ -7878,6 +9250,10 @@
   },
   {
     "word": "Bengaluru",
+    "phonetics": {
+      "uk": "/ˌbɛŋɡəˈluːruː/",
+      "us": "/ˌbɛŋɡəˈluːruː/"
+    },
     "translations": [
       {
         "type": "n",
@@ -7903,6 +9279,10 @@
   },
   {
     "word": "Hyderabad",
+    "phonetics": {
+      "uk": "/ˈhaɪdɝəˌbæd/",
+      "us": "/ˈhaɪdɝəˌbæd/"
+    },
     "translations": [
       {
         "type": "n",
@@ -7922,6 +9302,10 @@
   },
   {
     "word": "Chennai",
+    "phonetics": {
+      "uk": "/ˈtʃɛˌnaɪ/",
+      "us": "/ˈtʃɛˌnaɪ/"
+    },
     "translations": [
       {
         "type": "n",
@@ -7947,6 +9331,10 @@
   },
   {
     "word": "Kolkata",
+    "phonetics": {
+      "uk": "/kɒlˈkɑːtə/",
+      "us": "/koʊlˈkɑːtə/"
+    },
     "translations": [
       {
         "type": "n",
@@ -7972,6 +9360,10 @@
   },
   {
     "word": "Pune",
+    "phonetics": {
+      "uk": "/ˈpuːnə/",
+      "us": "/ˈpuːnə/"
+    },
     "translations": [
       {
         "type": "n",
@@ -7991,6 +9383,10 @@
   },
   {
     "word": "Ahmedabad",
+    "phonetics": {
+      "uk": "/ˈɑːmədəbɑːd/",
+      "us": "/ˈɑːmədəbɑːd/"
+    },
     "translations": [
       {
         "type": "n",
@@ -8010,6 +9406,10 @@
   },
   {
     "word": "Dhaka",
+    "phonetics": {
+      "uk": "/ˈdækæ/",
+      "us": "/ˈdækæ/"
+    },
     "translations": [
       {
         "type": "n",
@@ -8029,6 +9429,10 @@
   },
   {
     "word": "Chittagong",
+    "phonetics": {
+      "uk": "/ˈtʃɪtəɡɒŋ/",
+      "us": "/ˈtʃɪtəɡɔːŋ/"
+    },
     "translations": [
       {
         "type": "n",
@@ -8048,6 +9452,10 @@
   },
   {
     "word": "Karachi",
+    "phonetics": {
+      "uk": "/kɑˈɹɑtʃi/",
+      "us": "/kɑˈɹɑtʃi/"
+    },
     "translations": [
       {
         "type": "n",
@@ -8067,6 +9475,10 @@
   },
   {
     "word": "Lahore",
+    "phonetics": {
+      "uk": "/ɫɑˈhɔɹ/",
+      "us": "/ɫɑˈhɔɹ/"
+    },
     "translations": [
       {
         "type": "n",
@@ -8086,6 +9498,10 @@
   },
   {
     "word": "Islamabad",
+    "phonetics": {
+      "uk": "/ˌɪsˈɫæməbæd/",
+      "us": "/ˌɪsˈɫæməbæd/"
+    },
     "translations": [
       {
         "type": "n",
@@ -8105,6 +9521,10 @@
   },
   {
     "word": "Colombo",
+    "phonetics": {
+      "uk": "/kəˈɫəmboʊ/",
+      "us": "/kəˈɫəmboʊ/"
+    },
     "translations": [
       {
         "type": "n",
@@ -8124,6 +9544,10 @@
   },
   {
     "word": "Kathmandu",
+    "phonetics": {
+      "uk": "/ˌkætmænˈduː/",
+      "us": "/ˌkætmænˈduː/"
+    },
     "translations": [
       {
         "type": "n",
@@ -8143,6 +9567,10 @@
   },
   {
     "word": "Thimphu",
+    "phonetics": {
+      "uk": "/ˈtɪmfuː/",
+      "us": "/ˈtɪmfuː/"
+    },
     "translations": [
       {
         "type": "n",
@@ -8162,6 +9590,10 @@
   },
   {
     "word": "Male",
+    "phonetics": {
+      "uk": "/mˈeɪl/",
+      "us": "/ˈmeɪɫ/"
+    },
     "translations": [
       {
         "type": "n",
@@ -8181,6 +9613,10 @@
   },
   {
     "word": "Kabul",
+    "phonetics": {
+      "uk": "/ˈkɑbʊɫ/",
+      "us": "/ˈkɑbʊɫ/"
+    },
     "translations": [
       {
         "type": "n",
@@ -8200,6 +9636,10 @@
   },
   {
     "word": "Tehran",
+    "phonetics": {
+      "uk": "/ˌteɪˈɹɑn/",
+      "us": "/ˌteɪˈɹɑn/"
+    },
     "translations": [
       {
         "type": "n",
@@ -8219,6 +9659,10 @@
   },
   {
     "word": "Mashhad",
+    "phonetics": {
+      "uk": "/mæʃˈhæd/",
+      "us": "/mæʃˈhæd/"
+    },
     "translations": [
       {
         "type": "n",
@@ -8238,6 +9682,10 @@
   },
   {
     "word": "Isfahan",
+    "phonetics": {
+      "uk": "/ˌɪsfəˈhɑːn/",
+      "us": "/ˌɪsfəˈhɑːn/"
+    },
     "translations": [
       {
         "type": "n",
@@ -8257,6 +9705,10 @@
   },
   {
     "word": "Baghdad",
+    "phonetics": {
+      "uk": "/ˈbæɡdæd/",
+      "us": "/ˈbæɡdæd/"
+    },
     "translations": [
       {
         "type": "n",
@@ -8276,6 +9728,10 @@
   },
   {
     "word": "Riyadh",
+    "phonetics": {
+      "uk": "/ɹiˈæd/",
+      "us": "/ɹiˈæd/"
+    },
     "translations": [
       {
         "type": "n",
@@ -8295,6 +9751,10 @@
   },
   {
     "word": "Jeddah",
+    "phonetics": {
+      "uk": "/ˈdʒɛdə/",
+      "us": "/ˈdʒɛdə/"
+    },
     "translations": [
       {
         "type": "n",
@@ -8314,6 +9774,10 @@
   },
   {
     "word": "Mecca",
+    "phonetics": {
+      "uk": "/mˈɛkɐ/",
+      "us": "/ˈmɛkə/"
+    },
     "translations": [
       {
         "type": "n",
@@ -8333,6 +9797,10 @@
   },
   {
     "word": "Medina",
+    "phonetics": {
+      "uk": "/məˈdaɪnə/",
+      "us": "/məˈdaɪnə/"
+    },
     "translations": [
       {
         "type": "n",
@@ -8352,6 +9820,10 @@
   },
   {
     "word": "Dubai",
+    "phonetics": {
+      "uk": "/duˈbaɪ/",
+      "us": "/duˈbaɪ/"
+    },
     "translations": [
       {
         "type": "n",
@@ -8371,6 +9843,10 @@
   },
   {
     "word": "Abu Dhabi",
+    "phonetics": {
+      "uk": "/ˌæbuː ˈdɑːbi/",
+      "us": "/ˌɑːbuː ˈdɑːbi/"
+    },
     "translations": [
       {
         "type": "n",
@@ -8390,6 +9866,10 @@
   },
   {
     "word": "Doha",
+    "phonetics": {
+      "uk": "/ˈdoʊˌhɑ/",
+      "us": "/ˈdoʊˌhɑ/"
+    },
     "translations": [
       {
         "type": "n",
@@ -8409,6 +9889,10 @@
   },
   {
     "word": "Kuwait City",
+    "phonetics": {
+      "uk": "/kuˈweɪt ˈsɪti/",
+      "us": "/kuˈweɪt ˈsɪti/"
+    },
     "translations": [
       {
         "type": "n",
@@ -8428,6 +9912,10 @@
   },
   {
     "word": "Manama",
+    "phonetics": {
+      "uk": "/ˈmænəmə/",
+      "us": "/ˈmænəmə/"
+    },
     "translations": [
       {
         "type": "n",
@@ -8447,6 +9935,10 @@
   },
   {
     "word": "Muscat",
+    "phonetics": {
+      "uk": "/mˈʌskæt/",
+      "us": "/ˈməskæt/"
+    },
     "translations": [
       {
         "type": "n",
@@ -8466,6 +9958,10 @@
   },
   {
     "word": "Tel Aviv",
+    "phonetics": {
+      "uk": "/ˌtel əˈviːv/",
+      "us": "/ˌtel əˈviːv/"
+    },
     "translations": [
       {
         "type": "n",
@@ -8485,6 +9981,10 @@
   },
   {
     "word": "Jerusalem",
+    "phonetics": {
+      "uk": "/dʒɝˈusəɫəm/",
+      "us": "/dʒɝˈusəɫəm/"
+    },
     "translations": [
       {
         "type": "n",
@@ -8504,6 +10004,10 @@
   },
   {
     "word": "Amman",
+    "phonetics": {
+      "uk": "/ˈæmən/",
+      "us": "/ˈæmən/"
+    },
     "translations": [
       {
         "type": "n",
@@ -8523,6 +10027,10 @@
   },
   {
     "word": "Beirut",
+    "phonetics": {
+      "uk": "/beɪˈɹut/",
+      "us": "/beɪˈɹut/"
+    },
     "translations": [
       {
         "type": "n",
@@ -8542,6 +10050,10 @@
   },
   {
     "word": "Damascus",
+    "phonetics": {
+      "uk": "/dəˈmæskəs/",
+      "us": "/dəˈmæskəs/"
+    },
     "translations": [
       {
         "type": "n",
@@ -8561,6 +10073,10 @@
   },
   {
     "word": "Tbilisi",
+    "phonetics": {
+      "uk": "/təˈbɫisi/",
+      "us": "/təˈbɫisi/"
+    },
     "translations": [
       {
         "type": "n",
@@ -8580,6 +10096,10 @@
   },
   {
     "word": "Yerevan",
+    "phonetics": {
+      "uk": "/ˈjɛɹəvən/",
+      "us": "/ˈjɛɹəvən/"
+    },
     "translations": [
       {
         "type": "n",
@@ -8599,6 +10119,10 @@
   },
   {
     "word": "Baku",
+    "phonetics": {
+      "uk": "/bɑˈku/",
+      "us": "/bɑˈku/"
+    },
     "translations": [
       {
         "type": "n",
@@ -8618,6 +10142,10 @@
   },
   {
     "word": "Astana",
+    "phonetics": {
+      "uk": "/əˈstɑːnə/",
+      "us": "/əˈstɑːnə/"
+    },
     "translations": [
       {
         "type": "n",
@@ -8637,6 +10165,10 @@
   },
   {
     "word": "Almaty",
+    "phonetics": {
+      "uk": "/ˌɑˈmɑˌti/",
+      "us": "/ˌɑˈmɑˌti/"
+    },
     "translations": [
       {
         "type": "n",
@@ -8656,6 +10188,10 @@
   },
   {
     "word": "Tashkent",
+    "phonetics": {
+      "uk": "/ˌtæʃˈkɛnt/",
+      "us": "/ˌtæʃˈkɛnt/"
+    },
     "translations": [
       {
         "type": "n",
@@ -8675,6 +10211,10 @@
   },
   {
     "word": "Samarkand",
+    "phonetics": {
+      "uk": "/ˈsæmɑɹˌkænd/",
+      "us": "/ˈsæmɑɹˌkænd/"
+    },
     "translations": [
       {
         "type": "n",
@@ -8694,6 +10234,10 @@
   },
   {
     "word": "Bishkek",
+    "phonetics": {
+      "uk": "/bɪʃˈkɛk/",
+      "us": "/bɪʃˈkɛk/"
+    },
     "translations": [
       {
         "type": "n",
@@ -8713,6 +10257,10 @@
   },
   {
     "word": "Dushanbe",
+    "phonetics": {
+      "uk": "/duːˈʃɑːnbeɪ/",
+      "us": "/duːˈʃɑːnbeɪ/"
+    },
     "translations": [
       {
         "type": "n",
@@ -8732,6 +10280,10 @@
   },
   {
     "word": "Ashgabat",
+    "phonetics": {
+      "uk": "/ˌæʃɡəˈbæt/",
+      "us": "/ˌæʃɡəˈbæt/"
+    },
     "translations": [
       {
         "type": "n",
@@ -8751,6 +10303,10 @@
   },
   {
     "word": "Cairo",
+    "phonetics": {
+      "uk": "/ˈkaɪɹoʊ/",
+      "us": "/ˈkaɪɹoʊ/"
+    },
     "translations": [
       {
         "type": "n",
@@ -8770,6 +10326,10 @@
   },
   {
     "word": "Alexandria",
+    "phonetics": {
+      "uk": "/ˌæɫəɡˈzændɹiə/",
+      "us": "/ˌæɫəɡˈzændɹiə/"
+    },
     "translations": [
       {
         "type": "n",
@@ -8789,6 +10349,10 @@
   },
   {
     "word": "Lagos",
+    "phonetics": {
+      "uk": "/ˈɫeɪɡɔs/",
+      "us": "/ˈɫeɪɡɔs/"
+    },
     "translations": [
       {
         "type": "n",
@@ -8808,6 +10372,10 @@
   },
   {
     "word": "Abuja",
+    "phonetics": {
+      "uk": "/əˈbuːdʒə/",
+      "us": "/əˈbuːdʒə/"
+    },
     "translations": [
       {
         "type": "n",
@@ -8827,6 +10395,10 @@
   },
   {
     "word": "Kano",
+    "phonetics": {
+      "uk": "/ˈkɑnoʊ/",
+      "us": "/ˈkɑnoʊ/"
+    },
     "translations": [
       {
         "type": "n",
@@ -8846,6 +10418,10 @@
   },
   {
     "word": "Accra",
+    "phonetics": {
+      "uk": "/ˈɑˌkɹɑ/",
+      "us": "/ˈɑˌkɹɑ/"
+    },
     "translations": [
       {
         "type": "n",
@@ -8865,6 +10441,10 @@
   },
   {
     "word": "Abidjan",
+    "phonetics": {
+      "uk": "/æbɪˈdʒɑn/",
+      "us": "/æbɪˈdʒɑn/"
+    },
     "translations": [
       {
         "type": "n",
@@ -8884,6 +10464,10 @@
   },
   {
     "word": "Dakar",
+    "phonetics": {
+      "uk": "/dɑˈkɑɹ/",
+      "us": "/dɑˈkɑɹ/"
+    },
     "translations": [
       {
         "type": "n",
@@ -8903,6 +10487,10 @@
   },
   {
     "word": "Bamako",
+    "phonetics": {
+      "uk": "/ˈbæməkoʊ/",
+      "us": "/ˈbæməkoʊ/"
+    },
     "translations": [
       {
         "type": "n",
@@ -8922,6 +10510,10 @@
   },
   {
     "word": "Conakry",
+    "phonetics": {
+      "uk": "/ˈkɒnəkri/",
+      "us": "/ˈkɑːnəkri/"
+    },
     "translations": [
       {
         "type": "n",
@@ -8941,6 +10533,10 @@
   },
   {
     "word": "Freetown",
+    "phonetics": {
+      "uk": "/ˈfɹiˌtaʊn/",
+      "us": "/ˈfɹiˌtaʊn/"
+    },
     "translations": [
       {
         "type": "n",
@@ -8960,6 +10556,10 @@
   },
   {
     "word": "Monrovia",
+    "phonetics": {
+      "uk": "/ˌmɑnˈɹoʊviə/",
+      "us": "/ˌmɑnˈɹoʊviə/"
+    },
     "translations": [
       {
         "type": "n",
@@ -8979,6 +10579,10 @@
   },
   {
     "word": "Casablanca",
+    "phonetics": {
+      "uk": "/ˌkæsəˈbɫæŋkə/",
+      "us": "/ˌkæsəˈbɫæŋkə/"
+    },
     "translations": [
       {
         "type": "n",
@@ -8998,6 +10602,10 @@
   },
   {
     "word": "Rabat",
+    "phonetics": {
+      "uk": "/rəˈbɑːt/",
+      "us": "/rəˈbɑːt/"
+    },
     "translations": [
       {
         "type": "n",
@@ -9017,6 +10625,10 @@
   },
   {
     "word": "Marrakesh",
+    "phonetics": {
+      "uk": "/ˌmærəˈkɛʃ/",
+      "us": "/ˌmærəˈkɛʃ/"
+    },
     "translations": [
       {
         "type": "n",
@@ -9036,6 +10648,10 @@
   },
   {
     "word": "Algiers",
+    "phonetics": {
+      "uk": "/æɫˈdʒɪɹz/",
+      "us": "/æɫˈdʒɪɹz/"
+    },
     "translations": [
       {
         "type": "n",
@@ -9055,6 +10671,10 @@
   },
   {
     "word": "Tunis",
+    "phonetics": {
+      "uk": "/ˈtunɪs/",
+      "us": "/ˈtunɪs/"
+    },
     "translations": [
       {
         "type": "n",
@@ -9074,6 +10694,10 @@
   },
   {
     "word": "Tripoli",
+    "phonetics": {
+      "uk": "/tɹˈɪpəlˌi/",
+      "us": "/ˈtɹɪpəɫi/"
+    },
     "translations": [
       {
         "type": "n",
@@ -9093,6 +10717,10 @@
   },
   {
     "word": "Khartoum",
+    "phonetics": {
+      "uk": "/ˌkɑɹˈtum/",
+      "us": "/ˌkɑɹˈtum/"
+    },
     "translations": [
       {
         "type": "n",
@@ -9112,6 +10740,10 @@
   },
   {
     "word": "Addis Ababa",
+    "phonetics": {
+      "uk": "/ˌædɪs ˈæbəbə/",
+      "us": "/ˌædɪs ˈæbəbə/"
+    },
     "translations": [
       {
         "type": "n",
@@ -9131,6 +10763,10 @@
   },
   {
     "word": "Nairobi",
+    "phonetics": {
+      "uk": "/ˌnaɪˈɹoʊbi/",
+      "us": "/ˌnaɪˈɹoʊbi/"
+    },
     "translations": [
       {
         "type": "n",
@@ -9150,6 +10786,10 @@
   },
   {
     "word": "Mombasa",
+    "phonetics": {
+      "uk": "/mɑmˈbɑsə/",
+      "us": "/mɑmˈbɑsə/"
+    },
     "translations": [
       {
         "type": "n",
@@ -9169,6 +10809,10 @@
   },
   {
     "word": "Kampala",
+    "phonetics": {
+      "uk": "/kəmˈpɑɫə/",
+      "us": "/kəmˈpɑɫə/"
+    },
     "translations": [
       {
         "type": "n",
@@ -9188,6 +10832,10 @@
   },
   {
     "word": "Kigali",
+    "phonetics": {
+      "uk": "/kiˈɡɑɫi/",
+      "us": "/kiˈɡɑɫi/"
+    },
     "translations": [
       {
         "type": "n",
@@ -9207,6 +10855,10 @@
   },
   {
     "word": "Dar es Salaam",
+    "phonetics": {
+      "uk": "/ˌdɑːr ɛs səˈlɑːm/",
+      "us": "/ˌdɑːr ɛs səˈlɑːm/"
+    },
     "translations": [
       {
         "type": "n",
@@ -9226,6 +10878,10 @@
   },
   {
     "word": "Dodoma",
+    "phonetics": {
+      "uk": "/doʊˈdoʊmə/",
+      "us": "/doʊˈdoʊmə/"
+    },
     "translations": [
       {
         "type": "n",
@@ -9245,6 +10901,10 @@
   },
   {
     "word": "Zanzibar City",
+    "phonetics": {
+      "uk": "/ˈzænzəˌbɑɹ ˈsɪti/",
+      "us": "/ˈzænzəˌbɑɹ ˈsɪti/"
+    },
     "translations": [
       {
         "type": "n",
@@ -9264,6 +10924,10 @@
   },
   {
     "word": "Lusaka",
+    "phonetics": {
+      "uk": "/ɫuˈsɑkə/",
+      "us": "/ɫuˈsɑkə/"
+    },
     "translations": [
       {
         "type": "n",
@@ -9283,6 +10947,10 @@
   },
   {
     "word": "Harare",
+    "phonetics": {
+      "uk": "/hɝˈɑɹi/",
+      "us": "/hɝˈɑɹi/"
+    },
     "translations": [
       {
         "type": "n",
@@ -9302,6 +10970,10 @@
   },
   {
     "word": "Maputo",
+    "phonetics": {
+      "uk": "/məˈputoʊ/",
+      "us": "/məˈputoʊ/"
+    },
     "translations": [
       {
         "type": "n",
@@ -9321,6 +10993,10 @@
   },
   {
     "word": "Johannesburg",
+    "phonetics": {
+      "uk": "/ˌdʒoʊˈhænɪsbɝɡ/",
+      "us": "/ˌdʒoʊˈhænɪsbɝɡ/"
+    },
     "translations": [
       {
         "type": "n",
@@ -9346,6 +11022,10 @@
   },
   {
     "word": "Cape Town",
+    "phonetics": {
+      "uk": "/ˌkeɪp ˈtaʊn/",
+      "us": "/ˌkeɪp ˈtaʊn/"
+    },
     "translations": [
       {
         "type": "n",
@@ -9365,6 +11045,10 @@
   },
   {
     "word": "Pretoria",
+    "phonetics": {
+      "uk": "/pɹiˈtɔɹiə/",
+      "us": "/pɹiˈtɔɹiə/"
+    },
     "translations": [
       {
         "type": "n",
@@ -9384,6 +11068,10 @@
   },
   {
     "word": "Durban",
+    "phonetics": {
+      "uk": "/ˈdɝbən/",
+      "us": "/ˈdɝbən/"
+    },
     "translations": [
       {
         "type": "n",
@@ -9403,6 +11091,10 @@
   },
   {
     "word": "Gaborone",
+    "phonetics": {
+      "uk": "/ˌɡæbəˈroʊni/",
+      "us": "/ˌɡæbəˈroʊni/"
+    },
     "translations": [
       {
         "type": "n",
@@ -9422,6 +11114,10 @@
   },
   {
     "word": "Windhoek",
+    "phonetics": {
+      "uk": "/ˈwɪndˌhoʊk/",
+      "us": "/ˈwɪndˌhoʊk/"
+    },
     "translations": [
       {
         "type": "n",
@@ -9441,6 +11137,10 @@
   },
   {
     "word": "Luanda",
+    "phonetics": {
+      "uk": "/ɫuˈɑndə/",
+      "us": "/ɫuˈɑndə/"
+    },
     "translations": [
       {
         "type": "n",
@@ -9460,6 +11160,10 @@
   },
   {
     "word": "Kinshasa",
+    "phonetics": {
+      "uk": "/kɪnˈʃæsə/",
+      "us": "/kɪnˈʃæsə/"
+    },
     "translations": [
       {
         "type": "n",
@@ -9479,6 +11183,10 @@
   },
   {
     "word": "Brazzaville",
+    "phonetics": {
+      "uk": "/ˈbɹæzəvɪɫ/",
+      "us": "/ˈbɹæzəvɪɫ/"
+    },
     "translations": [
       {
         "type": "n",
@@ -9498,6 +11206,10 @@
   },
   {
     "word": "Yaounde",
+    "phonetics": {
+      "uk": "/jɑːˈuːndeɪ/",
+      "us": "/jɑːˈuːndeɪ/"
+    },
     "translations": [
       {
         "type": "n",
@@ -9517,6 +11229,10 @@
   },
   {
     "word": "Douala",
+    "phonetics": {
+      "uk": "/duːˈɑːlə/",
+      "us": "/duːˈɑːlə/"
+    },
     "translations": [
       {
         "type": "n",
@@ -9536,6 +11252,10 @@
   },
   {
     "word": "Antananarivo",
+    "phonetics": {
+      "uk": "/ˌæntənænəˈriːvəʊ/",
+      "us": "/ˌæntənænəˈriːvoʊ/"
+    },
     "translations": [
       {
         "type": "n",
@@ -9555,6 +11275,10 @@
   },
   {
     "word": "Port Louis",
+    "phonetics": {
+      "uk": "/ˌpɔːt ˈluːi/",
+      "us": "/ˌpɔːrt ˈluːi/"
+    },
     "translations": [
       {
         "type": "n",
@@ -9574,6 +11298,10 @@
   },
   {
     "word": "Mogadishu",
+    "phonetics": {
+      "uk": "/ˌmoʊɡəˈdiˌʃu/",
+      "us": "/ˌmoʊɡəˈdiˌʃu/"
+    },
     "translations": [
       {
         "type": "n",
@@ -9593,6 +11321,10 @@
   },
   {
     "word": "Sydney",
+    "phonetics": {
+      "uk": "/ˈsɪdni/",
+      "us": "/ˈsɪdni/"
+    },
     "translations": [
       {
         "type": "n",
@@ -9612,6 +11344,10 @@
   },
   {
     "word": "Melbourne",
+    "phonetics": {
+      "uk": "/ˈmɛɫbɝn/",
+      "us": "/ˈmɛɫbɝn/"
+    },
     "translations": [
       {
         "type": "n",
@@ -9631,6 +11367,10 @@
   },
   {
     "word": "Brisbane",
+    "phonetics": {
+      "uk": "/ˈbɹɪzˌbeɪn/",
+      "us": "/ˈbɹɪzˌbeɪn/"
+    },
     "translations": [
       {
         "type": "n",
@@ -9650,6 +11390,10 @@
   },
   {
     "word": "Perth",
+    "phonetics": {
+      "uk": "/ˈpɝθ/",
+      "us": "/ˈpɝθ/"
+    },
     "translations": [
       {
         "type": "n",
@@ -9669,6 +11413,10 @@
   },
   {
     "word": "Adelaide",
+    "phonetics": {
+      "uk": "/ˈædəˌɫeɪd/",
+      "us": "/ˈædəˌɫeɪd/"
+    },
     "translations": [
       {
         "type": "n",
@@ -9688,6 +11436,10 @@
   },
   {
     "word": "Canberra",
+    "phonetics": {
+      "uk": "/ˌkænˈbɛɹə/",
+      "us": "/ˌkænˈbɛɹə/"
+    },
     "translations": [
       {
         "type": "n",
@@ -9707,6 +11459,10 @@
   },
   {
     "word": "Auckland",
+    "phonetics": {
+      "uk": "/ˈɑkɫənd/",
+      "us": "/ˈɑkɫənd/"
+    },
     "translations": [
       {
         "type": "n",
@@ -9726,6 +11482,10 @@
   },
   {
     "word": "Wellington",
+    "phonetics": {
+      "uk": "/wˈɛlɪŋtən/",
+      "us": "/ˈwɛɫɪŋtən/"
+    },
     "translations": [
       {
         "type": "n",
@@ -9745,6 +11505,10 @@
   },
   {
     "word": "Christchurch",
+    "phonetics": {
+      "uk": "/ˈkɹaɪsttʃɝtʃ/",
+      "us": "/ˈkɹaɪsttʃɝtʃ/"
+    },
     "translations": [
       {
         "type": "n",
@@ -9764,6 +11528,10 @@
   },
   {
     "word": "Suva",
+    "phonetics": {
+      "uk": "/ˈsuvə/",
+      "us": "/ˈsuvə/"
+    },
     "translations": [
       {
         "type": "n",
@@ -9783,6 +11551,10 @@
   },
   {
     "word": "Port Moresby",
+    "phonetics": {
+      "uk": "/pɔːt ˈmɔːzbi/",
+      "us": "/pɔːrt ˈmɔːrzbi/"
+    },
     "translations": [
       {
         "type": "n",
@@ -9802,6 +11574,10 @@
   },
   {
     "word": "Honiara",
+    "phonetics": {
+      "uk": "/ˌhəʊniˈɑːrə/",
+      "us": "/ˌhoʊniˈɑːrə/"
+    },
     "translations": [
       {
         "type": "n",
@@ -9821,6 +11597,10 @@
   },
   {
     "word": "Apia",
+    "phonetics": {
+      "uk": "/ˈɑpɪˌɑ/",
+      "us": "/ˈɑpɪˌɑ/"
+    },
     "translations": [
       {
         "type": "n",
@@ -9840,6 +11620,10 @@
   },
   {
     "word": "Port Vila",
+    "phonetics": {
+      "uk": "/ˌpɔːt ˈviːlə/",
+      "us": "/ˌpɔːrt ˈviːlə/"
+    },
     "translations": [
       {
         "type": "n",
