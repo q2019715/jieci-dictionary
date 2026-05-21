@@ -25,7 +25,7 @@
     ],
     "sentence_examples": [
       {
-        "en": "And though pow’r fail’d, her Courage did accrue",
+        "en": "And though power failed, her Courage did accrue",
         "zh": "尽管力量衰退，她的勇气却在不断增长。"
       },
       {
