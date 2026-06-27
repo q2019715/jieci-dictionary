@@ -77,20 +77,55 @@ sync_s3:
         i=$((i + 1))
       done
 
-deploy_prod:
+deploy_r2:
   stage: deploy
-  tags: [web]   # 没有 tag 就删掉这一行
+  image:
+    name: public.ecr.aws/aws-cli/aws-cli:latest
+    entrypoint: [""]
+  tags: [docker]
   resource_group: prod_deploy
   needs: ["sync_s3"]
   rules:
     - if: '$CI_PIPELINE_SOURCE == "push" && $CI_COMMIT_BRANCH == "main"'
   script:
     - set -euo pipefail
-    - set -x
+
+    - test -n "$R2_ACCESS_KEY_ID"
+    - test -n "$R2_SECRET_ACCESS_KEY"
+    - test -n "$R2_BUCKET"
+    - test -n "$R2_ENDPOINT"
+
+    - export AWS_ACCESS_KEY_ID="$R2_ACCESS_KEY_ID"
+    - export AWS_SECRET_ACCESS_KEY="$R2_SECRET_ACCESS_KEY"
+    - export AWS_DEFAULT_REGION="auto"
+    - export AWS_REQUEST_CHECKSUM_CALCULATION="when_required"
+    - export AWS_RESPONSE_CHECKSUM_VALIDATION="when_required"
+
+    - aws configure set default.s3.addressing_style path
+
     - SRC="$CI_PROJECT_DIR/"
-    - DEST="/www/wwwroot/api.jieci.top/"
 
-    - test -d "$SRC"
-    - test -d "$DEST"
+    - aws s3 ls "s3://$R2_BUCKET" --endpoint-url "$R2_ENDPOINT"
 
-    - rsync -rlDv --delete-after --exclude='.git/'   --exclude='.well-known/'   --exclude='.user.ini'   "$SRC" "$DEST"
+    - |
+      i=1
+      while [ "$i" -le 3 ]; do
+        if aws s3 sync "$SRC" "s3://$R2_BUCKET/" \
+          --endpoint-url "$R2_ENDPOINT" \
+          --delete \
+          --exclude ".git/*" \
+          --exclude ".well-known/*" \
+          --exclude ".user.ini"; then
+          break
+        fi
+
+        if [ "$i" -eq 3 ]; then
+          echo "aws s3 sync to R2 failed after $i attempts"
+          exit 1
+        fi
+
+        wait_sec=$((i * 10))
+        echo "aws s3 sync to R2 attempt $i failed, retry in ${wait_sec}s..."
+        sleep "$wait_sec"
+        i=$((i + 1))
+      done
